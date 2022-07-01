@@ -1,0 +1,19 @@
+---
+cover: ../../.gitbook/assets/Untitled-1-01.png
+coverY: 0
+---
+
+# My Training (Admin)
+
+## My Training <a href="#kanchor35" id="kanchor35"></a>
+
+From the <mark style="color:blue;">**My Training**</mark> menu, you can view the sections and training plans. Sections are a collection of course assignments and the training plan is a group of sections. You can search for more trainings plans or sections, enroll a student for a section or a training plan, and can see the progress report for your enrollments. The following table provides the list of tabs of <mark style="color:blue;">**My Training (My Campus)**</mark> menu with their description:
+
+| Submenu                                                                                                                                      | Description                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">****</mark>[<mark style="color:blue;">**Enrollments**</mark>](enrollments.md)<mark style="color:blue;">****</mark> | <p>You can view, access, and drop a section. Also, you can view the training plans. Accessing a section allows you to view the Classroom.</p><p></p><p>For more information about NexPort Campus classroom, see <a href="../../student-documentation/student-reference/my-training-student/enrollments/classroom/"><mark style="color:blue;"><strong>Classroom</strong></mark></a>.</p> |
+| ****[**Find More Training**](find-more-training.md)****                                                                                      | You can enroll in additional sections.                                                                                                                                                                                                                                                                                                                                                  |
+| ****[**Progress Report**](progress-report.md)****                                                                                            | You can view your performance in a section. Also, you can view an existing list of active enrollment and unofficial transcript.                                                                                                                                                                                                                                                         |
+| ****[**Instructor**](instructor/)****                                                                                                        | Lets you search and access a section. You can view assignment list, manage assignment, and view gradebook. You can also view assignment status details and modify grades.                                                                                                                                                                                                               |
+
+#### © NexPort Solutions 2022. All Rights Reserved.
