@@ -8,7 +8,7 @@ Tests record student answers and can be used for grade contribution to a subject
 
 You can create single or multiple question banks, as well as multiple test types. Test types include single select, multi-select, or five-point scale question types.
 
-On the **Tests and Surveys** page, you can do the following:
+On the <mark style="color:blue;">**Tests and Surveys**</mark> page, you can do the following:
 
 {% content-ref url="view-and-search-test-and-survey-listing.md" %}
 [view-and-search-test-and-survey-listing.md](view-and-search-test-and-survey-listing.md)

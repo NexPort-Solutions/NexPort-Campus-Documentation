@@ -8,21 +8,21 @@ description: >-
 
 ## **To view test and survey listing**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Tests and Surveys**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Tests and Surveys**</mark>.
 
-Step 2:  The **Tests and Surveys** page is displayed. You can view the list of all tests and surveys.
+<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Tests and Surveys**</mark> page is displayed. You can view the list of all tests and surveys.
 
 ## **To search test and survey**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Tests and Surveys**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Tests and Surveys**</mark>.
 
-> The **Tests and Surveys** page is displayed.
+> The <mark style="color:blue;">**Tests and Surveys**</mark> page is displayed.
 
-Step 2:  In the **Search** box, type the first few characters of the test and survey name that you need to search.
+<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the test and survey name that you need to search.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Test\_and\_Surveys/TestandSurvey\_Search\_550x193.png)
 
-Step 3:  Click **Search**.
+<mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 
 > NexPort Campus populates matching results.
 
