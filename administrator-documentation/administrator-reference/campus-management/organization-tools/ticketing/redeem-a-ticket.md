@@ -9,13 +9,13 @@ description: >-
 
 ## **To redeem a ticket**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Ticketing**.  The **Ticketing** page is displayed.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Ticketing**</mark>.  The <mark style="color:blue;">**Ticketing**</mark> page is displayed.
 
-Step 2:  In the **Batch Name** column, click **Redemption Link** next to the batch name of the ticket that you need to redeem.
+<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Batch Name**</mark> column, click <mark style="color:blue;">**Redemption Link**</mark> next to the batch name of the ticket that you need to redeem.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Redeem\_Link\_550x139.png)
 
-Step 3:  In the **Redemption Code** box, type the redeem code.
+<mark style="color:blue;">**Step 3:**</mark> In the <mark style="color:blue;">**Redemption Code**</mark> box, type the redeem code.
 
 {% hint style="info" %}
 The redemption code is mentioned in the notification sent.
@@ -23,6 +23,6 @@ The redemption code is mentioned in the notification sent.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Redeem\_Code\_550x140.png)
 
-Step 4:  Click **Submit**.  The ticket is redeemed.
+<mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Submit**</mark>.  The ticket is redeemed.
 
 #### © NexPort Solutions 2022. All Rights Reserved.
