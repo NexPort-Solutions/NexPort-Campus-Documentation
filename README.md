@@ -11,6 +11,8 @@ layout: landing
 
 NexPort Campus is core component of the NexPort Learning Management Platform (NexPort). NexPort is a hosted learning and knowledge management platform that empowers its partners to become online providers/retailers of user-customized, on-demand training and education services with virtually no investment in infrastructure. NexPort Campus supports a variety of training and education paradigms. These include online instructor based training, self paced education or a blending of the two.
 
+***
+
 ## NexPort Campus features
 
 * A Shareable Content Object Reference Model (SCORM) compliant LMS
