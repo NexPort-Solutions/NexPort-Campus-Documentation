@@ -6,21 +6,21 @@ description: >-
 
 # Modify Ticket Batch details
 
-This section explains how you can update or modify the batch details, add tickets, and apply membership settings on the **Editing Ticket Batch** page. It also explains how you can search, download, and delete a ticket.
+This section explains how you can update or modify the batch details, add tickets, and apply membership settings on the <mark style="color:blue;">**Editing Ticket Batch**</mark> page. It also explains how you can search, download, and delete a ticket.
 
 ## **To modify ticket batch details**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Ticketing**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Ticketing**</mark>.
 
-> The **Ticketing** page is displayed.
+> The <mark style="color:blue;">**Ticketing**</mark> page is displayed.
 
-Step 2:  Click the **Batch Name** next to the ticket batch that you need to modify.
+<mark style="color:blue;">**Step 2:**</mark> Click the <mark style="color:blue;">**Batch Name**</mark> next to the ticket batch that you need to modify.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Edit\_Ticketing\_Link\_550x129.png)
 
-> The **Editing Ticket Batch <\<BatchName>>** page is displayed.
+> The <mark style="color:blue;">**Editing Ticket Batch <\<BatchName>>**</mark> page is displayed.
 
-Step 3:  Modify the values in the **Batch Details** tab, **Membership Settings** tab, and **Tickets** tab.
+<mark style="color:blue;">**Step 3:**</mark> Modify the values in the <mark style="color:blue;">**Batch Details**</mark> tab, <mark style="color:blue;">**Membership Settings**</mark> tab, and <mark style="color:blue;">**Tickets**</mark> tab.
 
 #### In this section you can do the following:
 

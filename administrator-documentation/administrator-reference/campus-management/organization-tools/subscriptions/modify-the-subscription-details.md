@@ -8,22 +8,22 @@ description: >-
 
 ## **To modify the subscriptions details**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Subscriptions**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Subscriptions**</mark>.
 
-> The **Subscriptions** page is displayed.
+> The <mark style="color:blue;">**Subscriptions**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscriptions\_Modify\_550x170.png)
 
-Step 2:  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the user whose subscription details you need to modify.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the user whose subscription details you need to modify.
 
-> The **Subscription Details** dialog box is displayed.
+> The <mark style="color:blue;">**Subscription Details**</mark> dialog box is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscription\_Details.png)
 
-Step 3:  Modify the values.
+<mark style="color:blue;">**Step 3:**</mark>  Modify the values.
 
-Step 4:  Click **Update**.
+<mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Update**</mark>.
 
-> The **Subscription Details** are updated and saved.
+> The <mark style="color:blue;">**Subscription Details**</mark> are updated and saved.
 
 #### © NexPort Solutions 2022. All Rights Reserved.
