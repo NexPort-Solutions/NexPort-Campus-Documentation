@@ -8,7 +8,7 @@ coverY: 0
 The assignment types in NexPort Campus include tests, surveys, courseware assignments, discussion board assignments, manually graded assignments, media assignments, quality assurance assignments, and/or swappable assignments for students.
 
 {% hint style="info" %}
-NexPort Campus supports use of math and scientific notation through <mark style="color:blue;">**MathJax**</mark>. It uses ASCIIMath, TeX, and LaTeX notations for its markup. For more information on <mark style="color:blue;">**MathJax**</mark>, see [mathjax.org](https://www.mathjax.org/).
+NexPort Campus supports use of math and scientific notation through <mark style="color:blue;">**MathJax**</mark>. It uses ASCIIMath, TeX, and LaTeX notations for its markup. For more information on <mark style="color:blue;">**MathJax**</mark>, see [mathjax.org](https://www.mathjax.org/) or visit the [mathjax-reference.md](../../../../../administrator-documentation/administrator-reference/mathjax-reference.md "mention")<mark style="color:blue;"></mark>
 {% endhint %}
 
 ## NexPort Campus supports the following assignment types

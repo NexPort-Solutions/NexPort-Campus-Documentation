@@ -35,7 +35,7 @@ The display in the training plan page is based on the categories that are set up
 
 <mark style="color:blue;">**Step 1:**</mark>  Prerequisites might be required to be fulfilled to complete a training plan.
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the above example, English 101 course is a prerequisite for the Math 101 course. You must complete the English 101 section before completing Math 101 section.
 

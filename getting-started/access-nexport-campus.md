@@ -43,17 +43,17 @@ If you have an active account on NexPort Campus and have forgotten your password
 
 <mark style="color:blue;">**Step 1:**</mark>  In a web browser, type the URL: [**nextportcampus.com**](https://nexportcampus.com)****
 
-![The LOGIN screen is displayed](<../.gitbook/assets/image (3).png>)
+![The LOGIN screen is displayed](<../.gitbook/assets/image (3) (1).png>)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**I cannot access my account**</mark> link and the <mark style="color:blue;">**Help**</mark> screen is displayed.
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Reset your password**</mark> link.
 
-![NexPort Campus Help Page](<../.gitbook/assets/image (4).png>)
+![NexPort Campus Help Page](<../.gitbook/assets/image (4) (1).png>)
 
 <mark style="color:blue;">**Step 4:**</mark>  When the <mark style="color:blue;">**I Forgot My Password**</mark> page is displayed type your username in the <mark style="color:blue;">**Login**</mark> box and the click the <mark style="color:blue;">**Continue**</mark> button.
 
-![The "I Forgot My Password" page](<../.gitbook/assets/image (1).png>)
+![The "I Forgot My Password" page](<../.gitbook/assets/image (1) (1).png>)
 
 {% hint style="danger" %}
 A notification is sent to your email ID with a link to reset your password. This link is valid only for the <mark style="color:red;">**next 24 hours**</mark>. **** When you change your password, the temporary password is no longer active. If you again forget your password, <mark style="color:red;">**you must repeat the above process**</mark>.
