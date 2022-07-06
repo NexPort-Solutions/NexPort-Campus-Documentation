@@ -6,21 +6,21 @@ description: You can delete an existing training plan from the NexPort Campus.
 
 ## **To delete a training plan**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Training Plans**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Training Plans**</mark>.
 
-> The **Training Plans** page is displayed.
+> The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlans\_Delete\_550x275.png)
 
-Step 2:  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the training plan that you need to delete.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the training plan that you need to delete.
 
-Step 3:  A confirmation dialog box is displayed with the, “Are you sure you would like to delete the training plan?” message.
+<mark style="color:blue;">**Step 3:**</mark>  A confirmation dialog box is displayed with the, “Are you sure you would like to delete the training plan?” message.
 
 {% hint style="info" %}
 If the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_Disabled\_29x27.png) icon is disabled, it means the training plan has enrollments and hence cannot be removed.
 {% endhint %}
 
-Step 4:  Click **Delete**.
+<mark style="color:blue;">**Step 4:**</mark> Click <mark style="color:blue;">**Delete**</mark>.
 
 > The selected training plan is deleted.
 
