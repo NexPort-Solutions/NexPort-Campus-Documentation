@@ -8,55 +8,55 @@ description: >-
 
 ## **To view training plan enrollment details**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Training Plans**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Training Plans**</mark>.
 
-> The **Training Plans** page is displayed.
+> The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlans\_Enroll\_550x275.png)
 
-Step 2:  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need to enroll.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need to enroll.
 
-> The **Enrollments** page is displayed. You can view the details about the name, status, enrollment date, and last activity of the enrollments.
+> The <mark style="color:blue;">**Enrollments**</mark> page is displayed. You can view the details about the name, status, enrollment date, and last activity of the enrollments.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlan\_Ernollment\_550x153.png)
 
 ## **To enroll a student**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Training Plans**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Training Plans**</mark>.
 
-> The **Training Plans** page is displayed.
+> The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
-Step 2:  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need students to enroll for.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need students to enroll for.
 
-> The **Enrollments** page is displayed.
+> The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
 
-Step 3:  Click the **Enroll a Student** tab.
+<mark style="color:blue;">**Step 3:**</mark> Click the <mark style="color:blue;">**Enroll a Student**</mark> tab.
 
-> The **Enroll a Student** page is displayed.
+> The <mark style="color:blue;">**Enroll a Student**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlan\_Enrollment\_Add\_550x224.png)
 
-Step 4:  Click **Enroll** next to the student you need to enroll to the training plan.
+<mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Enroll**</mark> next to the student you need to enroll to the training plan.
 
-> The new training plan enrollment detail is displayed in the **Enrollments** tab.
+> The new training plan enrollment detail is displayed in the <mark style="color:blue;">**Enrollments**</mark> tab.
 
 ## **To delete training plan enrollment**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Training Plans**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Training Plans**</mark>.
 
-> The **Training Plans** page is displayed.
+> The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
-Step 2:  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need students to enroll for.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need students to enroll for.
 
-> The **Enrollments** page is displayed.
+> The <mark style="color:blue;">**Enrollments**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlan\_Ernollment\_Remove\_550x153.png)
 
-Step 3:  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the enrollment you need to delete from the training plan.
+<mark style="color:blue;">**Step 3:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the enrollment you need to delete from the training plan.
 
-> A confirmation message, “Do you really want to delete the training plan enrollment for the \<student name>?” is displayed.
+> A confirmation message, _<mark style="color:red;background-color:yellow;">“Do you really want to delete the training plan enrollment for the \<student name>?”</mark>_ is displayed.
 
-Step 4:  Click **OK**.
+<mark style="color:blue;">**Step 4:**</mark> Click <mark style="color:blue;">**OK**</mark>.
 
 > The selected students training plan enrollment is deleted.
 
