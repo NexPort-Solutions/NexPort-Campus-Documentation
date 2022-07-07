@@ -8,15 +8,15 @@ description: >-
 
 ## **To view section enrollment listing**
 
-**Step 1:**  Click **Administration** > **Manage Users**.
+<mark style="color:blue;">**Step 1:**</mark>**  **  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-> The **User Listing** page is displayed.
+> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-**Step 2:**  Select a user to view the enrollment details.
+<mark style="color:blue;">**Step 2:**</mark>**  ** Select a user to view the enrollment details.
 
 > The user information page is displayed.
 
-**Step 3:**  Click the **Enrollments** > **Sections**.
+<mark style="color:blue;">**Step 3:**</mark>**  **  Click the <mark style="color:blue;">**Enrollments**</mark> > <mark style="color:blue;">**Sections**</mark>.
 
 > The list of sections enrollment is displayed.
 
@@ -24,21 +24,21 @@ description: >-
 
 ## **To search a section enrollment**
 
-**Step 1:**  Click **Administration** > **Manage Users**.
+<mark style="color:blue;">**Step 1:**</mark>**  **  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-> The **User Listing** page is displayed.
+> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-**Step 2:**  Select a user to search the enrollment details.
+<mark style="color:blue;">**Step 2:**</mark>**  **  Select a user to search the enrollment details.
 
 > The user information page is displayed.
 
-**Step 3:**  Click the **Enrollments** > **Sections**.
+<mark style="color:blue;">**Step 3:**</mark>**  **  Click the <mark style="color:blue;">**Enrollments**</mark> > <mark style="color:blue;">**Sections**</mark>.
 
-> In the **Search** box, type the first few characters of the section enrollment that you need to search.
+> In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the section enrollment that you need to search.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_Search\_550x105.png)
 
-**Step 4:**  Click **Search**.
+<mark style="color:blue;">**Step 4:**</mark>**  **  Click <mark style="color:blue;">**Search**</mark>.
 
 > NexPort Campus populates matching results.
 
