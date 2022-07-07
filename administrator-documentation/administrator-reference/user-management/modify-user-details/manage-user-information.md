@@ -20,14 +20,14 @@ You can update or modify the email, title, nickname, and owner organization of a
 
 The extended profile allows you to edit the values for custom profile fields defined by each organization the user has a subscription in.
 
-#### For more information about adding, modifying, and deleting custom profile fields, see:
+#### <mark style="color:blue;">For more information about adding, modifying, and deleting custom profile fields, see:</mark>
 
 {% content-ref url="../../campus-management/group-tools/customize/create-custom-profile-fields.md" %}
 [create-custom-profile-fields.md](../../campus-management/group-tools/customize/create-custom-profile-fields.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-For some users, the **Extended Profile** section is disabled, and this depends on the organization.
+For some users, the <mark style="color:blue;">**Extended Profile**</mark> section is disabled, and this depends on the organization.
 {% endhint %}
 
 ### Contact information <a href="#contact" id="contact"></a>
@@ -42,7 +42,7 @@ You can add a biography of the user. For example, in the Biography section, the 
 
 You can view and search subscription information. You can send emails to the subscriber and also modify or delete the subscription details.
 
-#### For more information about subscriptions, see:
+#### <mark style="color:blue;">For more information about subscriptions, see:</mark>
 
 {% content-ref url="../../campus-management/organization-tools/subscriptions/" %}
 [subscriptions](../../campus-management/organization-tools/subscriptions/)
@@ -50,9 +50,9 @@ You can view and search subscription information. You can send emails to the sub
 
 ## Memberships <a href="#membersh" id="membersh"></a>
 
-You can view the membership details such as the group, organization, membership creation date, and membership expiry date. You can use the **Search** filter to find specific membership details. You can also use the **Remove Membership** button to delete the memberships, if you have the permission to do so.
+You can view the membership details such as the group, organization, membership creation date, and membership expiry date. You can use the <mark style="color:blue;">**Search**</mark> filter to find specific membership details. You can also use the <mark style="color:blue;">**Remove Membership**</mark> button to delete the memberships, if you have the permission to do so.
 
-#### For more information about membership, see:
+#### <mark style="color:blue;">For more information about membership, see:</mark>
 
 {% content-ref url="../../campus-management/group-tools/memberships/" %}
 [memberships](../../campus-management/group-tools/memberships/)
@@ -64,7 +64,7 @@ You can view the membership details such as the group, organization, membership 
 
 You can view, add, modify, and delete an enrollment. Students can be enrolled in both [**Sections**](../manage-enrollments/section-enrollment/) and [**Training Plans**](../manage-enrollments/training-plan-enrollment/).
 
-#### For more information about section or training plan enrollment details, see:
+#### <mark style="color:blue;">For more information about section or training plan enrollment details, see:</mark>
 
 {% content-ref url="../manage-enrollments/" %}
 [manage-enrollments](../manage-enrollments/)
@@ -80,7 +80,7 @@ You can view the complete summary of all the courses a user has successfully com
 
 Displays all the roles that the user has within your campus.
 
-#### For more information about how to grant permissions, see:
+#### <mark style="color:blue;">For more information about how to grant permissions, see:</mark>
 
 {% content-ref url="../../campus-management/organization-tools/roles/" %}
 [roles](../../campus-management/organization-tools/roles/)
@@ -92,43 +92,43 @@ Displays all the roles that the user has within your campus.
 
 You can modify the login credentials and change a user’s password.
 
-#### **To modify login credentials and set passwords:**
+#### <mark style="color:blue;">**To modify login credentials and set passwords:**</mark>
 
-Step 1:  Click **Administration** > **Manage Users**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage**</mark>**  **<mark style="color:blue;">**Users**</mark>.
 
-The **User Listing** page is displayed.
+The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-Step 2:  Select a user to modify the user details.
+<mark style="color:blue;">**Step 2:**</mark>  Select a user to modify the user details.
 
 The user information page is displayed.
 
-Step 3:  Click the **Login Credentials** tab.
+<mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Login Credentials**</mark> tab.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Login\_Credentials\_550x77.png)
 
-Step 4:  In the **Credential Details** column, do the following:
+<mark style="color:blue;">**Step 4:**</mark> In the <mark style="color:blue;">**Credential Details**</mark> column, do the following:
 
-Step 4a:  Click **Login**.
+<mark style="color:blue;">**Step 4a:**</mark>  Click <mark style="color:blue;">**Login**</mark>.
 
-> The **Edit Login** dialog box is displayed.
+> The <mark style="color:blue;">**Edit Login**</mark> dialog box is displayed.
 
-Step 4b:  In the **Login** box, update the email ID, and then click OK.
+<mark style="color:blue;">**Step 4b:**</mark> In the <mark style="color:blue;">**Login**</mark> box, update the email ID, and then click OK.
 
-Step 4c:  Click **Password**.
+<mark style="color:blue;">**Step 4c:**</mark>  Click <mark style="color:blue;">**Password**</mark>.
 
-> The **Set Password** dialog box is displayed.
+> The <mark style="color:blue;">**Set Password**</mark> dialog box is displayed.
 
-Step 4d:  In the **Password** box, type the password, and then click **OK**.
+<mark style="color:blue;">**Step 4d:**</mark>  In the <mark style="color:blue;">**Password**</mark> box, type the password, and then click <mark style="color:blue;">**OK**</mark>.
 
 {% hint style="info" %}
-A **Permission Denied** warning dialog box is displayed, if you try to modify the login credentials and set password of users that you do not have permission to edit.
+A <mark style="color:blue;">**Permission Denied**</mark> warning dialog box is displayed, if you try to modify the login credentials and set password of users that you do not have permission to edit.
 {% endhint %}
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Permission\_Denied\_550x177.png)
 
 ## Communication Log <a href="#communic" id="communic"></a>
 
-You can keep a track of communication that occurs in an organization among various users (sender and recipient). On the **Communication Log** page, use the **Search** box to search a specific communication event. Also, you can click the **New** button to message the user. This creates a new communication log and places the message in their inbox.
+You can keep a track of communication that occurs in an organization among various users (sender and recipient). On the <mark style="color:blue;">**Communication Log**</mark> page, use the <mark style="color:blue;">**Search**</mark> box to search a specific communication event. Also, you can click the <mark style="color:blue;">**New**</mark> button to message the user. This creates a new communication log and places the message in their inbox.
 
 For more information about inbox notification, see:
 
@@ -138,35 +138,35 @@ For more information about inbox notification, see:
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Communication\_Log\_550x92.png)
 
-#### **To add a new communication event:**
+#### <mark style="color:blue;">**To add a new communication event:**</mark>
 
-Step 1:  Click **Administration** > **Manage Users**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-The **User Listing** page is displayed.
+The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-Step 2:  Select a user to modify the user details.
+<mark style="color:blue;">**Step 2:**</mark> Select a user to modify the user details.
 
 The user information page is displayed.
 
-Step 3:  Click **Communication Log** > **New**.
+<mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Communication Log**</mark> > <mark style="color:blue;">**New**</mark>.
 
-The **New Communication** dialog box is displayed.
+The <mark style="color:blue;">**New Communication**</mark> dialog box is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/New\_Communication.png)
 
-Step 4:  In the uppermost list, select an organization.
+<mark style="color:blue;">**Step 4:**</mark>  In the uppermost list, select an organization.
 
-Step 5:  In the **Select Topic** list, select a communication event topic.
+<mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Select Topic**</mark> list, select a communication event topic.
 
-> or Click **Add Topic**, to add a new communication event topic.
+> or Click <mark style="color:blue;">**Add Topic**</mark>, to add a new communication event topic.
 
-Step 6:  In the **Select Contact** list, enter the communication type used during a communication event.
+<mark style="color:blue;">**Step 6:**</mark> In the <mark style="color:blue;">**Select Contact**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> list, enter the communication type used during a communication event.
 
 > NexPort Campus supports the following communication types: Phone, Phone: Left Message, Phone: No Answer, Email, Instant Message, In Person, Letter, or other communication types.
 
-Step 7:  In the **Message** box, type a message related to the communication event.
+<mark style="color:blue;">**Step 7:**</mark> In the <mark style="color:blue;">**Message**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> box, type a message related to the communication event.
 
-Step 8:  Click **Save**.
+<mark style="color:blue;">**Step 8:**</mark>  Click <mark style="color:blue;">**Save**</mark>.
 
 > A new communication log is saved.
 
