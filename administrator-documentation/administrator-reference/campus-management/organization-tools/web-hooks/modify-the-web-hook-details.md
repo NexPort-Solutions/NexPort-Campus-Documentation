@@ -8,19 +8,19 @@ description: >-
 
 ## **To modify the web hook details**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Web Hooks**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Web Hooks**</mark>.
 
-> The **Web Hooks** page is displayed.
+> The <mark style="color:blue;">**Web Hooks**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooks\_Edit\_550x97.png)
 
-Step 2:  Click **Edit** next to the web hook that you need to modify.
+<mark style="color:blue;">**Step 2:**</mark> Click <mark style="color:blue;">**Edit**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> next to the web hook that you need to modify.
 
-> The **Manage Webhook Interface** dialog box is displayed.
+> The <mark style="color:blue;">**Manage Webhook Interface**</mark> dialog box is displayed.
 
-Step 3:  Modify the values.
+<mark style="color:blue;">**Step 3:**</mark> Modify the values.
 
-Step 4:  Click **Save**.
+<mark style="color:blue;">**Step 4:**</mark> Click <mark style="color:blue;">**Save**</mark>.
 
 > The web hook details are updated and saved.
 
