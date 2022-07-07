@@ -6,19 +6,19 @@ description: You can modify the values or fields of user details.
 
 ## **To modify the user details**
 
-Step 1:  Click **Administration** > **Manage Users**.
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-> The **User Listing** page is displayed. You can see the list of active users.
+> The <mark style="color:blue;">**User Listing**</mark> page is displayed. You can see the list of active users.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Modify\_UserDetails\_550x186.png)
 
-Step 2:  In the **Login** column, click the user name that you need to modify.
+<mark style="color:blue;">**Step 2:**</mark> In the <mark style="color:blue;">**Login**</mark> column, click the user name that you need to modify.
 
 > The user information page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Manage\_User\_Information\_550x308.png)
 
-Step 3:  Modify the various tabs.
+<mark style="color:blue;">**Step 3:**</mark> Modify the various tabs.
 
 #### For more information about modifying user details, see:
 
