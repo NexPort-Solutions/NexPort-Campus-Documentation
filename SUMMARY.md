@@ -207,7 +207,7 @@
       * [Section Enrollment](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/README.md)
         * [View and Search Section Enrollments](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/view-and-search-section-enrollments.md)
         * [Add a Section Enrollment](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/add-a-section-enrollment.md)
-        * [Modify the Section Enrollment details](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/modify-the-section-enrollment-details.md)
+        * [Modify the Section Enrollment Details](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/modify-the-section-enrollment-details.md)
         * [Modify the Status and Score of an Enrollment (Academic Override)](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/modify-the-status-and-score-of-an-enrollment-academic-override.md)
         * [Destroy a Sections Enrollment](administrator-documentation/administrator-reference/user-management/manage-enrollments/section-enrollment/destroy-a-sections-enrollment.md)
       * [Training Plan Enrollment](administrator-documentation/administrator-reference/user-management/manage-enrollments/training-plan-enrollment/README.md)
