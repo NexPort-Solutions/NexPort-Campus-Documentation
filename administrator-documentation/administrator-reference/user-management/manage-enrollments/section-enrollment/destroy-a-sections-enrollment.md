@@ -1,33 +1,37 @@
+---
+description: >-
+  You can destroy or drop a student’s enrollment. Destroying an enrollment
+  removes the enrollment completely from the student’s official transcript.
+---
+
 # Destroy a Sections Enrollment
 
-You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage enrollments](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_enrollments.htm) > Destroy an sections enrollment
+## &#x20;**To destroy or drop a sections enrollment**
 
-##
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-You can destroy or drop a student’s enrollment. Destroying an enrollment removes the enrollment completely from the student’s official transcript. Dropping an enrollment leaves a drop record on the student’s transcript.
+<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-&#x20;
+<mark style="color:blue;">**Step 3:**</mark>  Select a user to delete the enrollment details.
 
-**To destroy or drop a sections enrollment:**
+> The user information page is displayed.
 
-1. Click **Administration** > **Manage Users**.
-2. The **User Listing** page is displayed.
-3. Select a user to delete the enrollment details.
-4. The user information page is displayed.
-5. Click the **Enrollments** tab.
-6. The list of enrollments is displayed.
-7. Click the **Sections** tab.
-8. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon, corresponding to the enrollment that you need to delete.
-9. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_Delete\_550x136.png)
-10. A **Remove Enrollment** dialog box is displayed. Do one of the following:
-11. Click **Drop**, to withdrawn from the course. The student has withdrawn from the course information is displayed on the student’s transcript.
-12. or
-13. Click **Destroy**, to remove the enrollment completely from the student’s official transcript.
+<mark style="color:blue;">**Step 4:**</mark>  Click the <mark style="color:blue;">**Enrollments**</mark> tab.
 
-&#x20;
+> The list of enrollments is displayed.
 
-[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
+<mark style="color:blue;">**Step 5:**</mark>  Click the <mark style="color:blue;">**Sections**</mark> tab.
 
-&#x20;
+<mark style="color:blue;">**Step 6:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon, corresponding to the enrollment that you need to delete.
 
-© NexPort Solutions 2017. All Rights Reserved.
+![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_Delete\_550x136.png)
+
+<mark style="color:blue;">**Step 7:**</mark>  A <mark style="color:blue;">**Remove Enrollment**</mark> dialog box is displayed. Do one of the following:
+
+> Click <mark style="color:blue;">**Drop**</mark>, to withdrawn from the course. The student has withdrawn from the course information is displayed on the student’s transcript.
+>
+> or
+>
+> Click <mark style="color:blue;">**Destroy**</mark>, to remove the enrollment completely from the student’s official transcript.
+
+#### © NexPort Solutions 2022. All Rights Reserved.
