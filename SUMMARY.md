@@ -136,7 +136,7 @@
         * [Modify Certificate Properties](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/modify-certificate-properties.md)
         * [Replace a Certificate from Shared Training](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/replace-a-certificate-from-shared-training.md)
         * [Creating a HTML Certificate](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/creating-a-html-certificate.md)
-        * [Html Certificate Page Layout](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/html-certificate-page-layout.md)
+        * [HTML Certificate Page Layout](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/html-certificate-page-layout.md)
         * [Html Certificate Background](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/html-certificate-background.md)
         * [Creating a Pdf Certificate](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/creating-a-certificate-pdf.md)
         * [Pdf Certificate Properties](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/certificate-pdf-properties.md)
