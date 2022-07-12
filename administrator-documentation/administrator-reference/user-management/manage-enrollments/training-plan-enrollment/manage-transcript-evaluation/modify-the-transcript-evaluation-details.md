@@ -1,35 +1,37 @@
+---
+description: You can modify the transcript evaluation details.
+---
+
 # Modify the Transcript Evaluation details
 
-You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage enrollments](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_enrollments.htm) > Modify the transcript evaluation details
+## **To modify the transcript evaluation**
 
-##
+Step 1:  Click **Administration** > **Manage Users**.
 
-You can modify the transcript evaluation details.
+Step 2:  The **User Listing** page is displayed.
 
-&#x20;
+Step 3:  Select a user to modify the enrollment details.
 
-**To modify the transcript evaluation**:
+The user information page is displayed.
 
-1. Click **Administration** > **Manage Users**.
-2. The **User Listing** page is displayed.
-3. Select a user to modify the enrollment details.
-4. The user information page is displayed.
-5. Click the **Enrollments** tab.
-6. The list of enrollments is displayed.
-7. Click the **Training Plans** tab, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the enrollment in which you need to add a new transcript evaluation.
-8. The **Edit Training Plan \<EnrollmentName>** page is displayed.
-9. Click the assignment in the section assignment tree in which you need to add a new transcript evaluation.
-10. Click the **Transcript Evaluations** tab.
-11. The **Transcript Evaluations** page is displayed.
-12. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/TranscriptEvaluations\_Edit\_550x292.png)
-13. Click **Edit**, to add grades or any notes to the transcript evaluation.
-14. Click **Save**.
-15. An updated transcript evaluation is saved.
+Step 4:  Click the **Enrollments** tab.
 
-&#x20;
+The list of enrollments is displayed.
 
-[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
+Step 5:  Click the **Training Plans** tab, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the enrollment in which you need to add a new transcript evaluation.
 
-&#x20;
+Step 6:  The **Edit Training Plan \<EnrollmentName>** page is displayed.
 
-© NexPort Solutions 2017. All Rights Reserved.
+Click the assignment in the section assignment tree in which you need to add a new transcript evaluation.
+
+Step 7:  Click the **Transcript Evaluations** tab.
+
+Step 8:  The **Transcript Evaluations** page is displayed.
+
+![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/TranscriptEvaluations\_Edit\_550x292.png)
+
+Step 9:  Click **Edit**, to add grades or any notes to the transcript evaluation.
+
+Step 10:  Click **Save**.  An updated transcript evaluation is saved.
+
+#### © NexPort Solutions 2022. All Rights Reserved.
