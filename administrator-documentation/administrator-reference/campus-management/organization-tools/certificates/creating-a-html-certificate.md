@@ -1,10 +1,10 @@
 ---
-description: HTML Certificate Templates can be created in NexPort
+description: Html Certificate Templates can be created in NexPort
 ---
 
-# Creating a HTML Certificate
+# Creating a Html Certificate
 
-<mark style="color:blue;">**Step 1:**</mark>  Select the HTML Certificate Template and <mark style="color:blue;">**Add or Edit a Page**</mark>
+<mark style="color:blue;">**Step 1:**</mark>  Select the Html Certificate Template and <mark style="color:blue;">**Add or Edit a Page**</mark>
 
 ![](<../../../../../.gitbook/assets/image (12).png>)
 
