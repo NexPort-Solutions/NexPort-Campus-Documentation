@@ -18,11 +18,11 @@ You can use MathJax in Test Assignments by creating Question Banks that have the
 
 <mark style="color:blue;">**Step 4:**</mark> Write [LaTex](mathjax-reference.md#latex), [MathML](mathjax-reference.md#undefined), or [AsciiMath ](mathjax-reference.md#asciimath)in the text area for <mark style="color:blue;">**Questions**</mark> or <mark style="color:blue;">**Open Ended Questions**</mark>
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 <mark style="color:blue;">**Step 5:**</mark> Save and Verify the results
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ### LaTex
 
@@ -46,4 +46,4 @@ MathML is a markup language for integrating mathematical and scientific structur
 
 To insert MathML you must use the source code option in the text area editor. This option will open a dialog where you can write MathML. Once you finish writing your MathML you can save and it'll display the structures immediately.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)

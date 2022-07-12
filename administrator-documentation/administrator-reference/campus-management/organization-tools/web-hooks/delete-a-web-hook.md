@@ -6,17 +6,17 @@ description: You can delete a web hook from the NexPort Campus.
 
 ## **To delete a web hook**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Web Hooks**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Web Hooks**</mark>.
 
-> The **Web Hooks** page is displayed.
+> The <mark style="color:blue;">**Web Hooks**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooks\_Delete\_550x97.png)
 
-Step 2:  Click **Delete** next to the web hook that you need to delete.
+<mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Delete**</mark> next to the web hook that you need to delete.
 
-> A confirmation dialog box is displayed with the “Are you sure to delete?” message.
+> A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure to delete?”</mark>_ message.
 
-Step 3:  Click **OK**.
+<mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**OK**</mark>.
 
 > The selected web hook is deleted.
 

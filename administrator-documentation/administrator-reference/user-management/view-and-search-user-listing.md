@@ -8,19 +8,19 @@ description: >-
 
 ## **To view user listing**
 
-> Click **Administration** > **Manage Users**.
+> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 >
-> The **User Listing** page is displayed. You can view the list of the active users.
+> The <mark style="color:blue;">**User Listing**</mark> page is displayed. You can view the list of the active users.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/User\_Listing\_550x204.png)
 
 ## **To search a user**
 
-Step 1:  Click **Administration** > **Manage Users**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-> The **User Listing** page is displayed.
+> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-Step 2:  In the **Search** box, type the first few characters of the user name that you need to search.
+<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the user name that you need to search.
 
 > NexPort Campus populates matching results.
 

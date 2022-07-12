@@ -6,49 +6,49 @@ description: You can add a new web hook to connect a new or additional external 
 
 ## **To add a web hook**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Web Hooks**.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Campus**</mark> > <mark style="color:blue;">**Organization Tools**</mark> > <mark style="color:blue;">**Web Hooks**</mark>.
 
-> The **Web Hooks** page is displayed.
+> The <mark style="color:blue;">**Web Hooks**</mark> page is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooks\_Add\_550x97.png)
 
-Step 2:  Click **Add**.
+<mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Add**</mark><mark style="color:blue;">.</mark>
 
-> The **Manage Web hook Interface** dialog box is displayed.
+> The <mark style="color:blue;">**Manage Web hook Interface**</mark> dialog box is displayed.
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/ManageWebHookInterface.png)
 
-Step 3:  In the **Name** box, type the name of the web hook.
+<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Name**</mark> box, type the name of the web hook.
 
-> The name is displayed on the **Web Hooks** page.
+> The name is displayed on the <mark style="color:blue;">**Web Hooks**</mark> page.
 
-Step 4:  In the **Url** box, type the http:// or https:// URL where the web hook body (refer to Step 8) should be sent when this web hook is executed.
+<mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Url**</mark> box, type the http:// or https:// URL where the web hook body (refer to Step 8) should be sent when this web hook is executed.
 
-> This is a mandatory field.
+> _<mark style="color:red;background-color:yellow;">This is a mandatory field.</mark>_
 
-Step 5:  In the **Event Type** list, enter the event type for which the notification is triggered such as **Complete Enrollment**, **Enrollment Created, Subscription Created**, **Subscription Status Changed**, **Subscription Updated**, and **Assignment Complete**.
+<mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Event Type**</mark> list, enter the event type for which the notification is triggered such as <mark style="color:blue;">**Complete Enrollment**</mark>, <mark style="color:blue;">**Enrollment Created**</mark>**, **<mark style="color:blue;">**Subscription Created**</mark>, <mark style="color:blue;">**Subscription Status Changed**</mark>, <mark style="color:blue;">**Subscription Updated**</mark>, and <mark style="color:blue;">**Assignment Complete**</mark>.
 
 > When the event occurs within this organization, the web hook is executed.
 
-Step 6:  In the **Verb** list, enter the HTTP methods such as **Get**, **Post**, **Update**, and **Delete**.
+<mark style="color:blue;">**Step 6:**</mark>  In the <mark style="color:blue;">**Verb**</mark> list, enter the HTTP methods such as <mark style="color:blue;">**Get**</mark>, <mark style="color:blue;">**Post**</mark>, <mark style="color:blue;">**Update**</mark>, and <mark style="color:blue;">**Delete**</mark>.
 
-Step 7:  In the **Query String**, click **Manage QueryString**, and then enter the query string that the remote server requires.
+<mark style="color:blue;">**Step 7:**</mark>  In the <mark style="color:blue;">**Query String**</mark>, click <mark style="color:blue;">**Manage QueryString**</mark>, and then enter the query string that the remote server requires.
 
 {% hint style="info" %}
-The **Manage QueryString** button is disabled, when you are creating a web hook for the first time. The **Manage QueryString** button is enabled, after you create a web hook and try to edit it later.
+The <mark style="color:blue;">**Manage QueryString**</mark> button is disabled, when you are creating a web hook for the first time. The <mark style="color:blue;">**Manage QueryString**</mark> button is enabled, after you create a web hook and try to edit it later.
 {% endhint %}
 
-Step 8:  In the **Body** box, type the XML, JSON, and other formats that HTTPS request allows.
+<mark style="color:blue;">**Step 8:**</mark>  In the <mark style="color:blue;">**Body**</mark> box, type the XML, JSON, and other formats that HTTPS request allows.
 
 > The body can be built by using the [Velocity Template Language (VTL)](http://velocity.apache.org/engine/1.6/user-guide.html) properties. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Help.png) icon to access the available VTL properties.
 
 {% hint style="info" %}
-The **Body** box is disabled if you enter **Get** and is enabled when you enter **Post**, **Update**, and **Delete** in the Verb list.  The body content must match the **Content Type**.
+The <mark style="color:blue;">**Body**</mark> box is disabled if you enter <mark style="color:blue;">**Get**</mark> and is enabled when you enter <mark style="color:blue;">**Post**</mark>, <mark style="color:blue;">**Update**</mark>, and <mark style="color:blue;">**Delete**</mark> in the Verb list.  The body content must match the <mark style="color:blue;">**Content Type**</mark>.
 {% endhint %}
 
-Step 9:  In the **Content Type** box, type the content of the body text.
+<mark style="color:blue;">**Step 9:**</mark>  In the <mark style="color:blue;">**Content Type**</mark> box, type the content of the body text.
 
-Step 10:  Click **Save**.
+<mark style="color:blue;">**Step 10:**</mark> Click <mark style="color:blue;">**Save**</mark>.
 
 > The new web hook is saved.
 

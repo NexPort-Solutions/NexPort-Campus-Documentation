@@ -25,6 +25,18 @@ You can upload, view and manage the certificates available in your organization.
 [replace-a-certificate-from-shared-training.md](replace-a-certificate-from-shared-training.md)
 {% endcontent-ref %}
 
+{% content-ref url="creating-a-html-certificate.md" %}
+[creating-a-html-certificate.md](creating-a-html-certificate.md)
+{% endcontent-ref %}
+
+{% content-ref url="html-certificate-page-layout.md" %}
+[html-certificate-page-layout.md](html-certificate-page-layout.md)
+{% endcontent-ref %}
+
+{% content-ref url="html-certificate-background.md" %}
+[html-certificate-background.md](html-certificate-background.md)
+{% endcontent-ref %}
+
 {% content-ref url="creating-a-certificate-pdf.md" %}
 [creating-a-certificate-pdf.md](creating-a-certificate-pdf.md)
 {% endcontent-ref %}
