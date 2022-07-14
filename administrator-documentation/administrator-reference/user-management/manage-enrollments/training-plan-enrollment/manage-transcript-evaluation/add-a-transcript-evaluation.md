@@ -1,36 +1,35 @@
 # Add a Transcript Evaluation
 
-You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage enrollments](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_enrollments.htm) > Add a transcript evaluation
+## &#x20;**To add a new transcript evaluation**
 
-##
+<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-You can add a new transcript evaluation.
+<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-&#x20;
+<mark style="color:blue;">**Step 3:**</mark>  Select a user to modify the enrollment details.
 
-**To add a new transcript evaluation:**
+> The user information page is displayed.
 
-1. Click **Administration** > **Manage Users**.
-2. The **User Listing** page is displayed.
-3. Select a user to modify the enrollment details.
-4. The user information page is displayed.
-5. Click the **Enrollments** tab.
-6. The list of enrollments is displayed.
-7. Click the **Training Plans** tab, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the enrollment in which you need to add a new transcript evaluation.
-8. The **Edit Training Plan \<EnrollmentName>** page is displayed.
-9. Click the assignment in the section assignment tree in which you need to add a new transcript evaluation.
-10. Click the **Transcript Evaluations** tab.
-11. The **Transcript Evaluations** page is displayed.
-12. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/TranscriptEvaluations\_AddNew\_550x292.png)
-13. Click **Add New Evaluation**, and do the following:
-14.
-    * In the **Transcript File** section, browse to upload new transcript file.
-    * In the **Requirements** section, select the required training plan, and then click **Add** to add requirements evaluated.
+<mark style="color:blue;">**Step 4:**</mark>  Click the <mark style="color:blue;">**Enrollments**</mark> tab.
 
-&#x20;
+> The list of enrollments is displayed.
 
-[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
+<mark style="color:blue;">**Step 5:**</mark>  Click the <mark style="color:blue;">**Training Plans**</mark> tab, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the enrollment in which you need to add a new transcript evaluation.
 
-&#x20;
+<mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Edit Training Plan \<EnrollmentName>**</mark> page is displayed.
 
-© NexPort Solutions 2017. All Rights Reserved.
+Click the assignment in the section assignment tree in which you need to add a new transcript evaluation.
+
+<mark style="color:blue;">**Step 7:**</mark>  Click the <mark style="color:blue;">**Transcript Evaluations**</mark> tab.
+
+<mark style="color:blue;">**Step 8:**</mark>  The <mark style="color:blue;">**Transcript Evaluations**</mark> page is displayed.
+
+![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/TranscriptEvaluations\_AddNew\_550x292.png)
+
+<mark style="color:blue;">**Step 9:**</mark> Click <mark style="color:blue;">**Add New Evaluation**</mark>, and do the following:
+
+> In the <mark style="color:blue;">**Transcript File**</mark> section, browse to upload new transcript file.
+>
+> In the <mark style="color:blue;">**Requirements**</mark> section, select the required training plan, and then click <mark style="color:blue;">**Add**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> to add requirements evaluated.
+
+#### © NexPort Solutions 2022. All Rights Reserved.
