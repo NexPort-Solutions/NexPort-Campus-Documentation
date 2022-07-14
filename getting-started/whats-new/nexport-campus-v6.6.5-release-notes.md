@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # NexPort Campus v6.6.5 Release Notes
 
 ### New Features <a href="#_6zg6y82t1f6i" id="_6zg6y82t1f6i"></a>
