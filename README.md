@@ -35,6 +35,10 @@ NexPort Campus is a core component of the NexPort Learning Management Platform (
 
 Guides to get started on the basics as quickly as possible:
 
+{% content-ref url="getting-started/whats-new/" %}
+[whats-new](getting-started/whats-new/)
+{% endcontent-ref %}
+
 {% content-ref url="getting-started/access-nexport-campus.md" %}
 [access-nexport-campus.md](getting-started/access-nexport-campus.md)
 {% endcontent-ref %}
