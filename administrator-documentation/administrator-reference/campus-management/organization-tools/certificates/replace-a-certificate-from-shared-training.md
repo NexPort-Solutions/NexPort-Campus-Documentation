@@ -19,7 +19,7 @@ Some sections and training plans may have been shared to your organization or yo
 
 ![](<../../../../../.gitbook/assets/image (18).png>)
 
-<mark style="color:blue;">**Step 4:**</mark>  To replace the NexPort Campus provided template with the custom designed template, click the certificate on the right of the original.
+<mark style="color:blue;">**Step 4:**</mark>  To replace the NexPort Campus provided template with the custom-designed template, click the certificate on the right of the original.
 
 <mark style="color:blue;">**Step 5:**</mark>  Click <mark style="color:blue;">**Save**</mark>** ** and **** the certificate is replaced.
 

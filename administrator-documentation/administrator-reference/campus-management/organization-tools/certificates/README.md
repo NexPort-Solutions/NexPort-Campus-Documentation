@@ -7,11 +7,11 @@ description: >-
 
 # Certificates
 
-A certificate, more specifically of an academic nature, is a document authenticating or certifying that a student has completed a course. It is a formal endorsement or validation of the student having undergone the prescribed course of study, which may include the completion of training plans or sections.
+A certificate, more specifically of an academic nature, is a document authenticating or certifying that a student has completed a course. It is a formal endorsement or validation of the student has undergone the prescribed course of study, which may include the completion of training plans or sections.
 
-If your organization chooses, you can upload certificates that become available for use in sections and training plans. Certificates can include template fields that are replaced with enrollment specific values such as student name, section title, score and others.
+If your organization chooses, you can upload certificates that become available for use in sections and training plans. Certificates can include template fields that are replaced with enrollment-specific values such as student name, section title, score, and others.
 
-You can upload, view and manage the certificates available in your organization.
+You can upload, view, and manage the certificates available in your organization.
 
 {% content-ref url="add-a-certificate.md" %}
 [add-a-certificate.md](add-a-certificate.md)

@@ -18,7 +18,7 @@ description: >-
 
 <mark style="color:blue;">**Step 1:**</mark>  In the <mark style="color:blue;">**Name**</mark> box, type the name of the certificate.
 
-<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Layout Orientation**</mark> select Landscape or Portrait
+<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Layout Orientation**</mark> select Landscape or Portrait.
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Save**</mark>** ** and a new Html certificate template is created.
 
@@ -34,13 +34,13 @@ You can use these fields to enter a custom certificate template property. The pr
 HTML Certificate Template Custom Fields can only have letters or numbers as <mark style="color:blue;">**Keys.**</mark>
 {% endhint %}
 
-<mark style="color:blue;">**Step 6:**</mark> Click <mark style="color:blue;">**Add Page**</mark>
+<mark style="color:blue;">**Step 6:**</mark> Click <mark style="color:blue;">**Add Page.**</mark>
 
 ![](<../../../../../.gitbook/assets/image (7) (1).png>)
 
-<mark style="color:blue;">**Step 7:**</mark> Create your template pages by repeating Step 6
+<mark style="color:blue;">**Step 7:**</mark> Create your template pages by repeating Step 6.
 
-<mark style="color:blue;">**Step 8:**</mark>  Click <mark style="color:blue;">**Info Icon**</mark>** ** to view all possible template Keys that you can add to a page
+<mark style="color:blue;">**Step 8:**</mark>  Click <mark style="color:blue;">**Info Icon**</mark>** ** to view all possible template Keys that you can add to a page.
 
 ![](<../../../../../.gitbook/assets/image (9) (1).png>)
 

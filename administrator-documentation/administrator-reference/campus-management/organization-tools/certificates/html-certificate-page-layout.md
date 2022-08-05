@@ -4,7 +4,7 @@ description: >-
   Templates
 ---
 
-# Html Certificate Page Layout
+# HTML Certificate Page Layout
 
 * [Set Background Image](html-certificate-page-layout.md#set-background-image)
 * [Create a Base Layout using a Table](html-certificate-page-layout.md#create-a-base-layout-using-a-table)
@@ -18,7 +18,7 @@ description: >-
 
 ### Set Background Image
 
-<mark style="color:blue;">**Step 1:**</mark>  Optionally set Background Image
+<mark style="color:blue;">**Step 1:**</mark>  Optionally set Background Image.
 
 {% content-ref url="html-certificate-background.md" %}
 [html-certificate-background.md](html-certificate-background.md)
@@ -32,17 +32,17 @@ description: >-
 
 ![](<../../../../../.gitbook/assets/image (8).png>)
 
-<mark style="color:blue;">**Step 4:**</mark>  Open <mark style="color:blue;">**Table Properties**</mark> by selecting the inserted 1x1 table and selecting the <mark style="color:blue;">**Properties Icon**</mark>
+<mark style="color:blue;">**Step 4:**</mark>  Open <mark style="color:blue;">**Table Properties**</mark> by selecting the inserted 1x1 table and selecting the <mark style="color:blue;">**Properties Icon.**</mark>
 
 ![](<../../../../../.gitbook/assets/image (14).png>)
 
-<mark style="color:blue;">**Step 5:**</mark>  Set Width and Height to 100% &#x20;
+<mark style="color:blue;">**Step 5:**</mark>  Set Width and Height to 100%.
 
 ![](<../../../../../.gitbook/assets/image (26).png>)
 
 ### Customize the Border
 
-<mark style="color:blue;">**Step 6:**</mark>  Optionally remove or customize the <mark style="color:blue;">**Border**</mark>. To remove the border set the border Width to 0. To customize the border select <mark style="color:blue;">**Advanced**</mark> and make changes according to your requirements.
+<mark style="color:blue;">**Step 6:**</mark>  Optionally remove or customize the <mark style="color:blue;">**Border**</mark>. To remove the border set the Border Width to 0. To customize the border select <mark style="color:blue;">**Advanced**</mark> and make changes according to your requirements.
 
 &#x20;&#x20;
 
@@ -50,15 +50,15 @@ description: >-
 
 ### Create a Header
 
-<mark style="color:blue;">**Step 7:**</mark>  Optionally create a <mark style="color:blue;">**header**</mark> by Inserting a Row to the base layout table. <mark style="color:blue;">**Select**</mark> the table and <mark style="color:blue;">**Click**</mark> the <mark style="color:blue;">**Insert row before Icon**</mark>
+<mark style="color:blue;">**Step 7:**</mark>  Optionally create a <mark style="color:blue;">**header**</mark> by Inserting a Row to the base layout table. <mark style="color:blue;">**Select**</mark> the table and <mark style="color:blue;">**Click**</mark> the <mark style="color:blue;">**Insert row before the Icon.**</mark>
 
 ![Create a Header](<../../../../../.gitbook/assets/image (15).png>)
 
-<mark style="color:blue;">**Step 8:**</mark>  Select the <mark style="color:blue;">**Row**</mark> and Drag it up
+<mark style="color:blue;">**Step 8:**</mark>  Select the <mark style="color:blue;">**Row**</mark> and Drag it up.
 
 ![](<../../../../../.gitbook/assets/image (25).png>)
 
-<mark style="color:blue;">**Step 9:**</mark>  Enter your header title. <mark style="color:blue;">**Align Center**</mark> and set Font from <mark style="color:blue;">**Paragraph**</mark> to <mark style="color:blue;">**Header 1**</mark>
+<mark style="color:blue;">**Step 9:**</mark>  Enter your header title. <mark style="color:blue;">**Align Center**</mark> and set Font from <mark style="color:blue;">**Paragraph**</mark> to <mark style="color:blue;">**Header 1.**</mark>
 
 ![](<../../../../../.gitbook/assets/image (7).png>)
 
@@ -90,7 +90,7 @@ If it just centers the cells instead of the table, then go a little higher when 
 
 ### Removing Borders
 
-<mark style="color:blue;">**Step 14:**</mark>  Optionally <mark style="color:blue;">**remove borders**</mark> for tables used to setup the template layout by going to table properties and setting border to 0.
+<mark style="color:blue;">**Step 14:**</mark>  Optionally <mark style="color:blue;">**remove borders**</mark> for tables used to set up the template layout by going to table properties and setting the border to 0.
 
 ![](<../../../../../.gitbook/assets/image (28).png>)
 
@@ -104,15 +104,15 @@ If it just centers the cells instead of the table, then go a little higher when 
 
 ### Inserting Images <a href="#insert-images" id="insert-images"></a>
 
-<mark style="color:blue;">**Step 16:**</mark>  Optionally insert images by selecting the <mark style="color:blue;">**Image Icon**</mark>
+<mark style="color:blue;">**Step 16:**</mark>  Optionally insert images by selecting the <mark style="color:blue;">**Image Icon.**</mark>
 
 ![](<../../../../../.gitbook/assets/image (4).png>)
 
-<mark style="color:blue;">**Step 17:**</mark>  Click the <mark style="color:blue;">**Source Icon**</mark>** ** and navigate to the file location on your computer. Click <mark style="color:blue;">**Open**</mark> and the Source field will propagate<mark style="color:blue;">.</mark> Click <mark style="color:blue;">**Save**</mark> and the image will be inserted
+<mark style="color:blue;">**Step 17:**</mark>  Click the <mark style="color:blue;">**Source Icon**</mark>** ** and navigate to the file location on your computer. Click <mark style="color:blue;">**Open**</mark> and the Source field will propagate<mark style="color:blue;">.</mark> Click <mark style="color:blue;">**Save**</mark> and the image will be inserted.
 
 ![](<../../../../../.gitbook/assets/image (22).png>)
 
-<mark style="color:blue;">**Step 18:**</mark>  <mark style="color:blue;">**Resize**</mark> the <mark style="color:blue;">**Image**</mark>** ** by using the blue square nodes
+<mark style="color:blue;">**Step 18:**</mark>  <mark style="color:blue;">**Resize**</mark> the <mark style="color:blue;">**Image**</mark>** ** by using the blue square nodes.
 
 ![](<../../../../../.gitbook/assets/image (6).png>)
 
