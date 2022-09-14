@@ -25,4 +25,4 @@ You can delete an organization or a group from the NexPort Campus.
 
 <mark style="color:blue;">**Step 8:**</mark>  Click **OK**. The selected organization or a group is deleted.
 
-#### © NexPort Solutions 2017. All Rights Reserved.
+#### © NexPort Solutions 2022. All Rights Reserved.
