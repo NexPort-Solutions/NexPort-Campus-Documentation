@@ -26,4 +26,4 @@ coverY: 0
 
 ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/New\_Bookshelf\_550x224.png)
 
-#### © NexPort Solutions. All Rights Reserved.
+#### © NexPort Solutions 2022. All Rights Reserved.

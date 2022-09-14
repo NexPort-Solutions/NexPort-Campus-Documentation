@@ -44,4 +44,4 @@ The <mark style="color:blue;">**Share Descendants**</mark> button automatically 
 >
 > Click <mark style="color:blue;">**Shared with New Descendants**</mark>, the bookshelf is shared with the new descendants.
 
-#### © NexPort Solutions. All Rights Reserved.
+#### © NexPort Solutions 2022. All Rights Reserved.

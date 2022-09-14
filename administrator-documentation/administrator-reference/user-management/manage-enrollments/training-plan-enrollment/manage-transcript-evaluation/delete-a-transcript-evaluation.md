@@ -1,37 +1,35 @@
----
-description: Delete a transcript evaluation
----
-
 # Delete a Transcript Evaluation
 
-## **To modify the transcript evaluation:**
+You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage enrollments](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_enrollments.htm) > Delete a transcript evaluation
 
-<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Users**</mark>.
+##
 
-<mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
+You can delete the transcript evaluation from the NexPort Campus.
 
-> Select a user to modify the enrollment details.
+&#x20;
 
-<mark style="color:blue;">**Step 3:**</mark> The user information page is displayed.
+**To modify the transcript evaluation:**
 
-<mark style="color:blue;">**Step 4:**</mark> Click the <mark style="color:blue;">**Enrollments**</mark> tab.
+1. Click **Administration** > **Manage Users**.
+2. The **User Listing** page is displayed.
+3. Select a user to modify the enrollment details.
+4. The user information page is displayed.
+5. Click the **Enrollments** tab.
+6. The list of enrollments is displayed.
+7. Click the **Training Plans** tab.
+8. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon, next to the enrollment in which you need to add a new transcript evaluation.
+9. The **Edit Training Plan \<EnrollmentName>** page is displayed.
+10. Click the assignment in the section assignment tree in which you need to add a new transcript evaluation.
+11. Click the **Transcript Evaluations** tab.
+12. The **Transcript Evaluations** page is displayed.
+13. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/TranscriptEvaluations\_Destroy\_550x292.png)
+14. Click **Destroy**.
+15. The transcript evaluation is removed training plan enrollments.
 
-> The list of enrollments is displayed.
+&#x20;
 
-<mark style="color:blue;">**Step 5:**</mark> Click the <mark style="color:blue;">**Training Plans**</mark> tab.
+[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
 
-<mark style="color:blue;">**Step 6:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon, next to the enrollment in which you need to add a new transcript evaluation.
+&#x20;
 
-<mark style="color:blue;">**Step 7:**</mark> The <mark style="color:blue;">**Edit Training Plan \<EnrollmentName>**</mark> page is displayed.
-
-<mark style="color:blue;">**Step 8:**</mark> Click the assignment in the section assignment tree in which you need to add a new transcript evaluation.
-
-<mark style="color:blue;">**Step 9:**</mark> Click the <mark style="color:blue;">**Transcript Evaluations**</mark> tab.
-
-> The <mark style="color:blue;">**Transcript Evaluations**</mark> page is displayed.
-
-<mark style="color:blue;">**Step 10:**</mark> Click <mark style="color:blue;">**Destroy**</mark>.
-
-> The transcript evaluation is removed training plan enrollments.
-
-#### © NexPort Solutions. All Rights Reserved.
+© NexPort Solutions 2017. All Rights Reserved.

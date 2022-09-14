@@ -34,4 +34,4 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Save**</mark>. The general setting details are updated and saved.
 
-#### © NexPort Solutions. All Rights Reserved.
+#### © NexPort Solutions 2022. All Rights Reserved.
