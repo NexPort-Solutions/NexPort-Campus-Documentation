@@ -123,4 +123,4 @@ On the <mark style="color:blue;">**Documents**</mark> page, you can do the follo
 [delete-a-folder-student.md](../../../../../student-documentation/student-reference/documents-student/delete-a-folder-student.md)
 {% endcontent-ref %}
 
-#### &#x20;© NexPort Solutions 2022. All Rights Reserved.
+#### &#x20;© NexPort Solutions. All Rights Reserved.
