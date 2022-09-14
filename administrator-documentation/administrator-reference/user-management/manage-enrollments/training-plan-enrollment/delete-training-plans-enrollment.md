@@ -1,32 +1,31 @@
+---
+description: Delete training plans enrollment
+---
+
 # Delete Training Plans Enrollment
 
-You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage enrollments](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_enrollments.htm) > Delete training plans enrollment
+## **To delete training plans enrollment:**
 
-##
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Users**</mark>.
 
-You can delete a training plans enrollment from the NexPort Campus.
+<mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
-&#x20;
+<mark style="color:blue;">**Step 3:**</mark> Select a user to delete the enrollment details.
 
-**To delete training plans enrollment:**
+> The user information page is displayed.
 
-1. Click **Administration** > **Manage Users**.
-2. The **User Listing** page is displayed.
-3. Select a user to delete the enrollment details.
-4. The user information page is displayed.
-5. Click the **Enrollments** tab.
-6. The list of enrollments is displayed.
-7. Click the **Training Plans** tab.
-8. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon, next to the enrollment that you need to delete.
-9. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollments\_TrainingPlans\_Delete\_550x118.png)
-10. A **Remove Enrollment** dialog box is displayed.
-11. Click **Delete**.
-12. The selected user's training plan enrollment is deleted from the NexPort Campus.
+<mark style="color:blue;">**Step 4:**</mark> Click the <mark style="color:blue;">**Enrollments**</mark> tab.
 
-&#x20;
+> The list of enrollments is displayed.
 
-[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
+<mark style="color:blue;">**Step 5:**</mark> Click the <mark style="color:blue;">**Training Plans**</mark> tab.
 
-&#x20;
+<mark style="color:blue;">**Step 6:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon, next to the enrollment that you need to delete.
 
-© NexPort Solutions 2017. All Rights Reserved.
+<mark style="color:blue;">**Step 7:**</mark> A <mark style="color:blue;">**Remove Enrollment**</mark> dialog box is displayed.
+
+<mark style="color:blue;">**Step 8:**</mark> Click <mark style="color:blue;">**Delete**</mark>.
+
+> The selected user's training plan enrollment is deleted from the NexPort Campus.
+
+#### © NexPort Solutions. All Rights Reserved.
