@@ -1,31 +1,36 @@
 # Add a Hyperlink to a Folder
 
-## **To add a hyperlink to a folder**
+You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage student documents](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_student\_documents.htm) > Add a hyperlink to a folder
 
-<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Users**</mark>.
+##
 
-<mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
+You can add a hyperlink to a folder.
 
-<mark style="color:blue;">**Step 3:**</mark> Select a user to modify the user details.
+&#x20;
 
-> The user information page is displayed.
+**To add a hyperlink to a folder:**
 
-<mark style="color:blue;">**Step 4:**</mark> Click the <mark style="color:blue;">**Documents**</mark> tab.
+1. Click **Administration** > **Manage Users**.
+2. The **User Listing** page is displayed.
+3. Select a user to modify the user details.
+4. The user information page is displayed.
+5. Click the **Documents** tab.
+6. The **Documents** page is displayed.
+7. In the **Organization Documents** list, select an organization, and then the folder in which you need to add a hyperlink.
+8. Click the **Add a Hyperlink** tab.
+9. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Add\_Hyperlink\_550x307.png)
+10. In the **Title to Display** box, type the title for the link.
+11. This is a mandatory field.
+12. In the **Hyperlink URL** box, type the URL.
+13. This is a mandatory field.
+14. In the **Description** box, type the description for the URL.
+15. Click **Create**.
+16. The new hyperlink is uploaded under the selected folder.
 
-> The <mark style="color:blue;">**Documents**</mark> page is displayed.
+&#x20;
 
-<mark style="color:blue;">**Step 5:**</mark> In the <mark style="color:blue;">**Organization Documents**</mark> list, select an organization, and then the folder in which you need to add a hyperlink.
+[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
 
-<mark style="color:blue;">**Step 6:**</mark> Click the <mark style="color:blue;">**Add a Hyperlink**</mark> tab.
+&#x20;
 
-<mark style="color:blue;">**Step 7:**</mark> In the <mark style="color:blue;">**Title to Display**</mark> box, type the title for the link. _<mark style="color:red;">This is a mandatory field.</mark>_
-
-<mark style="color:blue;">**Step 8:**</mark> In the <mark style="color:blue;">**Hyperlink URL**</mark> box, type the URL. _<mark style="color:red;">This is a mandatory field.</mark>_
-
-<mark style="color:blue;">**Step 9:**</mark> In the <mark style="color:blue;">**Description**</mark> box, type the description for the URL.
-
-<mark style="color:blue;">**Step 10:**</mark> Click <mark style="color:blue;">**Create**</mark>.
-
-> The new hyperlink is uploaded under the selected folder.
-
-#### © NexPort Solutions. All Rights Reserved.
+© NexPort Solutions 2017. All Rights Reserved.
