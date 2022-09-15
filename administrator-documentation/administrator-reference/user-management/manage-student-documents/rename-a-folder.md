@@ -1,29 +1,34 @@
 # Rename a Folder
 
-## **To rename a folder**
+You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > [User management](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/User\_management.htm) > [Manage student documents](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/User\_Management/Manage\_student\_documents.htm) > Rename a folder
 
-<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Users**</mark>.
+##
 
-<mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
+You can rename a folder.
 
-<mark style="color:blue;">**Step 3:**</mark> Select a user to modify the user details.
+&#x20;
 
-> The user information page is displayed.
+**To rename a folder:**
 
-<mark style="color:blue;">**Step 4:**</mark> Click the <mark style="color:blue;">**Documents**</mark> tab.
+1. Click **Administration** > **Manage Users**.
+2. The **User Listing** page is displayed.
+3. Select a user to modify the user details.
+4. The user information page is displayed.
+5. Click the **Documents** tab.
+6. The **Documents** page is displayed.
+7. Select the organization, and then the folder that you need to rename.
+8. Click the **Rename** tab.
+9. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Rename\_Folder\_550x327.png)
+10. The **Rename Folder** dialog box is displayed.
+11. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Rename\_Folder.png)
+12. In the box, type a new name for the folder.
+13. Click **Save**.
+14. The name of the folder is updated.
 
-<mark style="color:blue;">**Step 5:**</mark> The <mark style="color:blue;">**Documents**</mark> page is displayed.
+&#x20;
 
-<mark style="color:blue;">**Step 6:**</mark> Select the organization, and then the folder that you need to rename.
+[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
 
-<mark style="color:blue;">**Step 7:**</mark> Click the <mark style="color:blue;">**Rename**</mark> tab.
+&#x20;
 
-> The <mark style="color:blue;">**Rename Folder**</mark> dialog box is displayed.
-
-<mark style="color:blue;">**Step 8:**</mark> In the box, type a new name for the folder.
-
-<mark style="color:blue;">**Step 9:**</mark> Click <mark style="color:blue;">**Save**</mark>.
-
-> The name of the folder is updated.
-
-#### © NexPort Solutions. All Rights Reserved.
+© NexPort Solutions 2017. All Rights Reserved.
