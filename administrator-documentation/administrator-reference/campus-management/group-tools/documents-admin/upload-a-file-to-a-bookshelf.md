@@ -32,4 +32,4 @@ You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/
 You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon to delete the file from the bookshelf.
 {% endhint %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.

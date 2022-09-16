@@ -50,7 +50,7 @@ You can view the existing list of sections for a organization in which you are a
 
 &#x20;
 
-[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
+![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics
 
 &#x20;
 

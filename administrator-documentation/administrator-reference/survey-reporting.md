@@ -51,7 +51,7 @@ You can export the response and aggregate response of the survey report in CSV f
 3. In the **Response** column or **Aggregate** column, click the **CSV** button next to the survey for which you need to export the survey report in CSV format.
 4. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Survey\_Reports/SurveyReports\_Export\_550x278.png)
 
-[![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics](javascript:void\(0\);)
+![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics
 
 &#x20;
 
