@@ -20,4 +20,4 @@ The following are the primary functions that a student can do in NexPort Campus:
 [course-participation](course-participation/)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
