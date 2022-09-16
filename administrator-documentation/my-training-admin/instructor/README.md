@@ -1,25 +1,29 @@
+---
+description: >-
+  NexPort Campus lets you impart Instructor-led sections (facilitated section)
+  and self-paced sections.
+---
+
 # Instructor
 
-You are here: [My Training](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/My\_Training.htm) > Instructor
+From the <mark style="color:blue;">**Instructor**</mark> tab, you can assign assignments to the students, evaluate the assignments, and provide feedback to the students. You can add, modify, and delete an assignment and the assignment heading that are to be included in the section. Through gradebook, you can track the progress of the students.
 
-## &#x20;<a href="#kanchor65" id="kanchor65"></a>
+On the <mark style="color:blue;">**Instructor**</mark> page, you can do the following:
 
-NexPort Campus lets you impart Instructor-led sections (facilitated section) and self-paced sections. From the **Instructor** tab, you can assign assignments to the students, evaluate the assignments, and provide feedback to the students. You can add, modify, and delete an assignment and the assignment heading that are to be included in the section. Through gradebook, you can track the progress of the students.
+{% content-ref url="../../administrator-reference/campus-management/group-tools/sections/view-and-search-section.md" %}
+[view-and-search-section.md](../../administrator-reference/campus-management/group-tools/sections/view-and-search-section.md)
+{% endcontent-ref %}
 
-&#x20;
+{% content-ref url="assignments.md" %}
+[assignments.md](assignments.md)
+{% endcontent-ref %}
 
-On the **Instructor** page, you can do the following:
+{% content-ref url="assignment-feedback/" %}
+[assignment-feedback](assignment-feedback/)
+{% endcontent-ref %}
 
-* [View and search sections](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/View\_search\_section.htm)
-* [Assignments](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Assignments.htm)
-*
-  * [Assignment feedback](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Assignment\_feedback.htm)
-* [Gradebook](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Gradebook.htm)
+{% content-ref url="gradebook.md" %}
+[gradebook.md](gradebook.md)
+{% endcontent-ref %}
 
-&#x20;
-
-![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics
-
-&#x20;
-
-© NexPort Solutions 2017. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
