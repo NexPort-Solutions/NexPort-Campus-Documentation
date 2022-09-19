@@ -14,7 +14,7 @@ You can also modify your personal information, contact information, and update t
 
 <mark style="color:blue;">**Step 1:**</mark>  In the upper-right corner of the NexPort Campus, click <mark style="color:blue;">**Profile**</mark>.
 
-![The Profile page is displayed.](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Profile\_550x444.png)
+![The Profile page is displayed.](../.gitbook/assets/Profile\_550x444.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  On the <mark style="color:blue;">**Profile**</mark> page, enter information in the following sections:
 
@@ -67,4 +67,4 @@ In the <mark style="color:blue;">**Contact Information**</mark> section, do the 
 * In the <mark style="color:blue;">**Documents**</mark> section, you can view and search organization-based documents. In this section, you can also add, rename, delete, and upload the documents.
 * For more information about documents:
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
