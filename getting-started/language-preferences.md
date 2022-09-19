@@ -16,6 +16,6 @@ Setting the preferred language only affects the NexPort Campus interface and not
 
 In the lower-left corner of the NexPort Campus, in the <mark style="color:blue;">**Choose your language**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> section, click the link of the preferred interface language.
 
-![Language Preference Selector](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Language\_Options.png)
+![Language Preference Selector](../.gitbook/assets/Language\_Options.png)
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
