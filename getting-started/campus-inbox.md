@@ -15,7 +15,7 @@ You can view or read the new or unread notifications (appear in bold letter) whe
 
 * In the upper-right corner of the NexPort Campus, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Notification.png) <mark style="color:blue;">**Inbox**</mark> icon.
 
-![The Inbox page is displayed.](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Inbox\_Page\_550x165.png)
+![The Inbox page is displayed.](../.gitbook/assets/Inbox\_Page\_550x165.png)
 
 ## View sent notification <a href="#view2" id="view2"></a>
 
@@ -25,7 +25,7 @@ You can view or read the previously send notifications.
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Sent Mail**</mark> tab, to view or read the previously send messages.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Sent\_Mail\_Page\_550x165.png)
+![](../.gitbook/assets/Sent\_Mail\_Page\_550x165.png)
 
 ## Delete inbox or sent notification <a href="#delete" id="delete"></a>
 
@@ -39,6 +39,6 @@ You can delete one or more notifications from the <mark style="color:blue;">**In
 When a notification is deleted, you cannot retrieve it again.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_message\_550x162.png)
+![](../.gitbook/assets/Delete\_message\_550x162.png)
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
