@@ -24,7 +24,7 @@ The survey report displays the section name, assignment name, number of survey c
 
 > The <mark style="color:blue;">**Survey Reports**</mark> page is displayed. You can view all the surveys that are assigned to the students of your organization.
 
-<figure><img src="../../.gitbook/assets/SurveyReports_550x278.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SurveyReports_550x278 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 In the <mark style="color:blue;">**Survey Report**</mark> for list, click the organization, to view the survey report for a particular organization with or without the child organization.
@@ -40,7 +40,7 @@ In the <mark style="color:blue;">**Survey Report**</mark> for list, click the or
 
 > NexPort Campus populates matching results.
 
-<figure><img src="../../.gitbook/assets/SurveyReports_Search_550x201.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SurveyReports_Search_550x201 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Export a survey report <a href="#export" id="export"></a>
 
@@ -54,6 +54,6 @@ You can export the response and aggregate response of the survey report in CSV f
 
 <mark style="color:blue;">**Step 2:**</mark> In the <mark style="color:blue;">**Response**</mark> column or <mark style="color:blue;">**Aggregate**</mark> column, click the <mark style="color:blue;">**CSV**</mark> button next to the survey for which you need to export the survey report in CSV format.
 
-<figure><img src="../../.gitbook/assets/SurveyReports_Export_550x278.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SurveyReports_Export_550x278 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### © NexPort Solutions. All Rights Reserved.

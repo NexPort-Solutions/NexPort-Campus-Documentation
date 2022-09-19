@@ -127,4 +127,4 @@ Help documentation for organization administrators on the Nexport Learning Manag
 [glossary-admin.md](administrator-documentation/glossary-admin.md)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
