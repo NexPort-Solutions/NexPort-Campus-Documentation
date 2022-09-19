@@ -59,4 +59,4 @@ If you have an active account on NexPort Campus and have forgotten your password
 A notification is sent to your email ID with a link to reset your password. This link is valid only for the <mark style="color:red;">**next 24 hours**</mark>. **** When you change your password, the temporary password is no longer active. If you again forget your password, <mark style="color:red;">**you must repeat the above process**</mark>.
 {% endhint %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
