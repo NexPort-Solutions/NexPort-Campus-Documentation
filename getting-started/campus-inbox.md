@@ -7,13 +7,13 @@ coverY: 0
 
 With NexPort Campus, you have an inclusive notification and electronic communications system which enables you to send auto notifications to your users.
 
-You can access the inbox to receive updated notification and communications regarding various activities in the NexPort Campus. You can receive notifications regarding user subscription, membership, question bank, group enrollment, user role permissions, copy course catalog and question bank, ticket details, pending assignment deadline, change password, forgot password, and others.
+You can access the inbox to receive update notifications and communications regarding various activities in the NexPort Campus. You can receive notifications regarding user subscription, membership, question banks, group enrollment, user role permissions, copy course catalog and question bank, ticket details, pending assignment deadline, change password, forgot password, and others.
 
 ## View inbox notification <a href="#view" id="view"></a>
 
-You can view or read the new or unread notifications (appear in bold letter) whereas already read notifications (appear as normal).
+You can view or read the new or unread notifications _<mark style="color:blue;">(appear in bold letters)</mark>_ whereas already read notifications _<mark style="color:blue;">(appear as normal)</mark>_.
 
-* In the upper-right corner of the NexPort Campus, click the ![](../.gitbook/assets/Notification.png) <mark style="color:blue;">**Inbox**</mark> icon.
+> In the upper-right corner of the NexPort Campus, click the ![](../.gitbook/assets/Notification.png) <mark style="color:blue;">**Inbox**</mark> icon.
 
 ![The Inbox page is displayed.](../.gitbook/assets/Inbox\_Page\_550x165.png)
 
@@ -29,7 +29,7 @@ You can view or read the previously send notifications.
 
 ## Delete inbox or sent notification <a href="#delete" id="delete"></a>
 
-You can delete one or more notifications from the <mark style="color:blue;">**Inbox**</mark> or <mark style="color:blue;">**Sent Mail**</mark>, if those notifications are no longer required.
+You can delete one or more notifications from the <mark style="color:blue;">**Inbox**</mark> or <mark style="color:blue;">**Sent Mail**</mark> if those notifications are no longer required.
 
 <mark style="color:blue;">**Step 1:**</mark>  In the upper-right corner of NexPort Campus, click the ![](../.gitbook/assets/Notification.png) <mark style="color:blue;">**Inbox**</mark>** ** icon.
 
@@ -38,7 +38,7 @@ You can delete one or more notifications from the <mark style="color:blue;">**In
 > The selected notification from the <mark style="color:blue;">**Inbox**</mark> tab or the <mark style="color:blue;">**Sent Mail**</mark> tab is displayed.
 
 {% hint style="info" %}
-When a notification is deleted, you cannot retrieve it again.
+_<mark style="color:blue;">When a notification is deleted, you cannot retrieve it again.</mark>_
 {% endhint %}
 
 ![](../.gitbook/assets/Delete\_message\_550x162.png)
