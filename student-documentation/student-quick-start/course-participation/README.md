@@ -5,7 +5,7 @@ coverY: 0
 
 # Course Participation
 
-After you are enrolled into a training plan and/or sections, you must be able to launch the section or training plan to participate in it. In NexPort sections are courses that combine one or more assignments. A training plan is a group of sections used together. There are often prerequisites used to allow the sections to be taken in the proper order. The training plan is analogous to a university degree plan.
+After you are enrolled in a training plan and/or section, you must be able to launch the section or training plan to participate in it. In NexPort sections are courses that combine one or more assignments. A training plan is a group of sections used together. There are often prerequisites used to allow the sections to be taken in the proper order. The training plan is analogous to a university degree plan.
 
 To participate in training plan or section, you need to do the following steps:
 
@@ -29,4 +29,4 @@ To participate in training plan or section, you need to do the following steps:
 [monitoring-course-progress.md](monitoring-course-progress.md)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
