@@ -8,20 +8,18 @@ coverY: 0
 
 ## Navigate your Training Plan or Section
 
-A training plan is a group of sections used together. Students are sometimes asked to appear for the sections in an order. Prerequisites are set for the students to follow the workflow.
+A training plan is a group of sections used together. Students are sometimes asked to appear for the sections in order. Prerequisites are set for the students to follow the workflow.
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**My Training > Enrollments**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
+> The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Title**</mark> column, click the training plan.
+<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Title**</mark> column, click the training plan.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Section\_One\_Student/Select\_Training\_Plan\_550x194.png)
+> The <mark style="color:blue;">**Training Plan**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Training Plan**</mark> page is displayed.
-
-{% hint style="warning" %}
-The display in the training plan page is based on the categories that are set up. Each element in the training plan is called a requirement. The following types of requirements are supported by NexPort Campus.
+{% hint style="info" %}
+_<mark style="color:blue;">The display on the training plan page is based on the categories that are set up. Each element in the training plan is called a requirement. The following types of requirements are supported by NexPort Campus.</mark>_
 {% endhint %}
 
 | Requirement                                     | Description                                                                                                                                                                 |
@@ -33,11 +31,11 @@ The display in the training plan page is based on the categories that are set up
 
 
 
-<mark style="color:blue;">**Step 1:**</mark>  Prerequisites might be required to be fulfilled to complete a training plan.
+> Prerequisites might be required to be fulfilled to complete a training plan.
 
 ![](<../../../.gitbook/assets/image (3) (1).png>)
 
-<mark style="color:blue;">**Step 2:**</mark>  In the above example, English 101 course is a prerequisite for the Math 101 course. You must complete the English 101 section before completing Math 101 section.
+> In the above example, the <mark style="color:blue;">**English 101**</mark> course is a prerequisite for the _<mark style="color:blue;">**Math 101**</mark>_ course. You must complete the <mark style="color:blue;">**English 101**</mark> section before attempting the <mark style="color:blue;">**Math 101**</mark> section.
 
 ## How to navigate through your section?
 
@@ -45,13 +43,11 @@ You need to navigate through the section to understand it.
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**My Training > Enrollments**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Enrollments**</mark> listing page is displayed.
+> The <mark style="color:blue;">**Enrollments**</mark> listing page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the section in the <mark style="color:blue;">**Title**</mark> column.
+<mark style="color:blue;">**Step 2:**</mark>  Click the section in the <mark style="color:blue;">**Title**</mark> column.
 
-<mark style="color:blue;">**Step 4:**</mark>  The classroom for that section is launched.
-
-
+> The classroom for that section is launched.
 
 #### For more information, see:
 
@@ -59,4 +55,4 @@ You need to navigate through the section to understand it.
 [find-more-training.md](../../student-reference/my-training-student/find-more-training.md)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
