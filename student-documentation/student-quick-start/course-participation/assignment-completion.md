@@ -22,10 +22,10 @@ The following are the assignment types that you may come across in NexPort Campu
 * Test Assignments
 * Writing Assignments
 
-For more information, see:
+#### For more information, see:
 
 {% content-ref url="../../student-reference/my-training-student/enrollments/classroom/assignment-types.md" %}
 [assignment-types.md](../../student-reference/my-training-student/enrollments/classroom/assignment-types.md)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
