@@ -67,6 +67,7 @@
   * [Deliver Content Other Than Instruction](administrator-documentation/administrator-quick-start/deliver-content-other-than-instruction.md)
   * [Communicate with Users](administrator-documentation/administrator-quick-start/communicate-with-users.md)
   * [Deliver Instructor-led Curriculum](administrator-documentation/administrator-quick-start/deliver-instructor-led-curriculum.md)
+  * [SCORM Best Practices](administrator-documentation/administrator-quick-start/scorm-best-practices.md)
 * [Administrator Reference](administrator-documentation/administrator-reference/README.md)
   * [Campus Management](administrator-documentation/administrator-reference/campus-management/README.md)
     * [Campus Directory](administrator-documentation/administrator-reference/campus-management/campus-directory/README.md)

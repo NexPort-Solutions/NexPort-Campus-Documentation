@@ -10,9 +10,9 @@ coverY: 0
 
 When you log on to NexPort Campus as a Student, you see the following menus.
 
-![ ](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Student\_reference\_550x239.png)
+![ ](../../.gitbook/assets/Student\_reference\_550x239.png)
 
-The NexPort Campus Student manages the following:
+#### The NexPort Campus Student manages the following:
 
 {% content-ref url="my-training-student/" %}
 [my-training-student](my-training-student/)
@@ -30,4 +30,4 @@ The NexPort Campus Student manages the following:
 [documents-student](documents-student/)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions. All Rights Reserved.
