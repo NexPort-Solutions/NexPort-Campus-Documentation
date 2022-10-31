@@ -16,7 +16,7 @@ If this is the desired behavior then the SCO should do nothing. If your SCO inte
 
 ## Call _LMSCommit_ Often
 
-According to the SCORM 1.2 specification CMI data is only required to be persisted when LMSInitialize is called OR when LMSCommit is called. To ensure that student progress is properly tracked LMSCommit should be called frequently.
+According to the SCORM 1.2 specification, CMI data is only required to be persisted when LMSFinish is called OR when LMSCommit is called. To ensure that student progress is properly tracked LMSCommit should be called frequently.
 
 ## Do Not Try to Close the Window
 
