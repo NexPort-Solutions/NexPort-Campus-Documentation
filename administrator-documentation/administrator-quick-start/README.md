@@ -44,4 +44,8 @@ The following are the primary administration functions.
 [deliver-instructor-led-curriculum.md](deliver-instructor-led-curriculum.md)
 {% endcontent-ref %}
 
+{% content-ref url="scorm-best-practices.md" %}
+[scorm-best-practices.md](scorm-best-practices.md)
+{% endcontent-ref %}
+
 #### © NexPort Solutions 2022. All Rights Reserved.
