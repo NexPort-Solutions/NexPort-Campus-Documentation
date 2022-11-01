@@ -16,15 +16,15 @@ An organization can be divided into sub organizations. For example, ABC Universi
 
 To provide a perspective on the organization hierarchy, here’s a visual representation on how an organization can be structured.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/SetUp\_Campus\_550x307.png)
+![](/.gitbook/assets/SetUp_Campus_550x307.png)
 
 &#x20;
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/Campus\_Structure\_550x393.png)
+![](/.gitbook/assets/Campus_Structure_550x393.png)
 
 &#x20;
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/Reseller\_Campus\_Structure\_550x471.png)
+![](/.gitbook/assets/Reseller_Campus_Structure_550x471.png)
 
 ## How to set up an organization? <a href="#how" id="how"></a>
 
