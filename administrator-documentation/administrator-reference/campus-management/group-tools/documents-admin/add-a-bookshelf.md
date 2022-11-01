@@ -10,13 +10,13 @@ coverY: 0
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Documents**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Browse**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Add\_Bookshelf\_550x228.png)
+![](/.gitbook/assets/Add_Bookshelf_550x228.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Add a Bookshelf**</mark> tab.
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Add Bookshelf**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Add\_Bookshelf\_dialog.png)
+![](/.gitbook/assets/Add_Bookshelf_dialog.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the box, type the bookshelf name.
 
@@ -24,6 +24,6 @@ coverY: 0
 
 <mark style="color:blue;">**Step 6:**</mark>  A new bookshelf is saved.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/New\_Bookshelf\_550x224.png)
+![](/.gitbook/assets/New_Bookshelf_550x224.png)
 
 #### © NexPort Solutions. All Rights Reserved.

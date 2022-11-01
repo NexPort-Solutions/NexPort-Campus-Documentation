@@ -12,7 +12,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Roles**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Roles/Add\_Roles.png)
+![](/.gitbook/assets/Add_Roles.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Add a Role**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> area, do the following:
 

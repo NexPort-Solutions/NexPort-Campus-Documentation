@@ -10,7 +10,7 @@ You can assign membership to a group in the following ways:
 
 <mark style="color:blue;">**Step 1:**</mark>  Click the <mark style="color:blue;">**Membership Settings**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Membership\_Settings\_550x249.png)
+![](/.gitbook/assets/Membership_Settings_550x249.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  On the <mark style="color:blue;">**Membership Settings**</mark> page, do one of the following:
 

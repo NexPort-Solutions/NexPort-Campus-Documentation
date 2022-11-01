@@ -31,13 +31,13 @@ The custom enrollment field can be saved as different type fields, they are as f
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Enrollment\_Field\_550x90.png)
+![](/.gitbook/assets/Custom_Enrollment_Field_550x90.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Add_CustomProfile.png) icon.
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Add Enrollment Field**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Add\_Enrollment\_Field\_box.png)\
+![](/.gitbook/assets/Add_Enrollment_Field_box.png)\
 
 
 <mark style="color:blue;">**Step 4:**</mark> In the <mark style="color:blue;">**Key**</mark> box, type the key.
@@ -58,15 +58,15 @@ The key can only contain letters, numbers, and underscores, and must not start w
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Setting\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Setting_CustomProfile.png) icon.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Enrollment\_Fields\_Settings\_550x88.png)
+![](/.gitbook/assets/Custom_Enrollment_Fields_Settings_550x88.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Enrollment Field Settings**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Enrollment\_Field\_Settings\_509x186.png)
+![](/.gitbook/assets/Enrollment_Field_Settings_509x186.png)
 
-<mark style="color:blue;">**Step 4:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 4:**</mark> Click the ![](/.gitbook/assets/Edit_CustomProfile.png) icon.
 
 <mark style="color:blue;">**Step 5:**</mark> In the <mark style="color:blue;">**Default Value**</mark> list, click the value.
 
@@ -78,13 +78,13 @@ The key can only contain letters, numbers, and underscores, and must not start w
 
 <mark style="color:blue;">**Step 1:**</mark>  Place the cursor in the <mark style="color:blue;">**Type a syllabus**</mark> title.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Enrollment\_Field\_Setttings\_Syllabus.png)
+![](/.gitbook/assets/Enrollment_Field_Setttings_Syllabus.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  The syllabus title list is displayed.
 
 <mark style="color:blue;">**Step 3:**</mark>  Select the syllabus title for which you need to change the settings.
 
-<mark style="color:blue;">**Step 4:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 4:**</mark>  Click the ![](/.gitbook/assets/Add_CustomProfile.png) icon.
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Default Value**</mark> list, click the value.
 
@@ -100,9 +100,9 @@ You can repeat these steps for other syllabus.
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit\_CustomProfile.png) icon next to custom enrollment field.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Edit_CustomProfile.png) icon next to custom enrollment field.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Enrollment\_Fields\_Edit\_550x87.png)
+![](/.gitbook/assets/Custom_Enrollment_Fields_Edit_550x87.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Edit Enrollment**</mark> Field dialog box is displayed.
 
@@ -114,9 +114,9 @@ You can repeat these steps for other syllabus.
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_CustomProfile.png) icon next to custom enrollment field.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Delete_CustomProfile.png) icon next to custom enrollment field.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Enrollment\_Fields\_Delete\_550x89.png)\
+![](/.gitbook/assets/Custom_Enrollment_Fields_Delete_550x89.png)\
 
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Confirm Deletion**</mark> dialog box is displayed.

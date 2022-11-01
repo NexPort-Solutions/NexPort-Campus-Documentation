@@ -40,17 +40,17 @@ An organization is an independent entity or establishment constituted to accompl
 
 <mark style="color:blue;">**Step 2:**</mark>  The landing page for the root or parent organization is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right.png) icon to view the organization tree.
+<mark style="color:blue;">**Step 3:**</mark>  Click the ![](/.gitbook/assets/Right.png) icon to view the organization tree.
 
 {% hint style="info" %}
 You can also view the organizations or groups accessed recently in the **Recent** section.
 {% endhint %}
 
-<mark style="color:blue;">**Step 4:**</mark>  On the toolbar located above the organization tree, select the organization or group under which you need the organization to be created, and click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_Organization.png) icon.
+<mark style="color:blue;">**Step 4:**</mark>  On the toolbar located above the organization tree, select the organization or group under which you need the organization to be created, and click the ![](/.gitbook/assets/Add_Organization.png) icon.
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Add**</mark> dialog box, type the details in the fields, and then click <mark style="color:blue;">**Add**</mark>.
 
-<mark style="color:blue;">**Step 6:**</mark>  The organization is created under the selected entity and is denoted by this ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Organization.png) icon.
+<mark style="color:blue;">**Step 6:**</mark>  The organization is created under the selected entity and is denoted by this ![](/.gitbook/assets/Organization.png) icon.
 
 #### For more information about adding an organization, see
 
@@ -68,13 +68,13 @@ A group is a subset of an organization or sub organization. In context of NexPor
 
 <mark style="color:blue;">**Step 2:**</mark>  The landing page for the root or parent organization is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right.png) icon to view the organization tree.
+<mark style="color:blue;">**Step 3:**</mark>  Click the ![](/.gitbook/assets/Right.png) icon to view the organization tree.
 
-<mark style="color:blue;">**Step 4:**</mark>  On the toolbar located above the organization tree, select the organization or group under which you need the group to be created, and click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_Group.png) icon.
+<mark style="color:blue;">**Step 4:**</mark>  On the toolbar located above the organization tree, select the organization or group under which you need the group to be created, and click the ![](/.gitbook/assets/Add_Group.png) icon.
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Add**</mark> dialog box, type the details in the fields, and then click <mark style="color:blue;">**Add**</mark>.
 
-<mark style="color:blue;">**Step 6:**</mark>  The group is added under the selected entity and is denoted by this ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Group.png) icon.
+<mark style="color:blue;">**Step 6:**</mark>  The group is added under the selected entity and is denoted by this ![](/.gitbook/assets/Group.png) icon.
 
 #### For more information about adding a group.
 

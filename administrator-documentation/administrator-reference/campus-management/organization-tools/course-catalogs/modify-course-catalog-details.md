@@ -14,7 +14,7 @@ description: >-
 
 <mark style="color:blue;">**Step 3:**</mark>**  **  In the <mark style="color:blue;">**Course Catalogs**</mark> list, select the course catalog that you need to modify.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/Edit\_CourseCatalog\_550x125.png)
+![](/.gitbook/assets/Edit_CourseCatalog_550x125.png)
 
 <mark style="color:blue;">**Step 4:**</mark>**  ** Modify the values on the tabs.
 

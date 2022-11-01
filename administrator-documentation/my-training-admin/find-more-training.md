@@ -20,7 +20,7 @@ The catalogs listed here are based on the membership in the organization.
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of a section that you need to search.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Find\_Training/Training\_Search\_550x148.png)
+![](/.gitbook/assets/Training_Search_550x148.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Search**</mark> and NexPort Campus populates matching results.
 
@@ -38,7 +38,7 @@ Click <mark style="color:blue;">**Reset**</mark>, to reset the search.
 The catalogs listed here are based on the membership in the organization.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Find\_Training/Training\_Enroll\_550x198.png)
+![](/.gitbook/assets/Training_Enroll_550x198.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click a category link.
 

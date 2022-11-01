@@ -24,10 +24,10 @@ For Grading Strategy, if <mark style="color:blue;">**‘No Grade’**</mark> is 
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Classroom**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 5:**</mark>  In the upper-right corner of the classroom, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Gradebook\_icon\_50x43.png) icon.
+<mark style="color:blue;">**Step 5:**</mark>  In the upper-right corner of the classroom, click the ![](/.gitbook/assets/Gradebook_icon_50x43.png) icon.
 
 <mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Gradebook**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Classroom/Gradebook\_overview\_550x225.png)
+![](/.gitbook/assets/Gradebook_overview_550x225.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

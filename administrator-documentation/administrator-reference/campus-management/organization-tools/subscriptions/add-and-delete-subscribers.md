@@ -10,7 +10,7 @@ description: You can add or remove subscribers from the NexPort Campus.
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Add Subscribers**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Add\_Subscribers\_Subscription\_550x221.png)
+![](/.gitbook/assets/Add_Subscribers_Subscription_550x221.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Subscribe**</mark> next to the user whom you need to subscribe.
 
@@ -22,7 +22,7 @@ description: You can add or remove subscribers from the NexPort Campus.
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Add Subscribers**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Add\_Subscribers\_Remove\_550x221.png)
+![](/.gitbook/assets/Add_Subscribers_Remove_550x221.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Remove**</mark> next to the user whom you need to unsubscribe.
 

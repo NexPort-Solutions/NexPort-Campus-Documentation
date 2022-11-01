@@ -14,7 +14,7 @@ The material that you create as the main item appears on the first page and is c
 
 <mark style="color:blue;">**Step 2:**</mark>  Select the community in which you need to add a new page.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/My\_Community/MyCommunity\_Add\_550x221.png)
+![](/.gitbook/assets/MyCommunity_Add_550x221.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the left column, click <mark style="color:blue;">**Add a new page**</mark>.
 

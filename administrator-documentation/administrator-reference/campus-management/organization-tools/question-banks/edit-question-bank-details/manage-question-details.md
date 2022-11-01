@@ -10,11 +10,11 @@ description: >-
 
 <mark style="color:blue;">**Step 1:**</mark>  Click the <mark style="color:blue;">**Questions**</mark> tab.  The <mark style="color:blue;">**Questions**</mark> page is displayed with the list of questions.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Questions\_Add\_550x185.png)
+![](/.gitbook/assets/Questions_Add_550x185.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Add**</mark><mark style="color:blue;">,</mark> to add a question to the question bank.  The <mark style="color:blue;">**Edit Question**</mark> tab is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Edit\_Question\_550x478.png)
+![](/.gitbook/assets/Edit_Question_550x478.png)
 
 <mark style="color:blue;">**Step 3**</mark>:  In the <mark style="color:blue;">**Question Id**</mark> box, type the question number.
 
@@ -61,9 +61,9 @@ You can update or modify question details.
 
 <mark style="color:blue;">**Step 1:**</mark>  Click the <mark style="color:blue;">**Questions**</mark> tab.  The <mark style="color:blue;">**Questions**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Questions\_Edit\_550x185.png)
+![](/.gitbook/assets/Questions_Edit_550x185.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon, next to the question that you need to modify.  The <mark style="color:blue;">**Edit Question**</mark> tab is displayed.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Edit.png) icon, next to the question that you need to modify.  The <mark style="color:blue;">**Edit Question**</mark> tab is displayed.
 
 <mark style="color:blue;">**Step 3:**</mark>  Modify the values in the <mark style="color:blue;">**Question**</mark> area and <mark style="color:blue;">**Open Ended Question**</mark> area.
 
@@ -77,9 +77,9 @@ You can delete questions from the question bank that are no longer relevant.
 
 <mark style="color:blue;">**Step 1:**</mark>  Click the <mark style="color:blue;">**Questions**</mark> tab.  The <mark style="color:blue;">**Questions**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Questions\_Delete\_550x185.png)
+![](/.gitbook/assets/Questions_Delete_550x185.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the questions that you need to remove.  A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure this is what you want?”</mark>_ message.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Delete.png) icon next to the questions that you need to remove.  A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure this is what you want?”</mark>_ message.
 
 <mark style="color:blue;">**Step 3:**</mark> Click <mark style="color:blue;">**OK**</mark><mark style="color:blue;">.</mark>  The selected questions are deleted from the question bank.
 

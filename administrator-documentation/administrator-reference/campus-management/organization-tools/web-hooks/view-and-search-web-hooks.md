@@ -20,7 +20,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark> In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the name of the web hook.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooks\_Search\_550x97.png)
+![](/.gitbook/assets/WebHooks_Search_550x97.png)
 
 <mark style="color:blue;">**Step 3:**</mark> Click <mark style="color:blue;">**Search**</mark>.
 

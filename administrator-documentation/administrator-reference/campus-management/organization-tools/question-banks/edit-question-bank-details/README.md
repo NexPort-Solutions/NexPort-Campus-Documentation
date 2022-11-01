@@ -12,9 +12,9 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Question Banks**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Edit**</mark> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the question bank that you need to modify.
+<mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Edit**</mark> ![](/.gitbook/assets/Edit.png) icon next to the question bank that you need to modify.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Question\_Banks\_Edit\_550x213.png)
+![](/.gitbook/assets/Question_Banks_Edit_550x213.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Editing \<question bank name>**</mark> page is displayed.
 

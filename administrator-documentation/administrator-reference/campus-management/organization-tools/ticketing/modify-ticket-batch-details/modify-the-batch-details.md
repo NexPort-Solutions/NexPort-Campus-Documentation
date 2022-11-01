@@ -10,7 +10,7 @@ description: >-
 
 <mark style="color:blue;">**Step 1:**</mark>  Click the <mark style="color:blue;">**Batch Details**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Edit\_Ticket\_Batch\_Details\_550x432.png)
+![](/.gitbook/assets/Edit_Ticket_Batch_Details_550x432.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Edit Ticket Batch Details**</mark> area, do the following:
 
@@ -70,7 +70,7 @@ If the tickets in this batch can be redeemed right now then it displays <mark st
 
 <mark style="color:blue;">**Step 1:**</mark>  In the <mark style="color:blue;">**Add Tickets**</mark> box, type the number of additional tickets to add in the ticket batch.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Add\_Tickets\_550x107.png)
+![](/.gitbook/assets/Add_Tickets_550x107.png)
 
 Step 2:  Click <mark style="color:blue;">**Add Tickets**</mark>.
 

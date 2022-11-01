@@ -58,7 +58,7 @@ You can view the membership details such as the group, organization, membership 
 [memberships](../../campus-management/group-tools/memberships/)
 {% endcontent-ref %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Membership\_550x102.png)
+![](/.gitbook/assets/Membership_550x102.png)
 
 ## Enrollments <a href="#enrollme" id="enrollme"></a>
 
@@ -74,7 +74,7 @@ You can view, add, modify, and delete an enrollment. Students can be enrolled in
 
 You can view the complete summary of all the courses a user has successfully completed, dropped or been deleted from. You can use the Search filter to find specific transcript record details. You can view a transcript that displays the course details such as when was the course enrolled for and grade received for the course, and others.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Transcript\_Records\_550x91.png)
+![](/.gitbook/assets/Transcript_Records_550x91.png)
 
 ## Permissions <a href="#permissi" id="permissi"></a>
 
@@ -86,7 +86,7 @@ Displays all the roles that the user has within your campus.
 [roles](../../campus-management/organization-tools/roles/)
 {% endcontent-ref %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Permissions\_550x159.png)
+![](/.gitbook/assets/Permissions_550x159.png)
 
 ## Login Credentials <a href="#login" id="login"></a>
 
@@ -104,7 +104,7 @@ The user information page is displayed.
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Login Credentials**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Login\_Credentials\_550x77.png)
+![](/.gitbook/assets/Login_Credentials_550x77.png)
 
 <mark style="color:blue;">**Step 4:**</mark> In the <mark style="color:blue;">**Credential Details**</mark> column, do the following:
 
@@ -124,7 +124,7 @@ The user information page is displayed.
 A <mark style="color:blue;">**Permission Denied**</mark> warning dialog box is displayed, if you try to modify the login credentials and set password of users that you do not have permission to edit.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Permission\_Denied\_550x177.png)
+![](/.gitbook/assets/Permission_Denied_550x177.png)
 
 ## Communication Log <a href="#communic" id="communic"></a>
 
@@ -136,7 +136,7 @@ For more information about inbox notification, see:
 [campus-inbox.md](../../../../getting-started/campus-inbox.md)
 {% endcontent-ref %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Communication\_Log\_550x92.png)
+![](/.gitbook/assets/Communication_Log_550x92.png)
 
 #### <mark style="color:blue;">**To add a new communication event:**</mark>
 
@@ -152,7 +152,7 @@ The user information page is displayed.
 
 The <mark style="color:blue;">**New Communication**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/New\_Communication.png)
+![](/.gitbook/assets/New_Communication.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the uppermost list, select an organization.
 

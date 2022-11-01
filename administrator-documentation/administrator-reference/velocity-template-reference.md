@@ -5,7 +5,7 @@ coverY: 0
 
 # Velocity Template Reference
 
-You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > Velocity Template Reference > Velocity User Guide
+You are here: [Section Two: Administrator reference](/administrator-documentation/administrator-reference/Administration_reference.htm) > Velocity Template Reference > Velocity User Guide
 
 ## **About this Guide** <a href="#about-this-guide" id="about-this-guide"></a>
 
@@ -70,17 +70,17 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > Comments allows descriptive text to be included that is not placed into the output of the template engine. Comments are a useful way of reminding yourself and explaining to others what your VTL statements are doing, or any other purpose you find useful. Below is an example of a comment in VTL.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ## This is a single line comment.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > A single line comment begins with _##_ and finishes at the end of the line. If you're going to write a few lines of commentary, there's no need to have numerous single line comments. Multi-line comments, which begin with _#\*_ and end with _\*#_, are available to handle this scenario.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > This is text that is outside the multi-line comment.
@@ -91,11 +91,11 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > Here is text outside the multi-line comment; it is visible.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Here are a few examples to clarify how single line and multi-line comments work:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > This text is visible. 
@@ -121,36 +121,36 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > * alphabetic (a .. z, A .. Z)
 > * numeric (0 .. 9)
 > * hyphen ("-")
-> * underscore ("\_")
+> * underscore ("_")
 >
 > &#x20;
 >
 > Here are some examples of valid variable references in the VTL:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $foo$mudSlinger$mud-slinger$mud_slinger$mudSlinger1
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > When VTL references a variable, such as _$foo_, the variable can get its value from either a _set_ directive in the template. For example, if the Java variable _$foo_ has the value _bar_ at the time the template is requested, _bar_ replaces all instances of _$foo_ on the web page. Alternatively, if I include the statement
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $foo = "bar" )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The output will be the same for all instances of _$foo_ that follow this directive.
 >
 > **Properties**\
 > The second flavor of VTL references are properties, and properties have a distinctive format. The shorthand notation consists of a leading _$_ character followed a VTL Identifier, followed by a dot character (".") and another VTL Identifier. These are examples of valid property references in the VTL:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $customer.Address
@@ -167,13 +167,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > **Methods**\
 > A method is defined in NexPort Campus and is capable of doing something useful, like running a calculation or arriving at a decision. Methods are references that consist of a leading "$" character followed a VTL Identifier, followed by a VTL _Method Body_. A VTL Method Body consists of a VTL Identifier followed by an left parenthesis character ("("), followed by an optional parameter list, followed by right parenthesis character (")"). These are examples of valid method references in the VTL:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $customer.getAddress()$purchase.getTotal()$page.setTitle( "My Home Page" )$person.setAttributes( ["Strange", "Weird", "Excited"] )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The first two examples -- _$customer.getAddress()_ and _$purchase.getTotal()_ -- may look similar to those used in the Properties section above, _$customer.Address_ and _$purchase.Total_. If you guessed that these examples must be related some in some fashion, you are correct!
 >
@@ -181,91 +181,91 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > The shorthand notation can be used for the following Methods
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $sun.getPlanets()$annelid.getDirt()$album.getPhoto()
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > We might expect these methods to return the names of planets belonging to the sun, feed our earthworm, or get a photograph from an album. Only the long notation works for the following Methods.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $sun.getPlanet( ["Earth", "Mars", "Neptune"] )## Can't pass a parameter list with $sun.Planets$sisyphus.pushRock()## Velocity assumes I mean $sisyphus.getRock()$book.setTitle( "Homage to Catalonia" )## Can't pass a parameter list
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > **Formal Reference Notation**\
 > Shorthand notation for references was used for the examples listed above, but there is also a formal notation for references, which is demonstrated below:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ${mudSlinger}${customer.Address}${purchase.getTotal()}
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > In almost all cases you will use the shorthand notation for references, but in some cases the formal notation is required for correct processing.
 >
 > Suppose you were constructing a sentence on the fly where _$vice_ was to be used as the base word in the noun of a sentence. The goal is to allow someone to choose the base word and produce one of the two following results: "Jack is a pyromaniac." or "Jack is a kleptomaniac.". Using the shorthand notation would be inadequate for this task. Consider the following example:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Jack is a $vicemaniac.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > There is ambiguity here, and Velocity assumes that _$vicemaniac_, not _$vice_, is the Identifier that you mean to use. Finding no value for _$vicemaniac_, it will return _$vicemaniac_. Using formal notation can resolve this problem.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Jack is a ${vice}maniac.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Now Velocity knows that _$vice_, not _$vicemaniac_, is the reference. Formal notation is often useful when references are directly adjacent to text in a template.
 >
 > **Quiet Reference Notation**\
 > When Velocity encounters an undefined reference, its normal behavior is to output the image of the reference. For example, suppose the following reference appears as part of a VTL template.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <input type="text" name="email" value="$email"/>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > When the form initially loads, the variable reference _$email_ has no value, but you prefer a blank text field to one with a value of "$email". Using the quiet reference notation circumvents Velocity's normal behavior; instead of using _$email_ in the VTL you would use _$!email_. So the above example would look like the following:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <input type="text" name="email" value="$!email"/>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Now when the form is initially loaded and _$email_ still has no value, an empty string will be output instead of "$email".
 >
 > Formal and quiet reference notation can be used together, as demonstrated below.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <input type="text" name="email" value="$!{email}"/>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 
 &#x20;
 
@@ -279,67 +279,67 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > There is no problem writing "I bought a 4 lb. sack of potatoes at the farmer's market for only $2.50!" As mentioned, a VTL identifier always begins with an upper- or lowercase letter, so $2.50 would not be mistaken for a reference.
 >
 > **Escaping Valid VTL References**\
-> Cases may arise where there is the potential for Velocity to get confused. _Escaping_ special characters is the best way to handle VTL's special characters in your templates, and this can be done using the backslash ( _\\_ ) character.
+> Cases may arise where there is the potential for Velocity to get confused. _Escaping_ special characters is the best way to handle VTL's special characters in your templates, and this can be done using the backslash ( _\_ ) character.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $email = "foo" )$email
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > If Velocity encounters a reference in your VTL template to _$email_, it will search the Context for a corresponding value. Here the output will be _foo_, because _$email_ is defined. If _$email_ is not defined, the output will be _$email_.
 >
 > Suppose that _$email_ is defined (for example, if it has the value _foo_), and that you want to output _$email_. There are a few ways of doing this, but the simplest is to use the escape character.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ## The following line defines $email in this template:#set( $email = "foo" )$email\$email\\$email\\\$email
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > renders as
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > foo$email\foo\$email
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
-> Note that the _\\_ character bind to the _$_ from the left. The bind-from-left rule causes _\\\\\\$email_ to render as _\\\\$email_. Compare these examples to those in which _$email_ is not defined.
+> Note that the _\_ character bind to the _$_ from the left. The bind-from-left rule causes _\\\\\\$email_ to render as _\\\\$email_. Compare these examples to those in which _$email_ is not defined.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $email\$email\\$email\\\$email
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > renders as
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $email\$email\\$email\\\$email
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Notice Velocity handles references that are defined differently from those that have not been defined. Here is a set directive that gives _$foo_ the value _gibbous_.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $foo = "gibbous" )$moon = $foo
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The output will be: _$moon = gibbous_ -- where _$moon_ is output as a literal because it is undefined and _gibbous_ is output in place of _$foo_.
 >
@@ -353,13 +353,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > Now that you are familiar with references, you can begin to apply them effectively in your templates. Velocity references take advantage of some Java principles that template designers will find easy to use. For example:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $foo$foo.getBar()## is the same as$foo.Bar$data.getUser("jon")## is the same as$data.User("jon")$data.getRequest().getServerName()## is the same as$data.Request.ServerName## is the same as${data.Request.ServerName}
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > These examples illustrate alternative uses for the same references. Velocity takes advantage of Java's introspection and bean features to resolve the reference names to both objects in the Context as well as the objects methods. It is possible to embed and evaluate references almost anywhere in your template.
 >
@@ -379,13 +379,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > The _#set_ directive is used for setting the value of a reference. A value can be assigned to either a variable reference or a property reference, and this occurs in brackets, as demonstrated:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $primate = "monkey" )#set( $customer.Behavior = $primate )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The left hand side (LHS) of the assignment must be a variable reference or a property reference. The right hand side (RHS) can be one of the following types:
 >
@@ -402,67 +402,67 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > These examples demonstrate each of the aforementioned types:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $monkey = $bill ) ## variable reference#set( $monkey.Friend = "monica" ) ## string literal#set( $monkey.Blame = $whitehouse.Leak ) ## property reference#set( $monkey.Plan = $spindoctor.weave($web) ) ## method reference#set( $monkey.Number = 123 ) ##number literal#set( $monkey.Say = ["Not", $my, "fault"] ) ## ArrayList
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > NOTE: In the last example the elements defined with the \[..] operator are accessible using the methods defined in the ArrayList class. So, for example, you could access the first element above using $monkey.Say.get(0).
 >
 > The RHS can also be a simple arithmetic expression:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $value = $foo + 1 )#set( $value = $bar - 1 )#set( $value = $foo * $bar )#set( $value = $foo / $bar )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > If the RHS is a property or method reference that evaluates to _null_, it will **not** be assigned to the LHS. It is not possible to remove an existing reference from the context via this mechanism. This can be confusing for newcomers to Velocity. For example:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $result = $query.criteria("name") )The result of the first query is $result#set( $result = $query.criteria("address") )The result of the second query is $result
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > If _$query.criteria("name")_ returns the string "bill", and _$query.criteria("address")_ returns _null_, the above VTL will render as the following:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > The result of the first query is billThe result of the second query is bill
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > This tends to confuse newcomers who construct _#foreach_ loops that attempt to _#set_ a reference via a property or method reference, then immediately test that reference with an _#if_ directive. For example:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $criteria = ["name", "address"] )#foreach( $criterion in $criteria )    #set( $result = $query.criteria($criterion) )    #if( $result )        Query was successful    #end#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > In the above example, it would not be wise to rely on the evaluation of _$result_ to determine if a query was successful. After _$result_ has been _#set_ (added to the context), it cannot be set back to _null_ (removed from the context). The details of the _#if_ and _#foreach_ directives are covered later in this document.
 >
 > One solution to this would be to pre-set _$result_ to _false_. Then if the _$query.criteria()_ call fails, you can check.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $criteria = ["name", "address"] )#foreach( $criterion in $criteria )    #set( $result = false )    #set( $result = $query.criteria($criterion) )    #if( $result )        Query was successful    #end#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Unlike some of the other Velocity directives, the _#set_ directive does not have an _#end_ statement.
 >
@@ -470,39 +470,39 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > When using the _#set_ directive, string literals that are enclosed in double quote characters will be parsed and rendered, as shown:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $directoryRoot = "www" )#set( $templateName = "index.vm" )#set( $template = "$directoryRoot/$templateName" )$template
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The output will be
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > www/index.vm
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > However, when the string literal is enclosed in single quote characters, it will not be parsed:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $foo = "bar" )$foo#set( $blargh = '$foo' )$blargh
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 >   bar  $foo
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > By default, this feature of using single quotes to render unparsed text is available in Velocity. This default can be changed by editing `velocity.properties` such that `stringliterals.interpolate=false`.
 
@@ -516,13 +516,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > The _#if_ directive in Velocity allows for text to be included when the web page is generated, on the conditional that the if statement is true. For example:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #if( $foo )   <strong>Velocity!</strong>#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The variable _$foo_ is evaluated to determine whether it is true, which will happen under one of two circumstances: (i) _$foo_ is a boolean (true/false) which has a true value, or (ii) the value is not null. Remember that the Velocity context only contains Objects, so when we say 'boolean', it will be represented as a Boolean (the class). This is true even for methods that return `boolean` - the introspection infrastructure will return a `Boolean` of the same logical value.
 >
@@ -530,13 +530,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > An _#elseif_ or _#else_ element can be used with an _#if_ element. Note that the Velocity Templating Engine will stop at the first expression that is found to be true. In the following example, suppose that _$foo_ has a value of 15 and _$bar_ has a value of 6.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #if( $foo < 10 )    <strong>Go North</strong>#elseif( $foo == 10 )    <strong>Go East</strong>#elseif( $bar == 6 )    <strong>Go South</strong>#else    <strong>Go West</strong>#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > In this example, _$foo_ is greater than 10, so the first two comparisons fail. Next _$bar_ is compared to 6, which is true, so the output is **Go South**.
 >
@@ -546,47 +546,47 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > Velocity uses the equivalent operator to determine the relationships between variables. Here is a simple example to illustrate how the equivalent operator is used.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set ($foo = "deoxyribonucleic acid")#set ($bar = "ribonucleic acid")#if ($foo == $bar)  In this case it's clear they aren't equivalent. So...#else  They are not equivalent and this will be the output.#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Velocity has logical AND, OR and NOT operators as well. For further information, please see the [VTL Reference Guide](http://velocity.apache.org/engine/1.4/vtl-reference-guide.html) Below are examples demonstrating the use of the logical AND, OR and NOT operators.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ## logical AND#if( $foo && $bar )   <strong> This AND that</strong>#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The _#if()_ directive will only evaluate to true if both _$foo_ and _$bar_ are true. If _$foo_ is false, the expression will evaluate to false; _$bar_ will not be evaluated. If _$foo_ is true, the Velocity Templating Engine will then check the value of _$bar_; if _$bar_ is true, then the entire expression is true and **This AND that** becomes the output. If _$bar_ is false, then there will be no output as the entire expression is false.
 >
 > Logical OR operators work the same way, except only one of the references need evaluate to true in order for the entire expression to be considered true. Consider the following example.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ## logical OR#if( $foo || $bar )    <strong>This OR That</strong>#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > If _$foo_ is true, the Velocity Templating Engine has no need to look at _$bar_; whether _$bar_ is true or false, the expression will be true, and **This OR That** will be output. If _$foo_ is false, however, _$bar_ must be checked. In this case, if _$bar_ is also false, the expression evaluates to false and there is no output. On the other hand, if _$bar_ is true, then the entire expression is true, and the output is **This OR That**
 >
 > With logical NOT operators, there is only one argument :
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ##logical NOT#if( !$foo )  <strong>NOT that</strong>#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Here, the if _$foo_ is true, then _!$foo_ evaluates to false, and there is no output. If _$foo_ is false, then _!$foo_ evaluates to true and **NOT that** will be output. Be careful not to confuse this with the _quiet reference $!foo_ which is something altogether different.
 
@@ -600,13 +600,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > The _#foreach_ element allows for looping. For example:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <ul>#foreach( $product in $allProducts )    <li>$product</li>#end</ul>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > This _#foreach_ loop causes the _$allProducts_ list (the object) to be looped over for all of the products (targets) in the list. Each time through the loop, the value from _$allProducts_ is placed into the _$product_ variable.
 >
@@ -614,33 +614,33 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > Lets say that _$allProducts_ is a Hashtable. If you wanted to retrieve the key values for the Hashtable as well as the objects within the Hashtable, you can use code like this:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <ul>#foreach( $key in $allProducts.keySet() )    <li>Key: $key -> Value: $allProducts.get($key)</li>#end</ul>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Velocity provides an easy way to get the loop counter so that you can do something like the following:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <table>#foreach( $customer in $customerList )    <tr><td>$velocityCount</td><td>$customer.Name</td></tr>#end</table>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The default name for the loop counter variable reference, which is specified in the velocity.properties file, is $velocityCount. By default the counter starts at 1, but this can be set to either 0 or 1 in the `velocity.properties` file. Here's what the loop counter properties section of the `velocity.properties` file appears:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > # Default name of the loop counter# variable reference.directive.foreach.counter.name = velocityCount# Default starting value of the loop# counter variable reference.directive.foreach.counter.initial.value = 1
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 
 &#x20;
 
@@ -648,35 +648,35 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 ## **Include** <a href="#include" id="include"></a>
 
-> The _#include_ script element allows the template designer to import a local file, which is then inserted into the location where the _#include_ directive is defined. The contents of the file are not rendered through the template engine. For security reasons, the file to be included may only be under TEMPLATE\_ROOT.
+> The _#include_ script element allows the template designer to import a local file, which is then inserted into the location where the _#include_ directive is defined. The contents of the file are not rendered through the template engine. For security reasons, the file to be included may only be under TEMPLATE_ROOT.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #include( "one.txt" )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The file to which the _#include_ directive refers is enclosed in quotes. If more than one file will be included, they should be separated by commas.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #include( "one.gif","two.txt","three.htm" )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The file being included need not be referenced by name; in fact, it is often preferable to use a variable instead of a filename. This could be useful for targeting output according to criteria determined when the page request is submitted. Here is an example showing both a filename and a variable.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #include( "greetings.txt", $seasonalstock )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 
 &#x20;
 
@@ -686,35 +686,35 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > The _#parse_ script element allows the template designer to import a local file that contains VTL. Velocity will parse the VTL and render the template specified.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #parse( "me.vm" )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
-> Like the _#include_ directive, _#parse_ can take a variable rather than a template. Any templates to which _#parse_ refers must be included under TEMPLATE\_ROOT. Unlike the _#include_ directive, _#parse_ will only take a single argument.
+> Like the _#include_ directive, _#parse_ can take a variable rather than a template. Any templates to which _#parse_ refers must be included under TEMPLATE_ROOT. Unlike the _#include_ directive, _#parse_ will only take a single argument.
 >
-> VTL templates can have _#parse_ statements referring to templates that in turn have _#parse_ statements. By default set to 10, the _parse\_directive.maxdepth_ line of the `velocity.properties` allows users to customize maximum number of _#parse_ referrals that can occur from a single template. (Note: If the _parse\_directive.maxdepth_ property is absent from the `velocity.properties` file, Velocity will set this default to 10.) Recursion is permitted, for example, if the template `dofoo.vm` contains the following lines:
+> VTL templates can have _#parse_ statements referring to templates that in turn have _#parse_ statements. By default set to 10, the _parse_directive.maxdepth_ line of the `velocity.properties` allows users to customize maximum number of _#parse_ referrals that can occur from a single template. (Note: If the _parse_directive.maxdepth_ property is absent from the `velocity.properties` file, Velocity will set this default to 10.) Recursion is permitted, for example, if the template `dofoo.vm` contains the following lines:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Count down.#set( $count = 8 )#parse( "parsefoo.vm" )All done with dofoo.vm!
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > It would reference the template `parsefoo.vm`, which might contain the following VTL:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > $count#set( $count = $count - 1 )#if( $count > 0 )    #parse( "parsefoo.vm" )#else    All done with parsefoo.vm!#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > After "Count down." is displayed, Velocity passes through `parsefoo.vm`, counting down from 8. When the count reaches 0, it will display the "All done with parsefoo.vm!" message. At this point, Velocity will return to `dofoo.vm` and output the "All done with dofoo.vm!" message.
 
@@ -726,13 +726,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > The _#stop_ script element allows the template designer to stop the execution of the template engine and return. This is useful for debugging purposes.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #stop
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 
 &#x20;
 
@@ -742,79 +742,79 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > The _#macro_ script element allows template designers to define a repeated segment of a VTL template. Velocimacros are very useful in a wide range of scenarios both simple and complex. This Velocimacro, created for the sole purpose of saving keystrokes and minimizing typographic errors, provides an introduction to the concept of Velocimacros.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #macro( d )<tr><td></td></tr>#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The Velocimacro being defined in this example is _d_, and it can be called in a manner analogous to any other VTL directive:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #d()
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > When this template is called, Velocity would replace _#d()_ with a row containing a single, empty data cell.
 >
 > A Velocimacro could take any number of arguments -- even zero arguments, as demonstrated in the first example, is an option -- but when the Velocimacro is invoked, it must be called with the same number of arguments with which it was defined. Many Velocimacros are more involved than the one defined above. Here is a Velocimacro that takes two arguments, a color and an array.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #macro( tablerows $color $somelist )#foreach( $something in $somelist )    <tr><td bgcolor=$color>$something</td></tr>#end#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > The Velocimacro being defined in this example, _tablerows_, takes two arguments. The first argument takes the place of _$color_, and the second argument takes the place of _$somelist_.
 >
 > Anything that can be put into a VTL template can go into the body of a Velocimacro. The _tablerows_ Velocimacro is a _foreach_ statement. There are two _#end_ statements in the definition of the _#tablerows_ Velocimacro; the first belongs to the _#foreach_, the second ends the Velocimacro definition.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $greatlakes = ["Superior","Michigan","Huron","Erie","Ontario"] )#set( $color = "blue" )<table>    #tablerows( $color $greatlakes )</table>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Notice that _$greatlakes_ takes the place of _$somelist_. When the _#tablerows_ Velocimacro is called in this situation, the following output is generated:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <table>    <tr><td bgcolor="blue">Superior</td></tr>    <tr><td bgcolor="blue">Michigan</td></tr>    <tr><td bgcolor="blue">Huron</td></tr>    <tr><td bgcolor="blue">Erie</td></tr>    <tr><td bgcolor="blue">Ontario</td></tr></table>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Velocimacros can be defined _inline_ in a Velocity template, meaning that it is unavailable to other Velocity templates in the same campus. Defining a Velocimacro such that it can be shared by all templates has obvious advantages: it reduces the need to redefine the Velocimacro on numerous templates, saving work and reducing the chance of error, and ensures that a single change to a macro available to more than one template.
 >
 > Were the _#tablerows($color $list)_ Velocimacro defined in a Velocimacros template library, this macro could be used on any of the regular templates. It could be used many times and for many different purposes. In the template `mushroom.vm` devoted to all things fungi, the _#tablerows_ Velocimacro could be invoked to list the parts of a typical mushroom:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $parts = ["volva","stipe","annulus","gills","pileus"] )#set( $cellbgcol = "#CC00FF" )<table>#tablerows( $cellbgcol $parts )</table>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > When fulfilling a request for `mushroom.vm`, Velocity would find the _#tablerows_ Velocimacro in the template library (defined in the `velocity.properties` file) and generate the following output:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > <table>    <tr><td bgcolor="#CC00FF">volva</td></tr>    <tr><td bgcolor="#CC00FF">stipe</td></tr>    <tr><td bgcolor="#CC00FF">annulus</td></tr>    <tr><td bgcolor="#CC00FF">gills</td></tr>    <tr><td bgcolor="#CC00FF">pileus</td></tr></table>
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)**Velocimacro Arguments**
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)**Velocimacro Arguments**
 >
 > Velocimacros can take as arguments any of the following VTL elements :
 >
@@ -828,13 +828,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > When passing references as arguments to Velocimacros, please note that references are passed 'by name'. This means that their value is 'generated' at each use inside the Velocimacro. This feature allows you to pass references with method calls and have the method called at each use. For example, when calling the following Velocimacro as shown
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 >      #macro( callme $a )         $a $a $a     #end     #callme( $foo.bar() )   
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > results in the method bar() of the reference $foo being called 3 times.
 >
@@ -842,17 +842,17 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > If you need to circumvent this feature, you can always just get the value from the method as a new reference and pass that :
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 >      #set( $myval = $foo.bar() )     #callme( $myval )   
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)**Velocimacro Properties**
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)**Velocimacro Properties**
 >
 > Several lines in the `velocity.properties` file allow for flexible implementation of Velocimacros. Note that these are also documented in the [Developer Guide](http://velocity.apache.org/engine/1.4/developer-guide.html).
 >
-> `velocimacro.library` - A comma-separated list of all Velocimacro template libraries. By default, Velocity looks for a single library: _VM\_global\_library.vm_. The configured template path is used to find the Velocimacro libraries.
+> `velocimacro.library` - A comma-separated list of all Velocimacro template libraries. By default, Velocity looks for a single library: _VM_global_library.vm_. The configured template path is used to find the Velocimacro libraries.
 >
 > `velocimacro.permissions.allow.inline` - This property, which has possible values of true or false, determines whether Velocimacros can be defined in regular templates. The default, true, allows template designers to define Velocimacros in the templates themselves.
 >
@@ -878,85 +878,85 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > VTL directives can be escaped with the backslash character ("\\") in a manner similar to valid VTL references.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > ## #include( "a.txt" ) renders as <contents of a.txt>#include( "a.txt" )## \#include( "a.txt" ) renders as \#include( "a.txt" )\#include( "a.txt" )## \\#include ( "a.txt" ) renders as \<contents of a.txt>\\#include ( "a.txt" )
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Extra care should be taken when escaping VTL directives that contain multiple script elements in a single directive (such as in an if-else-end statements). Here is a typical VTL if-statement:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #if( $jazz )    Vyacheslav Ganelin#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > If _$jazz_ is true, the output is
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Vyacheslav Ganelin
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > If _$jazz_ is false, there is no output. Escaping script elements alters the output. Consider the following case:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > \#if( $jazz )    Vyacheslav Ganelin\#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Whether _$jazz_ is true or false, the output will be
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 >  #if($ jazz )     Vyacheslav Ganelin #end 
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > In fact, because all script elements are escaped, _$jazz_ is never evaluated for it's boolean value. Suppose backslashes precede script elements that are legitimately escaped:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > \\#if( $jazz )   Vyacheslav Ganelin\\#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > In this case, if _$jazz_ is true, the output is
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > \ Vyacheslav Ganelin\
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > To understand this, note that the `#if( arg )` when ended by a newline (return) will omit the newline from the output. Therefore, the body of the `#if()` block follows the first '\\', rendered from the '\\\\' preceding the `#if()`. The last \ is on a different line than the text because there is a newline after 'Ganelin', so the final \\\\, preceding the `#end` is part of the body of the block.
 >
 > If _$jazz_ is false, there is no output. Note that things start to break if script elements are not properly escaped.
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > \\\#if( $jazz )    Vyacheslave Ganelin\\#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Here the _#if_ is escaped, but there is an _#end_ remaining; having too many endings will cause a parsing error.
 
@@ -968,43 +968,43 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 
 > Although VTL in this user guide is often displayed with newlines and whitespaces, the VTL shown below
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > #set( $imperial = ["Munetaka","Koreyasu","Hisakira","Morikune"] )#foreach( $shogun in $imperial )    $shogun#end
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > is equally valid as the following snippet that Geir Magnusson Jr. posted to the Velocity user mailing list to illustrate a completely unrelated point:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Send me #set($foo = ["$10 and ","a cake"])#foreach($a in $foo)$a #end please.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > Velocity's behaviour is to gobble up excess whitespace. The preceding directive can be written as:
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Send me#set( $foo = ["$10 and ","a cake"] )#foreach( $a in $foo )$a#endplease.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > or as
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > ```
 > Send me#set($foo       = ["$10 and ","a cake"])                 #foreach           ($a in $foo )$a         #end please.
 > ```
 >
-> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > In each case the output will be the same.
 
@@ -1018,23 +1018,23 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > > Velocity has a handful of built-in mathematical functions that can be used in templates with the _set_ directive. The following equations are examples of addition, subtraction, multiplication and division, respectively:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #set( $foo = $bar + 3 )#set( $foo = $bar - 4 )#set( $foo = $bar * 6 )#set( $foo = $bar / 2 )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > When a division operation is performed, the result will be an integer. Any remainder can be obtained by using the modulus (_%_) operator.
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #set( $foo = $bar % 5 )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Only integers (...-2, -1, 0, 1, 2...) are permissible when performing mathematical equations in Velocity; when a non-integer is used, it is logged and a null will be returned as the output.
 >
@@ -1044,33 +1044,33 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > > The range operator can be used in conjunction with _#set_ and _#foreach_ statements. Useful for its ability to produce an object array containing integers, the range operator has the following construction:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > [n..m]
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Both _n_ and _m_ must either be or produce integers. Whether _m_ is greater than or less than _n_ will not matter; in this case the range will simply count down. Examples showing the use of the range operator as provided below:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > First example:#foreach( $foo in [1..5] )$foo#endSecond example:#foreach( $bar in [2..-2] )$bar#endThird example:#set( $arr = [0..1] )#foreach( $i in $arr )$i#endFourth example:[1..3]
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Produces the following output:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > First example:1 2 3 4 5Second example:2 1 0 -1 -2Third example:0 1Fourth example:[1..3]
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Note that the range operator only produces the array when used in conjunction with _#set_ and _#foreach_ directives, as demonstrated in the fourth example.
 > >
@@ -1080,45 +1080,45 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 >
 > ### **Advanced Issues: Escaping and !** <a href="#advanced-issues-escaping-and" id="advanced-issues-escaping-and"></a>
 >
-> > When a reference is silenced with the _!_ character and the _!_ character preceded by an _\\_ escape character, the reference is handled in a special way. Note the differences between regular escaping, and the special case where _\\_ precedes _!_ follows it:
+> > When a reference is silenced with the _!_ character and the _!_ character preceded by an _\_ escape character, the reference is handled in a special way. Note the differences between regular escaping, and the special case where _\_ precedes _!_ follows it:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #set( $foo = "bar" )$\!foo$\!{foo}$\\!foo$\\\!foo
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > This renders as:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > $!foo$!{foo}$\!foo$\\!foo
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
-> > Contrast this with regular escaping, where _\\_ precedes _$_:
+> > Contrast this with regular escaping, where _\_ precedes _$_:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > \$foo\$!foo\$!{foo}\\$!{foo}
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > This renders as:
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > \$foo\$!foo\$!{foo}\bar
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 >
 > &#x20;
 >
@@ -1136,65 +1136,65 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > >
 > > _However..._, there are things you can do. One easy solution is to takeadvantage of the fact that 'doublequote' (") renders it's contents. So youcould do something like
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #set($stuff = "#bold('hello')" )#center( $stuff )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > You can save a step...
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #center( "#bold( 'hello' )" )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Please note that in the latter example the argis evaluated _inside_ the VM, not at thecalling level. In other words, the argument tothe VM is passed in in its entirety and evaluated within the VMit was passed into. This allows you to do things like :
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #macro( inner $foo )  inner : $foo#end#macro( outer $foo )   #set($bar = "outerlala")   outer : $foo#end#set($bar = 'calltimelala')#outer( "#inner($bar)" )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Where the output is
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > Outer : inner : outerlala
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > because the evaluation of the "#inner($bar)" happens inside #outer(), so the$bar value set inside #outer() is the one that's used.
 > >
 > > This is an intentional and jealously guarded feature - args are passed 'byname' into VMs, so you can hand VMs things like stateful references such as
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #macro( foo $color )  <tr bgcolor=$color><td>Hi</td></tr>  <tr bgcolor=$color><td>There</td></tr>#end#foo( $bar.rowColor() )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > And have rowColor() called repeatedly, rather than just once. To avoid that,invoke the method outside of the VM, and pass the value into the VM.
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > > #set($color = $bar.rowColor())#foo( $color )
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)**Can I register Velocimacros via #parse() ?**
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)**Can I register Velocimacros via #parse() ?**
 > >
 > > Currently, Velocimacros must be defined before they are first used in a template. This means that your #macro() declarations should come before using the Velocimacros.
 > >
@@ -1214,13 +1214,13 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > >
 > > Here is what a simple set of configuration properties would look like.
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > >     file.resource.loader.path = templates    file.resource.loader.cache = false    velocimacro.library.autoreload = true    
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Don't keep this on in production.
 >
@@ -1234,33 +1234,33 @@ You are here: [Section Two: Administrator reference](https://www.nexportcampus.c
 > >
 > > In the regular 'schmoo' of a template (when you are mixing it in with regular content) :
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > >        #set( $size = "Big" )       #set( $name = "Ben" )      The clock is $size$name.   
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > and the output will render as 'The clock is BigBen'. For more interesting cases, such as when you want to concatenate strings to pass to a method, or to set a new reference, just do
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > >       #set( $size = "Big" )      #set( $name = "Ben" )      #set($clock = "$size$name" )      The clock is $clock.    
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Which will result in the same output. As a final example, when you want to mix in 'static' strings with your references, you may need to use 'formal references' :
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > ```
 > >       #set( $size = "Big" )      #set( $name = "Ben" )      #set($clock = "${size}Tall$name" )      The clock is $clock.    
 > > ```
 > >
-> > ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
 > >
 > > Now the output is 'The clock is BigTallBen'. The formal notation is needed so the parser knows you mean to use the reference '$size' versus '$sizeTall' which it would if the '{}' weren't there.
 >

@@ -1,6 +1,6 @@
 # MathJax Reference
 
-You are here: [Section Two: Administrator reference](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Administration\_reference.htm) > MathJax Reference
+You are here: [Section Two: Administrator reference](/administrator-documentation/administrator-reference/Administration_reference.htm) > MathJax Reference
 
 ### Introduction
 

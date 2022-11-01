@@ -16,7 +16,7 @@ You can view an existing list of all sections and an existing list of your enrol
 
 > The <mark style="color:blue;">**Enrollments**</mark> page is displayed. You can view the list of all sections.
 
-![](../../../../.gitbook/assets/View\_Enrollment\_550x146.png)
+![](../../../../.gitbook/assets/View_Enrollment_550x146.png)
 
 ## Access a section <a href="#access" id="access"></a>
 
@@ -30,7 +30,7 @@ You can access a section to view the classroom. In the classroom, you can work o
 
 > The <mark style="color:blue;">**Classroom**</mark> page is displayed. The classroom is where your section stores all assignments, quizzes, and grades. Also, you can work on assignments, take quizzes, and view your grades.
 
-![](../../../../.gitbook/assets/Enrollment\_Access\_550x193.png)
+![](../../../../.gitbook/assets/Enrollment_Access_550x193.png)
 
 #### For more information about assignments, quizzes, grades, and others, see:
 
@@ -46,16 +46,16 @@ You can drop any of your enrollments from the NexPort Campus.
 
 > The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
 
-![](../../../../.gitbook/assets/Enrollment\_Drop\_550x193.png)
+![](../../../../.gitbook/assets/Enrollment_Drop_550x193.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../../.gitbook/assets/Delete\_Certificate.png) icon next to the enrollment that you need to delete.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../../.gitbook/assets/Delete_Certificate.png) icon next to the enrollment that you need to delete.
 
 > A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure you want to drop?”</mark>_ message.
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**OK**</mark> and the selected enrollment is dropped.
 
 {% hint style="info" %}
-_<mark style="color:blue;">The</mark>_ ![](../../../../.gitbook/assets/Delete\_Certificate.png) _<mark style="color:blue;">icon is visible only when the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Allow students to drop the course**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">is set to</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Yes**</mark><mark style="color:blue;">.</mark>_
+_<mark style="color:blue;">The</mark>_ ![](../../../../.gitbook/assets/Delete_Certificate.png) _<mark style="color:blue;">icon is visible only when the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Allow students to drop the course**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">is set to</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Yes**</mark><mark style="color:blue;">.</mark>_
 {% endhint %}
 
 #### © NexPort Solutions. All Rights Reserved.

@@ -16,7 +16,7 @@ Step 1:  Click the **Certificate** tab.
 
 Step 2:  The **Certificate** page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Section\_Certificate\_550x267.png)\
+![](/.gitbook/assets/Section_Certificate_550x267.png)\
 
 
 Step 3:  In the gallery, click the certificate name to set as certificate.

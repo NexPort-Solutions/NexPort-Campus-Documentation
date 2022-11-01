@@ -23,13 +23,13 @@ description: >-
 
 <mark style="color:blue;">**Step 5:**</mark>  Click the <mark style="color:blue;">**Training Plans**</mark> tab.
 
-<mark style="color:blue;">**Step 6:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the training plan enrollment that you need to override.
+<mark style="color:blue;">**Step 6:**</mark>  Click the ![](/.gitbook/assets/Edit.png) icon next to the training plan enrollment that you need to override.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_TrainingPlans\_Edit\_550x115.png)
+![](/.gitbook/assets/Enrollment_TrainingPlans_Edit_550x115.png)
 
 <mark style="color:blue;">**Step 7:**</mark>  The <mark style="color:blue;">**Edit Training Plan Enrollment \<EnrollmentName>**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_TrainingPlans\_EditMode\_550x178.png)
+![](/.gitbook/assets/Enrollment_TrainingPlans_EditMode_550x178.png)
 
 <mark style="color:blue;">**Step 8:**</mark>  On the selected training plan enrollment, modify the information on the following tabs.
 

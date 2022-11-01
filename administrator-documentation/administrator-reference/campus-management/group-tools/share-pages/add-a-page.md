@@ -10,7 +10,7 @@ You can add a page. The syllabi and other pages can be subordinate to the homepa
 
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
 2. The **Pages** tab is displayed.
-3. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Share\_Pages/Share\_Pages\_Add\_550x290.png)
+3. ![](/.gitbook/assets/Share_Pages_Add_550x290.png)
 4. In the left pane, click **Add a new page**.
 5. In the **Title** box, type a title for your new page.
 6. This is a mandatory field.

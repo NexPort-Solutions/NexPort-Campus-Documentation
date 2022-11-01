@@ -18,10 +18,10 @@ coverY: 0
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Classroom**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page is displayed.
 
-<mark style="color:blue;">**Step 5:**</mark>  In the upper-right corner of the classroom, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/SectionOverview\_icon.png) icon.
+<mark style="color:blue;">**Step 5:**</mark>  In the upper-right corner of the classroom, click the ![](/.gitbook/assets/SectionOverview_icon.png) icon.
 
 <mark style="color:blue;">**Step 6:**</mark>  The section overview page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Classroom/Sections\_Overview\_550x310.png)
+![](/.gitbook/assets/Sections_Overview_550x310.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

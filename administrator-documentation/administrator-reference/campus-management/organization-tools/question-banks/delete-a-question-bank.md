@@ -12,9 +12,9 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Question Banks**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Question\_Banks\_Delete\_550x213.png)
+![](/.gitbook/assets/Question_Banks_Delete_550x213.png)
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the question bank that you need to remove from the <mark style="color:blue;">**Question Bank**</mark> page.
+<mark style="color:blue;">**Step 3:**</mark>  Click the ![](/.gitbook/assets/Delete.png) icon next to the question bank that you need to remove from the <mark style="color:blue;">**Question Bank**</mark> page.
 
 <mark style="color:blue;">**Step 4:**</mark>  A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure you want to delete \<QuestionBank>?”</mark>_ message.
 

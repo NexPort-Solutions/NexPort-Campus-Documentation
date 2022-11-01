@@ -10,7 +10,7 @@ description: >-
 
 <mark style="color:blue;">**Step 1:**</mark>  Click the <mark style="color:blue;">**Upload Questions**</mark> tab and the <mark style="color:blue;">**Upload Questions**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Upload\_Questions\_550x234.png)
+![](/.gitbook/assets/Upload_Questions_550x234.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Question Upload Template**</mark> link to download the Microsoft Excel sheet template. Follow the instructions on the sheet named <mark style="color:blue;">**"Instructions"**</mark> in the template. The instructions are also listed below.
 

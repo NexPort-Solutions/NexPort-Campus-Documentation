@@ -10,12 +10,12 @@ description: You can remove one or more permissions for the selected role.
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Roles**</mark> list, select a role for which you need to remove one or more permissions.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Roles/Assign\_Role\_Permission\_550x327.png)
+![](/.gitbook/assets/Assign_Role_Permission_550x327.png)
 
-<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Allowed**</mark> column, select the permissions that you need to revoke, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right\_Arrow.png) icon to add the permissions in the <mark style="color:blue;">**Available**</mark> column.
+<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Allowed**</mark> column, select the permissions that you need to revoke, and then click the ![](/.gitbook/assets/Right_Arrow.png) icon to add the permissions in the <mark style="color:blue;">**Available**</mark> column.
 
 {% hint style="info" %}
-To select one or more permissions, hold the Ctrl key, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right\_Arrow.png) icon to add the selected permissions in the <mark style="color:blue;">**Available**</mark> column.
+To select one or more permissions, hold the Ctrl key, and then click the ![](/.gitbook/assets/Right_Arrow.png) icon to add the selected permissions in the <mark style="color:blue;">**Available**</mark> column.
 {% endhint %}
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Save**</mark>.  The role permission is removed.

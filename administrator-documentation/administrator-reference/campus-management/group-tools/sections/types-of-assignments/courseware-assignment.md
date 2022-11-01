@@ -15,7 +15,7 @@ NexPort™ currently supports only SCORM™ 1.2 version. The SCORM packaging and
 
 ## The Courseware Assignment Type
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Courseware\_Assignment\_550x496.png)
+![](/.gitbook/assets/Courseware_Assignment_550x496.png)
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage courseware assignment.
 

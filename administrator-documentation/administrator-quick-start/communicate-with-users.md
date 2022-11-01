@@ -47,7 +47,7 @@ The following are the prime stages at which a notification is sent.
 * User is invoiced
 
 {% hint style="info" %}
-To view notifications, click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Notification.png) icon upper-right side of the page. The recipients can then view the notification details in their inbox. Administrators can view a user’s notifications in the communication log.&#x20;
+To view notifications, click the ![](/.gitbook/assets/Notification.png) icon upper-right side of the page. The recipients can then view the notification details in their inbox. Administrators can view a user’s notifications in the communication log.&#x20;
 {% endhint %}
 
 #### For more about communication log.
@@ -62,7 +62,7 @@ You can send a message to a user through the User Listing page.
 
 1. Click **Administration** > **Manage Users**.
 2. The **User Listing** page is displayed. You can view the list of the active users.
-3. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Email.png) icon next to the user to whom you need to send a message.
+3. Click the ![](/.gitbook/assets/Email.png) icon next to the user to whom you need to send a message.
 4. The **Send Email** dialog box is displayed. Type the required information.
 5. Click **Send**.
 6. A message is sent from the Administrator to the user.

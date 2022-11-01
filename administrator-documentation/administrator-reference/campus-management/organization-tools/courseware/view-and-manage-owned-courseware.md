@@ -22,6 +22,6 @@ The manifest identification number is extracted from the manifest stored in the 
 In the <mark style="color:blue;">**Option**</mark> column, click the download link to download the original SCORM package.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Courseware/Owned\_Courseware\_550x138.png)
+![](/.gitbook/assets/Owned_Courseware_550x138.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

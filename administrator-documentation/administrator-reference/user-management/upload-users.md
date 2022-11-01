@@ -10,7 +10,7 @@ description: >-
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark> > <mark style="color:blue;">**Upload Users**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Upload\_Users.png)
+![](/.gitbook/assets/Upload_Users.png)
 
 <mark style="color:blue;">**Step 2:**</mark> Do the following to upload users in NexPort Campus:
 
@@ -25,7 +25,7 @@ description: >-
 | Check box                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**Send Welcome Letters**</mark>   | <p>If selected, all <strong>new</strong> users receive a welcome letter from the organization that they receive a subscription from. Existing users do not receive a welcome letter.</p><p>For more information about how to customize a welcome letter, see <a href="https://www.nexportcampus.com/Content/Guides/aweb/Content/Module_Topics/Campus_Management/Group_Tools/Customize/Customize.htm">Customize</a>.</p> |
-| <mark style="color:blue;">**Resend Welcome Letters**</mark> | All **existing** users receive a new welcome letter from their organization. For more information about how to customize a welcome letter, see [Customize](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Campus\_Management/Group\_Tools/Customize/Customize.htm).                                                                                                                           |
+| <mark style="color:blue;">**Resend Welcome Letters**</mark> | All **existing** users receive a new welcome letter from their organization. For more information about how to customize a welcome letter, see [Customize](/administrator-documentation/administrator-reference/Campus_Management/Group_Tools/Customize/Customize.htm).                                                                                                                           |
 | <mark style="color:blue;">**Update Existing Users**</mark>  | If selected, then any users identified that already exist are updated with the new information found on the spreadsheet. If not selected, the existing users are ignored.                                                                                                                                                                                                                                               |
 
 <mark style="color:blue;">**Step 2e:**</mark>  Click <mark style="color:blue;">**Process Users**</mark>.

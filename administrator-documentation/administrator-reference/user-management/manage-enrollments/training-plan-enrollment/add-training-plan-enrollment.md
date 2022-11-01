@@ -16,11 +16,11 @@ description: You can add a training plan enrollment.
 
 <mark style="color:blue;">**Step 4:**</mark>** ** Click <mark style="color:blue;">**Enrollments**</mark> > <mark style="color:blue;">**Training Plans**</mark> > <mark style="color:blue;">**New Enrollment**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_TrainingPlans\_New\_550x116.png)
+![](/.gitbook/assets/Enrollment_TrainingPlans_New_550x116.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  The <mark style="color:blue;">**Add New Enrollment for \<UserName>**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Add%20New\_550x230.png)
+![](/.gitbook/assets/Enrollment_Add%20New_550x230.png)
 
 <mark style="color:blue;">**Step 6:**</mark> In the <mark style="color:blue;">**Select an Organization**</mark> list, select the name of the organization.
 

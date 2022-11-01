@@ -10,13 +10,13 @@ description: You can add a question bank, specific to a course of study.
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Question Bank**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Question\_Banks\_Add\_550x213.png)
+![](/.gitbook/assets/Question_Banks_Add_550x213.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Add**</mark><mark style="color:blue;">.</mark>
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**New Question Bank**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/New\_Question\_Bank.png)
+![](/.gitbook/assets/New_Question_Bank.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Name**</mark> box, type the name of the question bank.
 

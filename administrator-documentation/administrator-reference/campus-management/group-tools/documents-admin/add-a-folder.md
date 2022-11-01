@@ -15,13 +15,13 @@ coverY: 0
 
 <mark style="color:blue;">**Step 2:**</mark>  In the bookshelf list, select a folder in which you need to add a folder.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Add\_550x258.png)
+![](/.gitbook/assets/Folder_Add_550x258.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Add a Folder**</mark> tab.
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Add Bookshelf**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Add\_Folder.png)
+![](/.gitbook/assets/Folder_Add_Folder.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  In the box, type the folder name.
 

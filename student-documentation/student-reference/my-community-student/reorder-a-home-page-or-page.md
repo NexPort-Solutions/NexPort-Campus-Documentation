@@ -9,7 +9,7 @@ coverY: 0
 Locate the page that you need to reorder. Then, in the left column, click the compass to the right of the title. Use the compass to drag the page to reorder the pages. You can move the pages and rearrange them in any order.
 
 {% hint style="info" %}
-Ensure that you click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Compass.png) <mark style="color:blue;">**Drag handle**</mark>. If you click on the title of the page, you cannot reorder it.
+Ensure that you click the ![](/.gitbook/assets/Compass.png) <mark style="color:blue;">**Drag handle**</mark>. If you click on the title of the page, you cannot reorder it.
 {% endhint %}
 
 ## **To reorder a home page or a page:**
@@ -20,8 +20,8 @@ Ensure that you click the ![](https://www.nexportcampus.com/Content/Guides/sweb/
 
 <mark style="color:blue;">**Step 3:**</mark>  Select the <mark style="color:blue;">**Drag handle**</mark> of the home page or page, which you need to reorder. You can move the home page or page and rearrange them in any order.
 
-<mark style="color:blue;">**Step 4:**</mark>  Make sure you select the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Compass.png) <mark style="color:blue;">**Drag handle**</mark> to reorder and not the title of the page.
+<mark style="color:blue;">**Step 4:**</mark>  Make sure you select the ![](/.gitbook/assets/Compass.png) <mark style="color:blue;">**Drag handle**</mark> to reorder and not the title of the page.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/My\_Community/MyCommunity\_Rearrange\_550x297.png)
+![](/.gitbook/assets/MyCommunity_Rearrange_550x297.png)
 
 #### &#x20;© NexPort Solutions 2022. All Rights Reserved.

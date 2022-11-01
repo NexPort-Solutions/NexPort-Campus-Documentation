@@ -12,7 +12,7 @@ coverY: 0
 
 You can work on assignments, take quizzes, and view your grades in the classroom. You must also be able to navigate through the classroom.
 
-![Classroom Screen](../../../.gitbook/assets/Classromm\_Interface\_550x301.png)
+![Classroom Screen](../../../.gitbook/assets/Classromm_Interface_550x301.png)
 
 #### The following table describes the various elements of the Classroom.
 

@@ -16,11 +16,11 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Share Bookshelf**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Share\_Bookshelf\_550x244.png)
+![](/.gitbook/assets/Share_Bookshelf_550x244.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  The share bookshelf dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Share\_Bookshelf%20-%20dialog\_550x357.png)
+![](/.gitbook/assets/Share_Bookshelf%20-%20dialog_550x357.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  In the organization list, select the check box next to the organization, sub-organization, group or sub-group.
 

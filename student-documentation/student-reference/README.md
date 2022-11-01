@@ -10,7 +10,7 @@ coverY: 0
 
 When you log on to NexPort Campus as a Student, you see the following menus.
 
-![ ](../../.gitbook/assets/Student\_reference\_550x239.png)
+![ ](../../.gitbook/assets/Student_reference_550x239.png)
 
 #### The NexPort Campus Student manages the following:
 

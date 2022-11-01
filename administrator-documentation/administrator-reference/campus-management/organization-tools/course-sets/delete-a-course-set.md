@@ -10,7 +10,7 @@ description: You can delete an existing course set from the NexPort Campus.
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**List Course Sets**</mark> tab is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Sets/Delete\_Course\_Set\_550x141.png)
+![](/.gitbook/assets/Delete_Course_Set_550x141.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Options**</mark> column, click <mark style="color:blue;">**Delete**</mark> next to the course set that you need to delete.
 

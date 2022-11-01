@@ -12,13 +12,13 @@ coverY: 0
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Manage Campus**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/Organization\_550x253.png)
+![](/.gitbook/assets/Organization_550x253.png)
 
-<mark style="color:blue;">**Step 3:**</mark>  In the upper left corner, click the unfold ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right.png) button.
+<mark style="color:blue;">**Step 3:**</mark>  In the upper left corner, click the unfold ![](/.gitbook/assets/Right.png) button.
 
 <mark style="color:blue;">**Step 4:**</mark>  A list of existing organizations or groups in the NexPort Campus is displayed. In the <mark style="color:blue;">**Recent**</mark> section, you can view the recently viewed organization or group.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/List.png)
+![](/.gitbook/assets/List.png)
 
 ## **To search an organization or a group**
 
@@ -30,7 +30,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/Search.png)
+![](/.gitbook/assets/Search.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  NexPort Campus populates matching results.
 

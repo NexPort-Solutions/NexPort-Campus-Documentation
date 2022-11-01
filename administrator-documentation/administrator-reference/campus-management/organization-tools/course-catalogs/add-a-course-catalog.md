@@ -10,7 +10,7 @@ description: You can create a course catalog in NexPort.
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Course Catalogs**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/NewCatalog\_Button\_550x127.png)
+![](/.gitbook/assets/NewCatalog_Button_550x127.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**New Catalog**</mark>.
 
@@ -30,7 +30,7 @@ You can add sub-categories and rename the sub-categories. The <mark style="color
 Click the <mark style="color:blue;">**Remove**</mark> icon, to delete the sub-category and assignments.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/Categories\_CourseCatalog\_550x246.png)
+![](/.gitbook/assets/Categories_CourseCatalog_550x246.png)
 
 ## Modify option details <a href="#modify" id="modify"></a>
 
@@ -40,7 +40,7 @@ You can update the course catalog details related to the publishing model, prici
 
 <mark style="color:blue;">**Step 2:**</mark>  <mark style="color:blue;"></mark><mark style="color:blue;"></mark>  The <mark style="color:blue;">**Options**</mark> tab is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/Options\_CourseCatalog\_550x260.png)
+![](/.gitbook/assets/Options_CourseCatalog_550x260.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Name**</mark> box, type a name for the course catalog.
 
@@ -57,7 +57,7 @@ You can update the course catalog details related to the publishing model, prici
 <mark style="color:blue;">**Step 6:**</mark>  Click <mark style="color:blue;">**Save**</mark>. The option details are updated and saved.
 
 {% hint style="info" %}
-In the <mark style="color:blue;">**Syllabuses**</mark> section, click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_Certificate.png) icon to remove the syllabuses from the course catalog.
+In the <mark style="color:blue;">**Syllabuses**</mark> section, click the ![](/.gitbook/assets/Delete_Certificate.png) icon to remove the syllabuses from the course catalog.
 {% endhint %}
 
 ## Share a course catalog <a href="#share" id="share"></a>
@@ -68,7 +68,7 @@ You can share course catalogs with a group or another organization. A student ha
 
 <mark style="color:blue;">**Step 2:**</mark>**  **  The <mark style="color:blue;">**Sharing**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/Sharing\_CourseCatalog\_550x247.png)
+![](/.gitbook/assets/Sharing_CourseCatalog_550x247.png)
 
 <mark style="color:blue;">**Step 3:**</mark>**  **  In the organization tree, select the check box next to the organization, sub-organization, group, or sub-group.
 
@@ -98,7 +98,7 @@ You can copy a catalog to another organization for which you have access permiss
 
 <mark style="color:blue;">**Step 1:**</mark>**  **  Click the <mark style="color:blue;">**Copy Catalog**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/CopyCatalog\_CourseCatalog\_550x147.png)
+![](/.gitbook/assets/CopyCatalog_CourseCatalog_550x147.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the organization tree, click the box next to the organization with which you need to share the course catalog.
 

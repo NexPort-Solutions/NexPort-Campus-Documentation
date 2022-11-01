@@ -28,7 +28,7 @@ Catalogs are organization based, but students can still enroll in sections from 
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of a section that you need to search.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Find\_Training/Training\_Search\_550x148.png)
+![](/.gitbook/assets/Training_Search_550x148.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 
@@ -50,7 +50,7 @@ You can easily enroll for a section or training plan.
 Catalogs are organization based, but students can still enroll in sections from their group that are not in a catalog.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Find\_Training/Training\_Enroll\_550x198.png)
+![](/.gitbook/assets/Training_Enroll_550x198.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click a category link.
 

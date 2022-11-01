@@ -20,7 +20,7 @@ description: Delete a transcript evaluation
 
 <mark style="color:blue;">**Step 5:**</mark> Click the <mark style="color:blue;">**Training Plans**</mark> tab.
 
-<mark style="color:blue;">**Step 6:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon, next to the enrollment in which you need to add a new transcript evaluation.
+<mark style="color:blue;">**Step 6:**</mark> Click the ![](/.gitbook/assets/Edit.png) icon, next to the enrollment in which you need to add a new transcript evaluation.
 
 <mark style="color:blue;">**Step 7:**</mark> The <mark style="color:blue;">**Edit Training Plan \<EnrollmentName>**</mark> page is displayed.
 

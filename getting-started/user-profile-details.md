@@ -14,7 +14,7 @@ _<mark style="color:blue;">You can also modify your personal information, and co
 
 <mark style="color:blue;">**Step 1:**</mark>  In the upper-right corner of the NexPort Campus, click <mark style="color:blue;">**Profile**</mark>.
 
-![The Profile page is displayed.](../.gitbook/assets/Profile\_550x444.png)
+![The Profile page is displayed.](../.gitbook/assets/Profile_550x444.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  On the <mark style="color:blue;">**Profile**</mark> page, enter information in the following sections:
 

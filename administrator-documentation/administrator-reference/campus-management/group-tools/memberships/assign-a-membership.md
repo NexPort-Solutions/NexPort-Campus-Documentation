@@ -14,7 +14,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  The list of members associated with the organization is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Membership/Add\_Member\_550x196.png)
+![](/.gitbook/assets/Add_Member_550x196.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Add**</mark> next to the user whom you need to assign the membership.
 

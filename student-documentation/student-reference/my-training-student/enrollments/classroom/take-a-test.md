@@ -22,9 +22,9 @@ After you have exited a test without submitting it, you have five minutes to ree
 
 | Icon                                                                                                                           | Description                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Green\_Check\_21x18.png) | A green check mark indicates you have attempted the test and successfully passed the test.                                                                                                                                                                                                                                                      |
-| ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Red\_Cross.png)          | A red cross mark indicates yo have attempted the test but failed in the test.                                                                                                                                                                                                                                                                   |
-| ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Lock\_icon\_23x20.png)   | <p>A lock icon indicates that your test has been attempted and you are now locked from this attempt. It also provides the details of the next attempt date and time in MM/DD/YYYY and HH:MM:SS format.</p><p></p><p><em><mark style="color:red;">If you find this to be an error then contact your Administrator or Instructor.</mark></em></p> |
+| ![](/.gitbook/assets/Green_Check_21x18.png) | A green check mark indicates you have attempted the test and successfully passed the test.                                                                                                                                                                                                                                                      |
+| ![](/.gitbook/assets/Red_Cross.png)          | A red cross mark indicates yo have attempted the test but failed in the test.                                                                                                                                                                                                                                                                   |
+| ![](/.gitbook/assets/Lock_icon_23x20.png)   | <p>A lock icon indicates that your test has been attempted and you are now locked from this attempt. It also provides the details of the next attempt date and time in MM/DD/YYYY and HH:MM:SS format.</p><p></p><p><em><mark style="color:red;">If you find this to be an error then contact your Administrator or Instructor.</mark></em></p> |
 
 ## **Untimed tests**
 
@@ -48,7 +48,7 @@ If you experience technical difficulties, please contact your System Administrat
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Title**</mark> column, click the section name that you need to access.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Enrollments/Access\_Section\_550x146.png)
+![](/.gitbook/assets/Access_Section_550x146.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Classroom**</mark> is displayed.
 
@@ -58,7 +58,7 @@ Some of the training plans may have prerequisites. You can access the sections o
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Assignment**</mark> list, click the test you need to appear.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Classroom/Take\_a\_Test\_550x143.png)
+![](/.gitbook/assets/Take_a_Test_550x143.png)
 
 <mark style="color:blue;">**Step 6:**</mark>  Click <mark style="color:blue;">**Take Test**</mark>.
 

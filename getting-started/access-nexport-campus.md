@@ -15,7 +15,7 @@ _<mark style="color:red;">You need access credentials (username and password) wi
 
 > The <mark style="color:blue;">**Login**</mark> screen is displayed.
 
-![NexPort Campus Login Screen](../.gitbook/assets/Login\_Screen\_550x304.png)
+![NexPort Campus Login Screen](../.gitbook/assets/Login_Screen_550x304.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Login**</mark> box, enter your user name and then enter your password In the <mark style="color:blue;">**Password**</mark> box.
 

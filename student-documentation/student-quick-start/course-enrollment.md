@@ -27,7 +27,7 @@ In NexPort Campus courses are referred to as sections. A section may have an Ins
 _<mark style="color:blue;">The catalogs listed here are based on the membership in the organization.</mark>_
 {% endhint %}
 
-![Catalogs Screen](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Find\_Training/Training\_Enroll\_550x198.png)
+![Catalogs Screen](/.gitbook/assets/Training_Enroll_550x198.png)
 
 <mark style="color:blue;">**Step 2:**</mark> Click the category link that contains the training plan or the section that you need.
 

@@ -13,9 +13,9 @@ description: >-
 
 > The <mark style="color:blue;">**Tests and Surveys**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Test\_and\_Surveys/TestandSurvey\_Edit\_550x193.png)
+![](/.gitbook/assets/TestandSurvey_Edit_550x193.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the test or a survey you need to modify.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](/.gitbook/assets/Edit.png) icon next to the test or a survey you need to modify.
 
 > The <mark style="color:blue;">**Edit**</mark> dialog box is displayed.
 

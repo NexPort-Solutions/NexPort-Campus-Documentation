@@ -22,7 +22,7 @@ You can view an existing list of all users in your organization and you can also
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the user that you need to search.\
 
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Membership/Member\_Search\_550x113.png)
+![](/.gitbook/assets/Member_Search_550x113.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 

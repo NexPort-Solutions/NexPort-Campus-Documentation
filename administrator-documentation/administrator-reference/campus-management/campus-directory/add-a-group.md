@@ -15,19 +15,19 @@ You can add a group to an organization. You can add a group within a group or an
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Manage Campus**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  In the upper left corner, click the unfold ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right.png) button.
+<mark style="color:blue;">**Step 3:**</mark>  In the upper left corner, click the unfold ![](/.gitbook/assets/Right.png) button.
 
 <mark style="color:blue;">**Step 4:**</mark>  A list of the existing organizations or groups is displayed.
 
 <mark style="color:blue;">**Step 5:**</mark>  Select the organization or a group in which you need to add a group.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/Add\_Group.png)
+![](/.gitbook/assets/Add_Group.png)
 
-<mark style="color:blue;">**Step 6:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_Group.png) icon.
+<mark style="color:blue;">**Step 6:**</mark>  Click the ![](/.gitbook/assets/Add_Group.png) icon.
 
 <mark style="color:blue;">**Step 7:**</mark>  The <mark style="color:blue;">**Add**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/Add\_GRO.png)
+![](/.gitbook/assets/Add_GRO.png)
 
 <mark style="color:blue;">**Step 8:**</mark>  In the <mark style="color:blue;">**Name**</mark> box, type the organization name.
 

@@ -8,9 +8,9 @@ description: >-
 
 | Icon                                                                                                                             | Action or Description               |
 | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/View\_Certificates.png)    | Click to view a sample certificate. |
-| ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Download\_Certificate.png) | Click to download a certificate.    |
-| ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_Certificate.png)   | Click to delete the certificate.    |
+| ![](/.gitbook/assets/View_Certificates.png)    | Click to view a sample certificate. |
+| ![](/.gitbook/assets/Download_Certificate.png) | Click to download a certificate.    |
+| ![](/.gitbook/assets/Delete_Certificate.png)   | Click to delete the certificate.    |
 
 ## To Modify Certificate Properties
 

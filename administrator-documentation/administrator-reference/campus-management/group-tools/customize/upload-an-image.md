@@ -17,7 +17,7 @@ The banner image is the logo of your organization that is displayed at the upper
 > The icon must be a square image. If the icon is not set to be a square then the image gets distorted. The image might not resemble the original file. Icons are usually very small and the text appearing on the icon may not be readable due to its size.\
 >
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Customize\_Image\_550x201.png)
+![](/.gitbook/assets/Customize_Image_550x201.png)
 
 ## **To upload a banner**
 

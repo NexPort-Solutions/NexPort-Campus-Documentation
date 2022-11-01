@@ -14,11 +14,11 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Rename**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Rename\_550x261.png)
+![](/.gitbook/assets/Folder_Rename_550x261.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Rename Folder**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Rename\_Folder.png)
+![](/.gitbook/assets/Folder_Rename_Folder.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  In the box, type a name for the folder.
 

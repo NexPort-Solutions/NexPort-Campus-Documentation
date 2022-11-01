@@ -62,7 +62,7 @@ _<mark style="color:blue;">In case you change the organization after selecting a
 
 > You can change the quantity in the box provided, next to the item purchased.
 
-<mark style="color:blue;">**Step 7:**</mark>  Click the ![](../../../.gitbook/assets/delete\_certificate9541.png) icon, to delete an item purchased. The amount due is automatically refreshed for each such change made in the purchase list. After you have reviewed the purchases list and made the necessary changes, click <mark style="color:blue;">**Next**</mark>.
+<mark style="color:blue;">**Step 7:**</mark>  Click the ![](../../../.gitbook/assets/delete_certificate9541.png) icon, to delete an item purchased. The amount due is automatically refreshed for each such change made in the purchase list. After you have reviewed the purchases list and made the necessary changes, click <mark style="color:blue;">**Next**</mark>.
 
 > The <mark style="color:blue;">**Add Payments**</mark> page is displayed.
 

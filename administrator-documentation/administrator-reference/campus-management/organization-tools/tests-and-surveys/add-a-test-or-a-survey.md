@@ -10,13 +10,13 @@ description: You can add a test or a survey for evaluation.
 
 > The <mark style="color:blue;">**Tests and Surveys**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Test\_and\_Surveys/TestandSurvey\_Add\_550x193.png)
+![](/.gitbook/assets/TestandSurvey_Add_550x193.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Add**</mark><mark style="color:blue;">.</mark>
 
 > The <mark style="color:blue;">**Add**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Test\_and\_Surveys/TestandSurvey\_Add%20dialog\_550x315.png)
+![](/.gitbook/assets/TestandSurvey_Add%20dialog_550x315.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Add**</mark> dialog box, do the following:
 
@@ -43,10 +43,10 @@ description: You can add a test or a survey for evaluation.
 
 | Column                                                                                                                     | Description                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/DragDrop\_17x10.png) | You can reorder the question banks sequence and locate the question bank to reorder. Then, in the first column, press and drag the icon to reorder the question banks. |
+| ![](/.gitbook/assets/DragDrop_17x10.png) | You can reorder the question banks sequence and locate the question bank to reorder. Then, in the first column, press and drag the icon to reorder the question banks. |
 | <mark style="color:blue;">**# Questions**</mark>                                                                           | Type the number of questions that are to be included from the selected question bank.                                                                                  |
 | <mark style="color:blue;">**Question Bank**</mark>                                                                         | Display the name of the question bank.                                                                                                                                 |
-| ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png)          | Delete the question bank from which the questions are included in the test or survey.                                                                                  |
+| ![](/.gitbook/assets/Delete.png)          | Delete the question bank from which the questions are included in the test or survey.                                                                                  |
 
 > Click <mark style="color:blue;">**Apply**</mark> to apply the changes.
 >

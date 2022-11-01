@@ -10,7 +10,7 @@ You can view the invoice items such as the cost, name of the item, redemption co
 
 <mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**Invoices**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../.gitbook/assets/invoice\_details8477.png) icon.
+<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../.gitbook/assets/invoice_details8477.png) icon.
 
 > The <mark style="color:blue;">**Invoice Items**</mark> dialog box is displayed.
 
@@ -20,8 +20,8 @@ The following table contains description for all the fields that you see in the 
 
 | Field                                                       | Action or Description                                                                                                                                                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/invoiceitem\_notea347.png)     | Click to view the invoice item note.                                                                                                                                                               |
-| ![](../../../.gitbook/assets/invoiceitem\_auditlogae10.png) | Click to view the invoice item audit logs. The audit log displays a log of all invoice activity for the invoice item.                                                                              |
+| ![](../../../.gitbook/assets/invoiceitem_notea347.png)     | Click to view the invoice item note.                                                                                                                                                               |
+| ![](../../../.gitbook/assets/invoiceitem_auditlogae10.png) | Click to view the invoice item audit logs. The audit log displays a log of all invoice activity for the invoice item.                                                                              |
 | Cost                                                        | Displays the price paid for the invoice item expressed in US dollars.                                                                                                                              |
 | Redemption Code                                             | This code can be used to redeem the associated invoice item. The invoice item may be a section, training plan, or a catalog. The code can be shared with any user to access the invoice item.      |
 | Access Expiration Time Limit                                | Displays the amount of time the user has access to the invoice item after they have redeemed it using the redemption code.                                                                         |
@@ -40,7 +40,7 @@ You can view the invoice payment details such as the payment date, payment proce
 
 <mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**Invoices**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../.gitbook/assets/invoice\_payments6641.png) icon.
+<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../.gitbook/assets/invoice_payments6641.png) icon.
 
 <mark style="color:blue;">**Step 4:**</mark> The <mark style="color:blue;">**Invoice Payments**</mark> dialog box is displayed.
 
@@ -55,7 +55,7 @@ The following table contains description for all the fields that you see in the 
 
 ### **To add payment details:**
 
-<mark style="color:blue;">**Step 1:**</mark>  On the <mark style="color:blue;">**Invoices**</mark> tab, click the ![](../../../.gitbook/assets/invoice\_payments6641.png) icon.
+<mark style="color:blue;">**Step 1:**</mark>  On the <mark style="color:blue;">**Invoices**</mark> tab, click the ![](../../../.gitbook/assets/invoice_payments6641.png) icon.
 
 > The <mark style="color:blue;">**Invoice Payments**</mark> dialog box is displayed.
 
@@ -73,7 +73,7 @@ You can view the invoice scheduled payment details. When an invoice entry is cre
 
 > The Invoices page is displayed.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../.gitbook/assets/invoice\_schedule\_paymemtsf9a1.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../.gitbook/assets/invoice_schedule_paymemtsf9a1.png) icon.
 
 > The <mark style="color:blue;">**Invoice Scheduled Payments**</mark> dialog box is displayed. You can view the invoice scheduled payment note, the date when the amount is due, and the total amount invoiced.
 
@@ -89,7 +89,7 @@ You can view an additional information related to the invoice. The invoice note 
 
 > The <mark style="color:blue;">**Invoices**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../.gitbook/assets/invoiceitem\_notea347.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../.gitbook/assets/invoiceitem_notea347.png) icon.
 
 > The <mark style="color:blue;">**Invoice Note**</mark> dialog box is displayed, containing the note appended at the time of creating the invoice.
 
@@ -105,7 +105,7 @@ You can view the audit logs related to the invoice, such as login date of the in
 
 > The <mark style="color:blue;">**Invoices**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../.gitbook/assets/invoiceitem\_auditlogae10.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](../../../.gitbook/assets/invoiceitem_auditlogae10.png) icon.
 
 > The <mark style="color:blue;">**Invoice Audit Logs**</mark> window, which contains the audit logs, is displayed.
 

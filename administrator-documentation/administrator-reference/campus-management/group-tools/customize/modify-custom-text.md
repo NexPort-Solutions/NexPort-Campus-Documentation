@@ -17,7 +17,7 @@ coverY: 0
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Edit Custom Text.**</mark>\
 
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Modify\_custom\_text\_550x145.png)
+![](/.gitbook/assets/Modify_custom_text_550x145.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the list, select the language for the search word or phrase.
 

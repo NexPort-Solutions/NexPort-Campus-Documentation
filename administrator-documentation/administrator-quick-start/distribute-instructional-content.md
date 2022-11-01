@@ -46,7 +46,7 @@ The following illustration represents the creation of learning resources, though
 
 &#x20;&#x20;
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/Distribute\_instructional\_content.png)
+![](/.gitbook/assets/Distribute_instructional_content.png)
 
 ## How to add a section? <a href="#how" id="how"></a>
 
@@ -78,7 +78,7 @@ In NexPort Campus, a course catalog provides a logical space for all sections to
 
 <mark style="color:blue;">**Step 3:**</mark>  In the box that is displayed, type the name of the course catalog.
 
-<mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Categories**</mark> area, click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Category.png) icon to create a new category.
+<mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Categories**</mark> area, click the ![](/.gitbook/assets/Category.png) icon to create a new category.
 
 <mark style="color:blue;">**Step 5:**</mark>  Click this category, and then in the <mark style="color:blue;">**Category Details**</mark> area, click <mark style="color:blue;">**Add Items**</mark> to add sections.
 
@@ -118,7 +118,7 @@ A training plan is a structured organization of sections logically ‘strung tog
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Organization Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Training Plans**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Add.png) icon.
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Create a Training Plan**</mark> area, add the values, and then click <mark style="color:blue;">**Save**</mark>.
 
@@ -136,7 +136,7 @@ Information related to the training plan such as sections to be included, electi
 
 Step 1:  Click **Administration** > **Manage Campus** > **Organization Tools** > **Training Plans**.
 
-Step 2:  In the training plan list, click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the training plan to be built.
+Step 2:  In the training plan list, click the ![](/.gitbook/assets/Edit.png) icon next to the training plan to be built.
 
 Step 3:  Type the values in the **Palette**, **Details**, **Prerequisites**, **Edit Grade Point Scale**, **Certificates**, and **Options** tabs.
 
@@ -155,7 +155,7 @@ Information associated with the training plan are saved, which includes the foll
 A question bank is a compilation of all the questions pertaining to a course of study. When a test is designed, which is to be later administered to the students, questions are drawn from the question bank, either sequentially or randomly, based on the configuration.
 
 1. Click **Administration** > **Manage Campus** > **Organization Tools** > **Question Banks**.
-2. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add.png) icon.
+2. Click the ![](/.gitbook/assets/Add.png) icon.
 3. The **New Question Bank** dialog box is displayed.
 4. Type the name and description for the question bank, and then click **OK**.
 5. A new question bank is added.
@@ -170,10 +170,10 @@ A question bank is a compilation of all the questions pertaining to a course of 
 
 1. Click **Administration** > **Manage Groups** > **Organization Tools** > **Question Banks**.
 2. The question banks list is displayed.
-3. In the last column, click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the question bank to which you need to add questions.
+3. In the last column, click the ![](/.gitbook/assets/Edit.png) icon next to the question bank to which you need to add questions.
 4. The **Editing \<question bank name>** page is displayed, containing various tabs.
 5. Click the **Questions** tab.
-6. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add.png) icon, to add a question to the question bank.
+6. Click the ![](/.gitbook/assets/Add.png) icon, to add a question to the question bank.
 7. The **Edit Question** tab is displayed.
 8. Type the question and answer details on the **Edit Question** tab, click Apply to apply the changes to the question, and then click OK.
 9. The question is added to the question bank.
@@ -191,7 +191,7 @@ Tests serve to evaluate the progress of a student and gauge the learning outcome
 
 1. Click **Administration** > **Manage Groups** > **Organization Tools** > **Tests and surveys**.
 2. The list of tests and surveys created is displayed.
-3. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add.png) icon. In the **Add dialog** box, type the values, and then click **OK**.
+3. Click the ![](/.gitbook/assets/Add.png) icon. In the **Add dialog** box, type the values, and then click **OK**.
 4. The test or a survey is set.
 
 #### For more information about adding a test or a survey.

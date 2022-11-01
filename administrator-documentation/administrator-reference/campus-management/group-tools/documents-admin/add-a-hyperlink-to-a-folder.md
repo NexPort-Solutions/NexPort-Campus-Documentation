@@ -14,7 +14,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Add a Hyperlink**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Add\_Hyperlink\_550x334.png)
+![](/.gitbook/assets/Folder_Add_Hyperlink_550x334.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Title to Display**</mark> box, type the title for the link.  <mark style="color:red;background-color:yellow;">This is a mandatory field.</mark>
 
@@ -24,12 +24,12 @@ coverY: 0
 
 <mark style="color:blue;">**Step 7:**</mark>  Click <mark style="color:blue;">**Create**</mark>. The new hyperlink is uploaded under the selected folder.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Folder\_Add\_Hyperlink%201\_550x287.png)
+![](/.gitbook/assets/Folder_Add_Hyperlink%201_550x287.png)
 
 {% hint style="info" %}
-You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon to <mark style="color:blue;">**modify**</mark> the title, URL or description.
+You can click the ![](/.gitbook/assets/Edit.png) icon to <mark style="color:blue;">**modify**</mark> the title, URL or description.
 
-You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon to <mark style="color:blue;">**delete**</mark> the hyperlink from the folder.
+You can click the ![](/.gitbook/assets/Delete.png) icon to <mark style="color:blue;">**delete**</mark> the hyperlink from the folder.
 {% endhint %}
 
 #### © NexPort Solutions 2022. All Rights Reserved.

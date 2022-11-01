@@ -20,7 +20,7 @@ Click **My Training** > **Enrollments**. The **Enrollments** list is displayed. 
 
 Yes, for NexPort Campus you need to turn on the cookies in your browser. As cookies are maintained by your browser, the method for enabling them will vary depending on which browser you are using.
 
-For more information about enabling cookies and NexPort Campus browser support, see [System Requirements](https://www.nexportcampus.com/Content/Guides/sweb/Content/Get\_Started/System\_requirements.htm).
+For more information about enabling cookies and NexPort Campus browser support, see [System Requirements](https://www.nexportcampus.com/Content/Guides/sweb/Content/Get_Started/System_requirements.htm).
 
 ## **What score must I achieve to pass a course?**
 
@@ -42,7 +42,7 @@ This is caused by the link that is cut off due to setting in the sender's email 
 
 You can contact either the Instructor of your course or the Customer Service.
 
-To send a notification to the instructor, click **My Training > Enrollments**. Click the section name that you need to access. In the **Classroom** page, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Instructor\_icon.png) icon, in the upper-right corner. In the **Primary Instructor** page, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Email.png) icon next to the name of the primary instructor. In the **Send Email** dialog, type the required information and click Send.
+To send a notification to the instructor, click **My Training > Enrollments**. Click the section name that you need to access. In the **Classroom** page, click the ![](/.gitbook/assets/Instructor_icon.png) icon, in the upper-right corner. In the **Primary Instructor** page, click the ![](/.gitbook/assets/Email.png) icon next to the name of the primary instructor. In the **Send Email** dialog, type the required information and click Send.
 
 To get in touch with the Customer Service, click **Help** > **Contact Customer Service**. Type the **Subject** and details of the problem for which you are seeking the solution. You can view all the details of your communication in the **Inbox**.
 
@@ -52,6 +52,6 @@ You can contact either the Instructor of your course or the Customer Service.
 
 ## **How can I get in touch with my instructor?**
 
-To send a notification to the instructor, click **My Training** > **Enrollments**. Click the section name that you need to access. In the **Classroom** page, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Instructor\_icon.png) icon, in the upper-right corner. In the **Primary Instructor** page, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Email.png) icon next to the name of the primary instructor. In the Send Email dialog, type the required information and click Send.
+To send a notification to the instructor, click **My Training** > **Enrollments**. Click the section name that you need to access. In the **Classroom** page, click the ![](/.gitbook/assets/Instructor_icon.png) icon, in the upper-right corner. In the **Primary Instructor** page, click the ![](/.gitbook/assets/Email.png) icon next to the name of the primary instructor. In the Send Email dialog, type the required information and click Send.
 
 #### &#x20;© NexPort Solutions 2022. All Rights Reserved.

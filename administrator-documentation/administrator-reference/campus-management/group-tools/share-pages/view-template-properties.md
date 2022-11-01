@@ -10,7 +10,7 @@ You can update or modify the title and body content for a homepage or page. If y
 
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
 2. In the left pane, click **Template properties**.
-3. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Share\_Pages/Share\_Pages\_Template\_Properties\_550x294.png)
+3. ![](/.gitbook/assets/Share_Pages_Template_Properties_550x294.png)
 4. The **Page Template Properties** dialog box is displayed. This dialog box contains the list of template properties.
 
 &#x20;

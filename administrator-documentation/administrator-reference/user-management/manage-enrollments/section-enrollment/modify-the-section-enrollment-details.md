@@ -23,13 +23,13 @@ description: >-
 
 <mark style="color:blue;">**Step 4:**</mark>  Click the <mark style="color:blue;">**Sections**</mark> tab.
 
-<mark style="color:blue;">**Step 5:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the section enrollment that you need to override.
+<mark style="color:blue;">**Step 5:**</mark>  Click the ![](/.gitbook/assets/Edit.png) icon next to the section enrollment that you need to override.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollments\_Edit\_550x105.png)
+![](/.gitbook/assets/Enrollments_Edit_550x105.png)
 
 <mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Edit Enrollment \<EnrollmentName>**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Modify\_550x185.png)
+![](/.gitbook/assets/Enrollment_Modify_550x185.png)
 
 <mark style="color:blue;">**Step 7:**</mark>  On the selected sections enrollment, modify the information on the following tabs.
 

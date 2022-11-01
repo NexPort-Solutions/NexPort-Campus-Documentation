@@ -12,7 +12,7 @@ description: >-
 >
 > The <mark style="color:blue;">**User Listing**</mark> page is displayed. You can view the list of the active users.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/User\_Listing\_550x204.png)
+![](/.gitbook/assets/User_Listing_550x204.png)
 
 ## **To search a user**
 
@@ -24,6 +24,6 @@ description: >-
 
 > NexPort Campus populates matching results.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/User\_Listing\_Search\_550x170.png)
+![](/.gitbook/assets/User_Listing_Search_550x170.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

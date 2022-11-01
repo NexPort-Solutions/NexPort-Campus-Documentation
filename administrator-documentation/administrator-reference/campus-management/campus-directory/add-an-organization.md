@@ -15,19 +15,19 @@ You can add an organization. Also, you can add an organization within an organiz
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Manage Campus**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  In the upper left corner, click the unfold ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right.png) button.
+<mark style="color:blue;">**Step 3:**</mark>  In the upper left corner, click the unfold ![](/.gitbook/assets/Right.png) button.
 
 <mark style="color:blue;">**Step 4:**</mark>  A list of the existing organizations or groups is displayed.
 
 <mark style="color:blue;">**Step 5:**</mark>  Select the organization or a group in which you need to add an organization.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/Add\_Organization.png)
+![](/.gitbook/assets/Add_Organization.png)
 
-<mark style="color:blue;">**Step 6:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_Organization.png) icon.
+<mark style="color:blue;">**Step 6:**</mark>  Click the ![](/.gitbook/assets/Add_Organization.png) icon.
 
 <mark style="color:blue;">**Step 7:**</mark>  The <mark style="color:blue;">**Add**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Campus\_Directory/Add\_ORG.png)
+![](/.gitbook/assets/Add_ORG.png)
 
 <mark style="color:blue;">**Step 8:**</mark>  In the <mark style="color:blue;">**Name**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> box, type the organization name.
 

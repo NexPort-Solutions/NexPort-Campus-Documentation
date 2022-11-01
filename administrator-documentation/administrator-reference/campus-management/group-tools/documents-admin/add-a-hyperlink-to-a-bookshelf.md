@@ -14,7 +14,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Add a Hyperlink**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Bookshelf\_Add%20Hyperlink\_550x316.png)
+![](/.gitbook/assets/Bookshelf_Add%20Hyperlink_550x316.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Title to Display**</mark> box, type the title for the link.
 
@@ -27,9 +27,9 @@ coverY: 0
 <mark style="color:blue;">**Step 8:**</mark>  Click <mark style="color:blue;">**Create**</mark>.  The new hyperlink is uploaded under the selected bookshelf.
 
 {% hint style="info" %}
-You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon to modify the title, URL or description.
+You can click the ![](/.gitbook/assets/Edit.png) icon to modify the title, URL or description.
 
-You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon to delete the hyperlink from the bookshelf.
+You can click the ![](/.gitbook/assets/Delete.png) icon to delete the hyperlink from the bookshelf.
 {% endhint %}
 
 #### © NexPort Solutions. All Rights Reserved.

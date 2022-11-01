@@ -18,10 +18,10 @@ Instructor-led curriculum offers real-time feedback, questions and answers, and 
 2. The **Sections** page is displayed.
 3. Click the **Section Name** link, to assign an instructor to an existing section.
 4. In the **Add an Instructor** area, the list of instructors associated with the course is displayed.
-5. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_Instructor.png) icon next to the name of the instructor whom you need to assign as the Instructor.
+5. Click the ![](/.gitbook/assets/Add_Instructor.png) icon next to the name of the instructor whom you need to assign as the Instructor.
 6. The selected Instructor is added to the **Instructor** list and is assigned to the section.
 7. Note:
-8. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Set\_Instructor.png) icon, to set an instructor as the primary instructor.
+8. Click the ![](/.gitbook/assets/Set_Instructor.png) icon, to set an instructor as the primary instructor.
 
 #### For more information about assigning an instructor.
 

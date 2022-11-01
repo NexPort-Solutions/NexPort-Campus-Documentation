@@ -12,7 +12,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 2:**</mark>  Select the community in which you need to delete the home page or page details.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/My\_Community/MyCommunity\_Delete\_550x280.png)
+![](/.gitbook/assets/MyCommunity_Delete_550x280.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the left column, click <mark style="color:blue;">**Delete**</mark>.
 

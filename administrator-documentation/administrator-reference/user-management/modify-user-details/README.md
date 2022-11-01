@@ -10,13 +10,13 @@ description: You can modify the values or fields of user details.
 
 > The <mark style="color:blue;">**User Listing**</mark> page is displayed. You can see the list of active users.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Modify\_UserDetails\_550x186.png)
+![](/.gitbook/assets/Modify_UserDetails_550x186.png)
 
 <mark style="color:blue;">**Step 2:**</mark> In the <mark style="color:blue;">**Login**</mark> column, click the user name that you need to modify.
 
 > The user information page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Manage\_User\_Information\_550x308.png)
+![](/.gitbook/assets/Manage_User_Information_550x308.png)
 
 <mark style="color:blue;">**Step 3:**</mark> Modify the various tabs.
 

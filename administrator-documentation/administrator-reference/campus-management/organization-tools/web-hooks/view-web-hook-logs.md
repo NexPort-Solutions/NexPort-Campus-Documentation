@@ -12,13 +12,13 @@ The logs can be related to URL, event type, log sent date, and status code of th
 
 > The <mark style="color:blue;">**Web Hooks**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooksL\_Log\_550x97.png)
+![](/.gitbook/assets/WebHooksL_Log_550x97.png)
 
 <mark style="color:blue;">**Step 2:**</mark> Click <mark style="color:blue;">**Logs**</mark> next to the web hook for which you need to view the web hook log history.
 
 > The <mark style="color:blue;">**Logs For '<\<WebHooksName>>'**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHookLogs\_550x121.png)
+![](/.gitbook/assets/WebHookLogs_550x121.png)
 
 {% hint style="info" %}
 Click <mark style="color:blue;">**Refresh**</mark> to view the updated list of web hook log.

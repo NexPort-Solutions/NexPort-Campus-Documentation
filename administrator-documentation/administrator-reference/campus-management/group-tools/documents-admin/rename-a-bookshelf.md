@@ -14,11 +14,11 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Rename**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Rename\_Bookshelf\_550x260.png)
+![](/.gitbook/assets/Rename_Bookshelf_550x260.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Rename Bookshelf**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Rename\_Bookshelf%20-%20Rename.png)
+![](/.gitbook/assets/Rename_Bookshelf%20-%20Rename.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  In the box, type a name for the bookshelf.
 

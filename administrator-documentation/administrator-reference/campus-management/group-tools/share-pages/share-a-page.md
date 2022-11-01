@@ -11,7 +11,7 @@ You can share a page to an organization, sub-organization, group, or sub-group.
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
 2. Click the **Sharing** tab.
 3. The section to share page is displayed.
-4. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Share\_Pages/Sharing\_550x327.png)
+4. ![](/.gitbook/assets/Sharing_550x327.png)
 5. In the organization tree, select the check box next to the organization, sub-organization, group, or sub-group. Do one of the following:
 6.
    * Click **Shared** to share the course catalog with the selected organization or group.

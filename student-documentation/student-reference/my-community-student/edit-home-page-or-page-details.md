@@ -14,11 +14,11 @@ coverY: 0
 
 <mark style="color:blue;">**Step 2:**</mark>  Select the community in which you need to modify the home page or page details.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/My\_Community/MyCommunity\_Edit\_550x273.png)
+![](/.gitbook/assets/MyCommunity_Edit_550x273.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the left column, click <mark style="color:blue;">**Edit**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/My\_Community/MyCommunity\_Edit\_1\_550x256.png)
+![](/.gitbook/assets/MyCommunity_Edit_1_550x256.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Edit the title, text, or replace the image.
 

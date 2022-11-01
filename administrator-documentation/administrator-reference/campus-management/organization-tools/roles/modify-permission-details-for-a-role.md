@@ -12,7 +12,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Roles**</mark> list, select a role to modify the role permission details.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Roles/Edit\_Role\_550x393.png)
+![](/.gitbook/assets/Edit_Role_550x393.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Select Permissions**</mark> area, modify the permissions.
 

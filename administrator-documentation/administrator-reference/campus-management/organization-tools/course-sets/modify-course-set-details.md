@@ -16,13 +16,13 @@ You can update or modify course set details such as general information, assign 
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**List Course Sets**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Sets/Edit\_Course\_Set\_550x135.png)
+![](/.gitbook/assets/Edit_Course_Set_550x135.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Options**</mark> column, click <mark style="color:blue;">**Edit**</mark> next to the course set that you need to modify.
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Course Set Editor**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Sets/Course\_Set\_Editor\_550x369.png)
+![](/.gitbook/assets/Course_Set_Editor_550x369.png)
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Course Set Editor**</mark> dialog box, do the following:
 
@@ -35,7 +35,7 @@ You can update or modify course set details such as general information, assign 
 > <mark style="color:blue;">**Courses in this Set:**</mark> This section lists the assigned courses for this course set.
 >
 > {% hint style="info" %}
-> Use the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Left\_Arrow.png) or ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right\_Arrow.png) to assign or remove the courses from the course set. To assign or remove one or more courses from course sets, hold the Ctrl key and then use the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Left\_Arrow.png) or ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Right\_Arrow.png).
+> Use the ![](/.gitbook/assets/Left_Arrow.png) or ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Right_Arrow.png) to assign or remove the courses from the course set. To assign or remove one or more courses from course sets, hold the Ctrl key and then use the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Left_Arrow.png) or ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Right_Arrow.png).
 > {% endhint %}
 >
 > <mark style="color:blue;">**Access Limits:**</mark> In the <mark style="color:blue;">**Access Limits**</mark> tab, you can set the validity period up to when the students can access the courses.

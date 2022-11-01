@@ -11,13 +11,13 @@ description: >-
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Organization Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Question Banks**</mark><mark style="color:blue;">.</mark> The <mark style="color:blue;">**Question Banks**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Question\_Banks%20-%20Copy\_550x213.png)
+![](/.gitbook/assets/Question_Banks%20-%20Copy_550x213.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Copy.png) icon next to the question bank that you need to copy.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Copy.png) icon next to the question bank that you need to copy.
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**copy question bank: \<question bank name>**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Copy\_Question\_550x175.png)
+![](/.gitbook/assets/Copy_Question_550x175.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the organization tree, select the organization to which you need to copy the question bank, and then click <mark style="color:blue;">**Copy**</mark><mark style="color:blue;">.</mark>
 

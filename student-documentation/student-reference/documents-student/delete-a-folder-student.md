@@ -14,7 +14,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Delete**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Documents/Folder\_Delete\_550x261.png)
+![](/.gitbook/assets/Folder_Delete_550x261.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  A confirmation dialog box is displayed with the _<mark style="color:blue;">“Are you sure you need to delete \<Folder name>?”</mark>_ message.
 

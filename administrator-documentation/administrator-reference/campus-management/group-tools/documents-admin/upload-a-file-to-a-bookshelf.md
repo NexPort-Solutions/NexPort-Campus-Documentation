@@ -16,7 +16,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Add a File**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Bookshelf\_Add%20File\_550x224.png)
+![](/.gitbook/assets/Bookshelf_Add%20File_550x224.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Upload Files**</mark> area, click <mark style="color:blue;">**Browse**</mark>.
 
@@ -24,12 +24,12 @@ coverY: 0
 
 <mark style="color:blue;">**Step 6:**</mark>  Click <mark style="color:blue;">**Open**</mark>. The file is uploaded under the selected bookshelf.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/AddFile\_Upload\_550x209.png)
+![](/.gitbook/assets/AddFile_Upload_550x209.png)
 
 {% hint style="info" %}
-You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon to modify the file title, file description or upload a new file.
+You can click the ![](/.gitbook/assets/Edit.png) icon to modify the file title, file description or upload a new file.
 
-You can click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon to delete the file from the bookshelf.
+You can click the ![](/.gitbook/assets/Delete.png) icon to delete the file from the bookshelf.
 {% endhint %}
 
 #### © NexPort Solutions. All Rights Reserved.

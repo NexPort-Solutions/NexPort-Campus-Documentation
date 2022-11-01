@@ -16,6 +16,6 @@ _<mark style="color:red;">Setting the preferred language only affects the NexPor
 
 > In the lower-left corner of the NexPort Campus, in the <mark style="color:blue;">**Choose your language**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> section, click the link of the preferred interface language.
 
-![Language Preference Selector](../.gitbook/assets/Language\_Options.png)
+![Language Preference Selector](../.gitbook/assets/Language_Options.png)
 
 #### © NexPort Solutions. All Rights Reserved.

@@ -25,7 +25,7 @@ When you click the user name in the subscriptions list, the <mark style="color:b
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Subscriptions**</mark> page is displayed. You can view the list of the active subscribers.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscriptions\_550x170.png)
+![](/.gitbook/assets/Subscriptions_550x170.png)
 
 ## **To search a subscription**
 
@@ -33,7 +33,7 @@ When you click the user name in the subscriptions list, the <mark style="color:b
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the user name that you need to search.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscriptions\_Search\_550x170.png)
+![](/.gitbook/assets/Subscriptions_Search_550x170.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Search**</mark>.  NexPort Campus populates matching results.
 

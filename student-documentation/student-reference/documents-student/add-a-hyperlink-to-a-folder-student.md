@@ -14,7 +14,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Add a Hyperlink**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Documents/Folder\_Add\_Hyperlink\_550x334.png)
+![](/.gitbook/assets/Folder_Add_Hyperlink_550x334.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Title to Display**</mark> box, type the title for the link.
 

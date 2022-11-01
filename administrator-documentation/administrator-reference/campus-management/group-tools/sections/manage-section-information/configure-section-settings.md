@@ -6,7 +6,7 @@ Step 1:  Click the **Settings** tab.
 
 Step 2:  The **Settings** page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Settings.png)
+![](/.gitbook/assets/Settings.png)
 
 Step 3:  In the **Options** area, do the following:
 
@@ -28,7 +28,7 @@ Step 5:  In the **Allow students to drop the course** area, do one of the follow
 
 > Click **Yes**, to allow students to drop any progress in the section.
 >
-> #### The ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon is visible only when the **Allow students to drop the course** is set to **Yes**.
+> #### The ![](/.gitbook/assets/Delete.png) icon is visible only when the **Allow students to drop the course** is set to **Yes**.
 >
 > For more information about allowing students to drop the course, see Enrollments in NexPort Campus Student Help.
 >

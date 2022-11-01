@@ -31,7 +31,7 @@ For more information about various types of assignments, see:
 
 * Click **My Training (My Campus)** > Instructor.
 * The **Instructor** page is displayed.
-* ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructor\_550x227.png)
+* ![](/.gitbook/assets/Instructor_550x227.png)
 
 &#x20;
 
@@ -39,7 +39,7 @@ For more information about various types of assignments, see:
 
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
-3. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructor\_Search\_550x227.png)
+3. ![](/.gitbook/assets/Instructor_Search_550x227.png)
 4. In the **Search** box, type the first few characters of a section that you want to search.
 5. Click **Search**.
 6. NexPort Campus populates matching results.
@@ -51,9 +51,9 @@ For more information about various types of assignments, see:
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
 3. In the **Section** column, click the section name you need to access.
-4. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructor\_Access\_550x227.png)
+4. ![](/.gitbook/assets/Instructor_Access_550x227.png)
 5. The **Instructing: <\<Section name>>** page is displayed.
-6. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructing\_page\_550x287.png)
+6. ![](/.gitbook/assets/Instructing_page_550x287.png)
 
 &#x20;
 

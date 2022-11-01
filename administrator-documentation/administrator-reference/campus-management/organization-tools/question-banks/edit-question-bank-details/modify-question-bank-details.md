@@ -12,7 +12,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Details**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Question\_Banks/Details\_tab.png)
+![](/.gitbook/assets/Details_tab.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Modify the values.
 

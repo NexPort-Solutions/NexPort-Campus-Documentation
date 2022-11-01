@@ -17,6 +17,6 @@ You can also select the user under the User column and provide additional inform
 * The **Activity Logs** tab is displayed, listing the activity logs for the organization.\
 
 
-![Activity Logs Screen](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Logs/Activity\_Log\_550x126.png)
+![Activity Logs Screen](/.gitbook/assets/Activity_Log_550x126.png)
 
 &#x20; © NexPort Solutions 2022. All Rights Reserved.

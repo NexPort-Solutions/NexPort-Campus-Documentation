@@ -9,7 +9,7 @@ coverY: 0
 
 The following is an image of the NexPort Campus interface. It includes a set of menus, tabs, and work areas.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Understanding\_Interface\_Student\_550x250.png)
+![](/.gitbook/assets/Understanding_Interface_Student_550x250.png)
 
 The following table describes the various elements of the NexPort Campus interface with its description.
 

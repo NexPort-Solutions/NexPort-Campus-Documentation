@@ -12,7 +12,7 @@ Step 1:  Click the **Details** tab.
 
 Step 2:  The **Details** page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Details\_550x403.png)
+![](/.gitbook/assets/Details_550x403.png)
 
 Step 3:  In the **Section Name** box, type the name of the section. <mark style="color:red;background-color:yellow;">This is a mandatory field.</mark>
 
@@ -34,9 +34,9 @@ Step 7:  In the **CEUs** box, type the number of continuing education units for 
 
 Step 8:  In the **Duration** box, type the number of hours allotted to complete the section.
 
-Step 9:  In the **Objectives** box, use the [Rich Text Editor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Get\_Started/Use\_the\_Rich\_Text\_Editor.htm) to type the learning outcome or objectives of the sections. Learning objectives can preferably be SMART: specific, attainable, measurable, realistic, and time bound.
+Step 9:  In the **Objectives** box, use the [Rich Text Editor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Get_Started/Use_the_Rich_Text_Editor.htm) to type the learning outcome or objectives of the sections. Learning objectives can preferably be SMART: specific, attainable, measurable, realistic, and time bound.
 
-Step 10:  In the **Description** box, use the [Rich Text Editor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Get\_Started/Use\_the\_Rich\_Text\_Editor.htm) to type the description for the section.
+Step 10:  In the **Description** box, use the [Rich Text Editor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Get_Started/Use_the_Rich_Text_Editor.htm) to type the description for the section.
 
 Step 11:  Click **Save**.  The section details are saved.
 

@@ -10,7 +10,7 @@ Currently, NexPort supports any video format, which is transcoded to MP4 so it w
 
 ## The Media Assignment Type
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Media\_Assignment\_550x488.png)\
+![](/.gitbook/assets/Media_Assignment_550x488.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage media assignment.

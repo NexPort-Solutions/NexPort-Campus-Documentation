@@ -1,6 +1,6 @@
 # Courseware Assignment
 
-You are here: [My Training](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/My\_Training.htm) > [Instructor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Instructor.htm) > [Assignment feedback](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Assignment\_feedback.htm) > Courseware assignment
+You are here: [My Training](/administrator-documentation/administrator-reference/My_Training/My_Training.htm) > [Instructor](/administrator-documentation/administrator-reference/My_Training/Instructor/Instructor.htm) > [Assignment feedback](/administrator-documentation/administrator-reference/My_Training/Instructor/Assignment_feedback.htm) > Courseware assignment
 
 ##
 
@@ -18,7 +18,7 @@ NexPort™ currently supports only SCORM™ 1.2 version. The SCORM packaging and
 
 &#x20;
 
-![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics
+![Related Topics Link Icon](/.gitbook/assets/void.png)Related Topics
 
 &#x20;
 

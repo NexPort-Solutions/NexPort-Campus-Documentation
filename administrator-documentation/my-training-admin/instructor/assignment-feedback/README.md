@@ -1,6 +1,6 @@
 # Assignment Feedback
 
-You are here: [My Training](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/My\_Training.htm) > [Instructor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Instructor.htm) > Assignment feedback
+You are here: [My Training](/administrator-documentation/administrator-reference/My_Training/My_Training.htm) > [Instructor](/administrator-documentation/administrator-reference/My_Training/Instructor/Instructor.htm) > Assignment feedback
 
 ## &#x20;<a href="#kanchor18" id="kanchor18"></a>
 
@@ -10,19 +10,19 @@ The assignment activities allow you to collect assignments from students. You ca
 
 On the **Instructing: <\<Section name>>** page, you can provide feedback for the following assignments:
 
-* [Courseware assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Courseware\_assignment.htm)
-* [Discussion assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Discussion\_assignment.htm)
-* [Media assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Media\_assignment.htm)
-* [Quality assurance assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Quality\_assurance\_assignment.htm)
-* [Student input assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Student\_input\_assignment.htm)
-* [Survey assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Survey\_assignment.htm)
-* [Swappable assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Swappable\_assignment.htm)
-* [Test assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Test\_assignment.htm)
-* [Writing assignment](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Writing\_assignment.htm)
+* [Courseware assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Courseware_assignment.htm)
+* [Discussion assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Discussion_assignment.htm)
+* [Media assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Media_assignment.htm)
+* [Quality assurance assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Quality_assurance_assignment.htm)
+* [Student input assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Student_input_assignment.htm)
+* [Survey assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Survey_assignment.htm)
+* [Swappable assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Swappable_assignment.htm)
+* [Test assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Test_assignment.htm)
+* [Writing assignment](/administrator-documentation/administrator-reference/My_Training/Instructor/Writing_assignment.htm)
 
 &#x20;
 
-![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics
+![Related Topics Link Icon](/.gitbook/assets/void.png)Related Topics
 
 &#x20;
 

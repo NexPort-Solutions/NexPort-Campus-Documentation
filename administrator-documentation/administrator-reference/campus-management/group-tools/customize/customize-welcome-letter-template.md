@@ -12,7 +12,7 @@ You can create a welcome letter to be sent to new subscribers. The body of the w
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Welcome Letter**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Welcome\_Letter\_550x239.png)
+![](/.gitbook/assets/Welcome_Letter_550x239.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Subject Template**</mark> box, type the subject for the welcome letter.
 

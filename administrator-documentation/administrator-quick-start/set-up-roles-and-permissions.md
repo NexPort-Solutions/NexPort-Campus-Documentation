@@ -36,7 +36,7 @@ You can assign one or more permissions for the selected role.
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Roles**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  To grant one or more permissions to the role, in the <mark style="color:blue;">**Select Permissions**</mark> area, select the permissions from the <mark style="color:blue;">**Available**</mark> list, and click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Left\_Arrow.png) icon.
+<mark style="color:blue;">**Step 3:**</mark>  To grant one or more permissions to the role, in the <mark style="color:blue;">**Select Permissions**</mark> area, select the permissions from the <mark style="color:blue;">**Available**</mark> list, and click the ![](/.gitbook/assets/Left_Arrow.png) icon.
 
 <mark style="color:blue;">**Step 4:**</mark>  The selected permissions are added to the <mark style="color:blue;">**Allowed**</mark> list.
 

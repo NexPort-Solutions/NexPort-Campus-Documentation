@@ -18,7 +18,7 @@ Step 1:  Click **Administration** > **Manage Campus** > **Group Tools** > **Sect
 
 Step 2:  The **Sections** page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Sections%20-%20Search\_550x207.png)
+![](/.gitbook/assets/Sections%20-%20Search_550x207.png)
 
 Step 3:  In the **Search** box, type the first few characters of the name of the section.
 

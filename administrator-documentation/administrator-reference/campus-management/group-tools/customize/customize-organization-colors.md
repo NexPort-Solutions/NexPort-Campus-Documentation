@@ -10,7 +10,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Colors**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Colors\_550x160.png)
+![](/.gitbook/assets/Colors_550x160.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Colors**</mark> section, click inside the text box next to the <mark style="color:blue;">**Course box borders**</mark>, <mark style="color:blue;">**Course table stripe**</mark>, <mark style="color:blue;">**Course text**</mark>, <mark style="color:blue;">**Links**</mark>, or <mark style="color:blue;">**Navigation bottom borders**</mark> option and select a color. The color code for that option automatically changes.
 

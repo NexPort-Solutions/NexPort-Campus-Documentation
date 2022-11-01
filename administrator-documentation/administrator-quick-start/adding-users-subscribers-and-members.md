@@ -44,7 +44,7 @@ After you have added a user, you must add a subscription. A subscription in the 
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Organization Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Subscription**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  On the <mark style="color:blue;">**Add Subscribers**</mark> tab, click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Subscribe.png) icon in line with the user.
+<mark style="color:blue;">**Step 2:**</mark>  On the <mark style="color:blue;">**Add Subscribers**</mark> tab, click the ![](/.gitbook/assets/Subscribe.png) icon in line with the user.
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Subscribe \<user name>**</mark> dialog box, type the billing code and the validity period of the subscription, among other details, and then click <mark style="color:blue;">**OK**</mark>.
 
@@ -62,7 +62,7 @@ After you have added a user, you could associate the user with an organization o
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Memberships**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  In the organization tree, select the organization or group to which you need to add a member, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add.png) icon in line with the user.
+<mark style="color:blue;">**Step 2:**</mark>  In the organization tree, select the organization or group to which you need to add a member, and then click the ![](/.gitbook/assets/Add.png) icon in line with the user.
 
 <mark style="color:blue;">**Step 3:**</mark>  The user is added as a member of the selected group.
 

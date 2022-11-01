@@ -41,7 +41,7 @@ The following table provides information about the shared catalogs section.
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**Catalog**</mark> | The name of the course catalog.                                                                                                                      |
 | <mark style="color:blue;">**Shared**</mark>  | From the name of the group that has shared the catalog.                                                                                              |
-| <mark style="color:blue;">**Unshare**</mark> | Click ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) to stop sharing the catalog. |
+| <mark style="color:blue;">**Unshare**</mark> | Click ![](/.gitbook/assets/Delete.png) to stop sharing the catalog. |
 
 &#x20;
 

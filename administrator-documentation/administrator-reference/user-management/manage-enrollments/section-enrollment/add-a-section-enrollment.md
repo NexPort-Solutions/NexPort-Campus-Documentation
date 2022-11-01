@@ -16,11 +16,11 @@ description: You can add a section enrollment.
 
 <mark style="color:blue;">**Step 3:**</mark>**  **  Click <mark style="color:blue;">**Enrollments**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> > <mark style="color:blue;">**Sections**</mark> > <mark style="color:blue;">**New Enrollment**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_New\_550x134.png)
+![](/.gitbook/assets/Enrollment_Sections_New_550x134.png)
 
 > The <mark style="color:blue;">**Add New Enrollment for \<UserName>**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Add%20New\_550x230.png)
+![](/.gitbook/assets/Enrollment_Add%20New_550x230.png)
 
 <mark style="color:blue;">**Step 4:**</mark>**  **  In the <mark style="color:blue;">**Select an Organization**</mark> list, select the name of the organization.
 

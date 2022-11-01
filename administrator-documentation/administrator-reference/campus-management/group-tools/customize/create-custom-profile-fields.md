@@ -26,13 +26,13 @@ The custom profile field can be defined as one of several different types. They 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Custom Profile Fields**</mark>.\
 
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Profile\_Fields\_Add%20button\_550x63.png)
+![](/.gitbook/assets/Custom_Profile_Fields_Add%20button_550x63.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Add\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Add_CustomProfile.png) icon.
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Add Profile Field**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Profile\_Fields\_Add.png)
+![](/.gitbook/assets/Custom_Profile_Fields_Add.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Key**</mark> box, type the key.
 
@@ -58,7 +58,7 @@ The custom profile question gets added to the <mark style="color:blue;">**Extend
 
 <mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Optional**</mark> next to custom profile field.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Cutom\_profile\_field\_optional\_550x89.png)
+![](/.gitbook/assets/Cutom_profile_field_optional_550x89.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  The text changes to <mark style="color:blue;">**Required**</mark> and the custom profile field becomes mandatory for response.
 
@@ -66,9 +66,9 @@ The custom profile question gets added to the <mark style="color:blue;">**Extend
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Custom Profile Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit\_CustomProfile.png) icon next to custom profile field.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Edit_CustomProfile.png) icon next to custom profile field.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Profile\_Fields\_Edit\_550x81.png)
+![](/.gitbook/assets/Custom_Profile_Fields_Edit_550x81.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Edit Profile Field**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> dialog box is displayed.
 
@@ -84,9 +84,9 @@ The custom profile question also gets updated from the <mark style="color:blue;"
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration > Manage Campus > Group Tools > Customize > Custom Profile Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Delete_CustomProfile.png) icon.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Custom\_Profile\_Fields\_Delete\_550x81.png)
+![](/.gitbook/assets/Custom_Profile_Fields_Delete_550x81.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  The <mark style="color:blue;">**Confirm Deletion**</mark> dialog box is displayed.
 

@@ -16,7 +16,7 @@ This section explains how you can update or modify the batch details, add ticket
 
 <mark style="color:blue;">**Step 2:**</mark> Click the <mark style="color:blue;">**Batch Name**</mark> next to the ticket batch that you need to modify.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Edit\_Ticketing\_Link\_550x129.png)
+![](/.gitbook/assets/Edit_Ticketing_Link_550x129.png)
 
 > The <mark style="color:blue;">**Editing Ticket Batch <\<BatchName>>**</mark> page is displayed.
 

@@ -12,7 +12,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Upload Courseware**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Courseware/Upload\_Courseware.png)
+![](/.gitbook/assets/Upload_Courseware.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Upload Files**</mark> area, click <mark style="color:blue;">**Browse**</mark>.
 

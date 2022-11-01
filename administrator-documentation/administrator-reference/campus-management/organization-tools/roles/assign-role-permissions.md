@@ -15,12 +15,12 @@ There are two sections in the <mark style="color:blue;">**Select Permissions**</
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Roles**</mark> list, select a role to which you need to assign one or more permissions.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Roles/Assign\_Role\_Permission\_550x327.png)
+![](/.gitbook/assets/Assign_Role_Permission_550x327.png)
 
-<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Available**</mark> column, select the permissions to be assigned, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Left\_Arrow.png) icon to add the permissions in the <mark style="color:blue;">**Allowed**</mark> column.
+<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Available**</mark> column, select the permissions to be assigned, and then click the ![](/.gitbook/assets/Left_Arrow.png) icon to add the permissions in the <mark style="color:blue;">**Allowed**</mark> column.
 
 {% hint style="info" %}
-To select one or more permissions, hold the Ctrl key, and then click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Left\_Arrow.png) icon to add them in the <mark style="color:blue;">**Allowed**</mark> column.
+To select one or more permissions, hold the Ctrl key, and then click the ![](/.gitbook/assets/Left_Arrow.png) icon to add them in the <mark style="color:blue;">**Allowed**</mark> column.
 {% endhint %}
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Save**</mark>.  The permission is assigned to the role.

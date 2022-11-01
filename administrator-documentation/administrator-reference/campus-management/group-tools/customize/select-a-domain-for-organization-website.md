@@ -16,7 +16,7 @@ Prior to configuring a domain for your organization you must contact the NexPort
 
 <mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Domain**</mark><mark style="color:blue;">.</mark>
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Customize/Domain\_550x146.png)
+![](/.gitbook/assets/Domain_550x146.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Domain**</mark> section, do the following.
 

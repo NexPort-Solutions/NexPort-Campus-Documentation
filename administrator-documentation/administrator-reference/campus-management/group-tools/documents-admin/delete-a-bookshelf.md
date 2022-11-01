@@ -14,7 +14,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Delete**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Documents/Delete\_Bookshelf\_550x253.png)\
+![](/.gitbook/assets/Delete_Bookshelf_550x253.png)\
 
 
 <mark style="color:blue;">**Step 4:**</mark>  A confirmation dialog box is displayed with the “Are you sure you want to delete \<Bookshelf name>?" message.

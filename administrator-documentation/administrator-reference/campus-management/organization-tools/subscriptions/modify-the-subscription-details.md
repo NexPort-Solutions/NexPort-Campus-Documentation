@@ -12,13 +12,13 @@ description: >-
 
 > The <mark style="color:blue;">**Subscriptions**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscriptions\_Modify\_550x170.png)
+![](/.gitbook/assets/Subscriptions_Modify_550x170.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Edit.png) icon next to the user whose subscription details you need to modify.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Edit.png) icon next to the user whose subscription details you need to modify.
 
 > The <mark style="color:blue;">**Subscription Details**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscription\_Details.png)
+![](/.gitbook/assets/Subscription_Details.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Modify the values.
 

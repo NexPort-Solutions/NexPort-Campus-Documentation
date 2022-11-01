@@ -20,7 +20,7 @@ description: >-
 
 > The list of sections enrollment is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_View\_550x173.png)
+![](/.gitbook/assets/Enrollment_Sections_View_550x173.png)
 
 ## **To search a section enrollment**
 
@@ -36,7 +36,7 @@ description: >-
 
 > In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the section enrollment that you need to search.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_Search\_550x105.png)
+![](/.gitbook/assets/Enrollment_Sections_Search_550x105.png)
 
 <mark style="color:blue;">**Step 4:**</mark>**  **  Click <mark style="color:blue;">**Search**</mark>.
 

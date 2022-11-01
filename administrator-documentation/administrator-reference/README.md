@@ -8,7 +8,7 @@ description: >-
 
 When you login to NexPort Campus as an Administrator, you see the following menus:
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Administration\_reference\_550x234.png)
+![](/.gitbook/assets/Administration_reference_550x234.png)
 
 The NexPort Campus Administrator manages campus, users, invoice, and reports.
 

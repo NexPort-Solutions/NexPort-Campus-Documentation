@@ -8,11 +8,11 @@ NexPort Campus allows content developers to import SCORM 1.2 packages and delive
 
 {% file src="../../.gitbook/assets/SCORM-12-RunTimeEnv.pdf" %}
 
-## Set _lesson\_status_ Immediately
+## Set _lesson_status_ Immediately
 
-According to the SCORM specification _lesson\_status_ will be set to completed if a Sharable Content Object (SCO) finishes without setting the status on the first launch. NexPort Campus obeys this behavior. If a SCO fails to set the leson\_status during the initial attempt by a student and the student exits the SCO then NexPort Campus will set the status to completed.&#x20;
+According to the SCORM specification _lesson_status_ will be set to completed if a Sharable Content Object (SCO) finishes without setting the status on the first launch. NexPort Campus obeys this behavior. If a SCO fails to set the leson_status during the initial attempt by a student and the student exits the SCO then NexPort Campus will set the status to completed.&#x20;
 
-If this is the desired behavior then the SCO should do nothing. If your SCO intends to set the lesson\_status itself you should make sure it is set to "in progress" immediately after the SCO call LmsInitialize().
+If this is the desired behavior then the SCO should do nothing. If your SCO intends to set the lesson_status itself you should make sure it is set to "in progress" immediately after the SCO call LmsInitialize().
 
 ## Call _LMSCommit_ Often
 

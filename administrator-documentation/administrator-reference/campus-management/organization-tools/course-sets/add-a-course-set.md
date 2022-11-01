@@ -12,7 +12,7 @@ description: You can add a course set in NexPort.
 
 <mark style="color:blue;">**Step 3:**</mark>**  **  The <mark style="color:blue;">**Create a New Set of Courses**</mark> area is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Sets/Add\_Course\_Set\_550x243.png)
+![](/.gitbook/assets/Add_Course_Set_550x243.png)
 
 <mark style="color:blue;">**Step 4:**</mark>**  **  In the <mark style="color:blue;">**Create a New Set of Courses**</mark> area, do the following:
 

@@ -22,9 +22,9 @@ description: >-
 
 <mark style="color:blue;">**Step 5:**</mark>  Click the <mark style="color:blue;">**Sections**</mark> tab.
 
-<mark style="color:blue;">**Step 6:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon, corresponding to the enrollment that you need to delete.
+<mark style="color:blue;">**Step 6:**</mark>  Click the ![](/.gitbook/assets/Delete.png) icon, corresponding to the enrollment that you need to delete.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_Sections\_Delete\_550x136.png)
+![](/.gitbook/assets/Enrollment_Sections_Delete_550x136.png)
 
 <mark style="color:blue;">**Step 7:**</mark>  A <mark style="color:blue;">**Remove Enrollment**</mark> dialog box is displayed. Do one of the following:
 

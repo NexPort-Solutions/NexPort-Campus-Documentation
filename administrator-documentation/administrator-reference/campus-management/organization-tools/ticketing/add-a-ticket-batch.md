@@ -12,11 +12,11 @@ description: You can create a ticket batch.
 
 <mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Add**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Ticketing\_Add\_Button\_550x126.png)
+![](/.gitbook/assets/Ticketing_Add_Button_550x126.png)
 
 > The <mark style="color:blue;">**Add New Ticket Batch**</mark> area is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Ticketing/Add\_New\_Ticket\_Batch\_550x337.png)
+![](/.gitbook/assets/Add_New_Ticket_Batch_550x337.png)
 
 <mark style="color:blue;">**Step 3:**</mark> In the <mark style="color:blue;">**Add New Ticket Batch**</mark> area, do the following:
 

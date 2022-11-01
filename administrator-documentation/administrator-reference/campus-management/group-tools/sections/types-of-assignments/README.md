@@ -12,7 +12,7 @@ Quality assurance assignment allows the curriculum developers to test out weight
 
 The following image illustrates the quality assurance assignment type.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/QualityAssurnace\_Assignment\_550x520.png)\
+![](/.gitbook/assets/QualityAssurnace_Assignment_550x520.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage quality assurance assignment.
@@ -41,7 +41,7 @@ Student input assignment includes a template of custom profile or enrollment fie
 
 The following image illustrates the student input assignment type.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/StudentInput\_Assignment\_550x612.png)\
+![](/.gitbook/assets/StudentInput_Assignment_550x612.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage student input assignment.
@@ -71,7 +71,7 @@ NexPort Campus provides you with the ability to create student surveys. You can 
 
 The following image illustrates the survey assignment type.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Survey\_Assignments\_550x699.png)\
+![](/.gitbook/assets/Survey_Assignments_550x699.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage survey assignment.
@@ -103,7 +103,7 @@ Swappable assignment is placeholders for assignments you would need to add at a 
 
 The following image illustrates the swappable assignment type.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Swappable\_Assignment\_550x428.png)\
+![](/.gitbook/assets/Swappable_Assignment_550x428.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage swappable assignment.
@@ -121,7 +121,7 @@ Test assignment allow you to make an exam available to students within NexPort C
 
 The following image illustrates the test assignment type.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Test\_Assignment\_550x755.png)\
+![](/.gitbook/assets/Test_Assignment_550x755.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage test assignment.
@@ -157,7 +157,7 @@ NexPort Campus allows students to submit assignments in two ways. Students can c
 
 The following image illustrates the writing assignment type.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Writing\_Assignment\_550x515.png)\
+![](/.gitbook/assets/Writing_Assignment_550x515.png)\
 
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage writing assignment.

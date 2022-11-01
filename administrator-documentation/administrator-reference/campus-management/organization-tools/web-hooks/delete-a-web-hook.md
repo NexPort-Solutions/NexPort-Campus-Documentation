@@ -10,7 +10,7 @@ description: You can delete a web hook from the NexPort Campus.
 
 > The <mark style="color:blue;">**Web Hooks**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooks\_Delete\_550x97.png)
+![](/.gitbook/assets/WebHooks_Delete_550x97.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Delete**</mark> next to the web hook that you need to delete.
 

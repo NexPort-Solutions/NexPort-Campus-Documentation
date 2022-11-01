@@ -14,13 +14,13 @@ Step 1:  Click **Administration** > **Manage Campus** > **Group Tools** > **Sect
 
 Step 2:  The **Sections** page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Sections%20-%20NewSection\_550x207.png)
+![](/.gitbook/assets/Sections%20-%20NewSection_550x207.png)
 
 Step 3:  Click the **New Section** link.
 
 Step 4:  The **New Section** page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/New\_Section\_550x413.png)\
+![](/.gitbook/assets/New_Section_550x413.png)\
 
 
 Step 5:  Type the values in the **Details** tab, **Settings** tab, and **Certificates** tab according to your requirements.

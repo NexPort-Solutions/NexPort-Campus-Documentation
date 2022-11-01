@@ -43,7 +43,7 @@ The following are the steps to enable cookies in various browsers.
 The following are the steps to enable cookies in Internet Explorer version 11.
 
 1. Open **Internet Explorer**.
-2. In upper-right corner of the browser, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/IE\_icon.png) icon > **Internet Options**.
+2. In upper-right corner of the browser, click the ![](/.gitbook/assets/IE_icon.png) icon > **Internet Options**.
 3. The **Internet Options** dialog box is displayed.
 4. Click on the **Privacy** tab and select **Advanced**.
 5. In the **Advanced Privacy Settings** dialog box, click **Accept** for **First-party Cookies** and **Third-party Cookies**.
@@ -55,7 +55,7 @@ The following are the steps to enable cookies in Internet Explorer version 11.
 The following are the steps to enable cookies in Google Chrome version 56.
 
 1. Open **Google Chrome**.
-2. In upper-right corner of the browser, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Chrome\_Icon\_17x24.png) icon > **Settings**.
+2. In upper-right corner of the browser, click the ![](/.gitbook/assets/Chrome_Icon_17x24.png) icon > **Settings**.
 3. Click the **Show advanced settings** link.
 4. In the **Privacy** area, click **Content settings** tab.
 5. The **Content settings** dialog box is displayed.
@@ -67,7 +67,7 @@ The following are the steps to enable cookies in Google Chrome version 56.
 The following are the steps to enable cookies in Mozilla Firefox version 47.
 
 1. Open **Mozilla Firefox**.
-2. In the upper-right corner of the browser, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Mozilla\_Icon.png) icon > **Options**.
+2. In the upper-right corner of the browser, click the ![](/.gitbook/assets/Mozilla_Icon.png) icon > **Options**.
 3. The **General** page is displayed.
 4. Click **Privacy**.
 5. In the **History** area, do the following:
@@ -81,7 +81,7 @@ The following are the steps to enable cookies in Mozilla Firefox version 47.
 The following are the steps to enable cookies in Safari version 9.
 
 1. Open **Safari**.
-2. In the upper-right corner of the browser, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Safari\_Icon.png) icon > **Preferences**.
+2. In the upper-right corner of the browser, click the ![](/.gitbook/assets/Safari_Icon.png) icon > **Preferences**.
 3. The **General** dialog box is displayed.
 4. Click the **Privacy** tab.
 5. In the **Block cookies** area, click **Never**.
@@ -92,7 +92,7 @@ The following are the steps to enable cookies in Safari version 9.
 The following are the steps to enable cookies in Opera version 30.
 
 1. Open **Opera**.
-2. In the upper-left corner of the browser, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Opera\_Icon.png) icon > **Settings**.
+2. In the upper-left corner of the browser, click the ![](/.gitbook/assets/Opera_Icon.png) icon > **Settings**.
 3. The **Settings** page is displayed.
 4. Click **Privacy & security**.
 5. In the **Cookies** area, click **Allow local data to be set (recommended)**.
@@ -120,10 +120,10 @@ You can check your system requirements to ensure NexPort Campus is running prope
 
 1\.  In the lower-left side of the NexPort Campus, click **System Check**.
 
-![Webpage footer with system options](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/System\_Check\_518x61.png)
+![Webpage footer with system options](/.gitbook/assets/System_Check_518x61.png)
 
 2\.  The **System Check** dialog box is displayed with a list of items to be completed to ensure NexPort Campus is running properly.
 
-![Systems Check Screen](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/System\_Check\_dialog\_550x403.png)
+![Systems Check Screen](/.gitbook/assets/System_Check_dialog_550x403.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

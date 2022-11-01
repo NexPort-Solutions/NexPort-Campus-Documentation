@@ -1,6 +1,6 @@
 # Assignments
 
-You are here: [My Training](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/My\_Training.htm) > [Instructor](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Instructor.htm) > Assignments
+You are here: [My Training](/administrator-documentation/administrator-reference/My_Training/My_Training.htm) > [Instructor](/administrator-documentation/administrator-reference/My_Training/Instructor/Instructor.htm) > Assignments
 
 ##
 
@@ -10,8 +10,8 @@ Assignments are activities that an Instructor assigns to the student to complete
 
 On the **Instructing: <\<Section name>>** page, you can do the following:
 
-* [Search and view assignment status](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Assignments.htm#Search)
-* [Modify grade details](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/My\_Training/Instructor/Assignments.htm#Modify)
+* [Search and view assignment status](/administrator-documentation/administrator-reference/My_Training/Instructor/Assignments.htm#Search)
+* [Modify grade details](/administrator-documentation/administrator-reference/My_Training/Instructor/Assignments.htm#Modify)
 
 &#x20;
 
@@ -28,12 +28,12 @@ You can also view the assignment status details of a student.
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
 3. In the **Section** column, click the section name you need to access.
-4. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructor\_Access\_550x227.png)
+4. ![](/.gitbook/assets/Instructor_Access_550x227.png)
 5. The **Instructing: <\<Section name>>** page is displayed.
 6. In the upper-right corner, click **Menu** > **Assignments**.
 7. In the left-navigation pane, select the assignment.
 8. In the **Search** box, type the first few characters of a student name whose assignment status you need to search.
-9. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Assignment\_Student\_Search\_550x254.png)
+9. ![](/.gitbook/assets/Assignment_Student_Search_550x254.png)
 10. Click **Search**.
 11. NexPort Campus populates the matching results.
 
@@ -44,14 +44,14 @@ You can also view the assignment status details of a student.
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
 3. In the **Section** column, click the section name you need to access.
-4. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructor\_Access\_550x227.png)
+4. ![](/.gitbook/assets/Instructor_Access_550x227.png)
 5. The **Instructing: <\<Section name>>** page is displayed.
 6. In the upper-right corner, click **Menu** > **Assignments**.
 7. In the left-navigation pane, select the assignment.
-8. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Assignment\_Status\_details\_550x254.png)
+8. ![](/.gitbook/assets/Assignment_Status_details_550x254.png)
 9. Click in the row of the student whose details you need to view.
 10. The selected student’s assignment status detail is displayed.
-11. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Assignment\_Status\_details1\_550x361.png)
+11. ![](/.gitbook/assets/Assignment_Status_details1_550x361.png)
 
 &#x20;
 
@@ -66,14 +66,14 @@ You can modify the grades and choose a grade option as either final grade or ask
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
 3. In the **Section** column, click the section name you need to access.
-4. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Instructor\_Access\_550x227.png)
+4. ![](/.gitbook/assets/Instructor_Access_550x227.png)
 5. The **Instructing: <\<Section name>>** page is displayed.
 6. In the upper-right corner, click **Menu** > **Assignments**.
 7. In the left-navigation pane, select the assignment.
-8. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Assignment\_Status\_details\_550x254.png)
+8. ![](/.gitbook/assets/Assignment_Status_details_550x254.png)
 9. Click in the row of the student whose assignment attempt you need to grade.
 10. The selected student’s assignment status detail is displayed.
-11. ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Instructor/Modify\_grade\_details\_550x329.png)
+11. ![](/.gitbook/assets/Modify_grade_details_550x329.png)
 12. In the **Edit Grade** area, do the following:
 13.
     1. In the **Score** box, type the score you need to assign to the student for the assignment.
@@ -85,7 +85,7 @@ You can modify the grades and choose a grade option as either final grade or ask
 
 &#x20;
 
-![Related Topics Link Icon](https://www.nexportcampus.com/Content/Guides/aweb/Skins/Default/Stylesheets/Images/transparent.gif)Related Topics
+![Related Topics Link Icon](/.gitbook/assets/void.png)Related Topics
 
 &#x20;
 

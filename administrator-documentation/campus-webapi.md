@@ -20,14 +20,14 @@ You can access the NexPort Campus Web API through NexPort Campus.
 
 <mark style="color:blue;">**Step 1:**</mark>  In the lower-left side of the NexPort Campus click <mark style="color:blue;">**About**</mark>** ** to bring up the <mark style="color:blue;">**About**</mark> dialog box.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/About\_550x74.png)
+![](/.gitbook/assets/About_550x74.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**System Information**</mark> tab, and then click the <mark style="color:blue;">**Web Api Documentation**</mark> link.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/System\_Information\_550x308.png)
+![](/.gitbook/assets/System_Information_550x308.png)
 
 **Step 3:**  The NexPort Campus API page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Swagger\_URL\_550x328.png)
+![](/.gitbook/assets/Swagger_URL_550x328.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

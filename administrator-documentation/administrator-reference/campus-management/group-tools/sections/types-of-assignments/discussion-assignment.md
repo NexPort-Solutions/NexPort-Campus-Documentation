@@ -9,7 +9,7 @@ description: >-
 
 ## The Discussion Assignment Type
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Sections/Discussion\_Assignment\_550x472.png)
+![](/.gitbook/assets/Discussion_Assignment_550x472.png)
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage discussion assignment.
 

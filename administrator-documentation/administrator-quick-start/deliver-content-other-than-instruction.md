@@ -13,7 +13,7 @@ After you have organized a campus and created instructional content for students
 You can share documents, images, video, and other files through a bookshelf. A bookshelf is a virtual storage area where you can upload, organize, and share various learning resources. You can upload documents, images, videos, audio files, and webpages under appropriate subfolders in a bookshelf.
 
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Documents** > **Browse**.
-2. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Bookshelf.png) icon, type the values, and then click **Save**.
+2. Click the ![](/.gitbook/assets/Bookshelf.png) icon, type the values, and then click **Save**.
 
 #### For more information about adding a bookshelf.
 
@@ -27,7 +27,7 @@ Bookshelves must be shared to groups before they are visible to students. When a
 
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Documents** > **Browse**.
 2. In the bookshelf list, select the bookshelf to share.
-3. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Share\_Bookshelf.png) icon.
+3. Click the ![](/.gitbook/assets/Share_Bookshelf.png) icon.
 4. In the organization list, select the check box next to the organization, sub-organization, group, or subgroup.
 5. Click to **Shared** or **Shared With New Descendants**.
 

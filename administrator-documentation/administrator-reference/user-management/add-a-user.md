@@ -8,7 +8,7 @@ description: You can add new users.
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark> > <mark style="color:blue;">**Add User**</mark>.
 
-![](../../../.gitbook/assets/add\_usere621.png)
+![](../../../.gitbook/assets/add_usere621.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Login**</mark> box, type the login name of a user.  _<mark style="color:red;background-color:yellow;">This is a mandatory field.</mark>_
 

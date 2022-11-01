@@ -12,7 +12,7 @@ This is a permanent action that cannot be undone. All user activity are permanen
 
 <mark style="color:blue;">**Step 1:**</mark>**  **  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark> > <mark style="color:blue;">**Delete Users**</mark>.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Delete\_Users.png)
+![](/.gitbook/assets/Delete_Users.png)
 
 <mark style="color:blue;">**Step 2:**</mark>**  **  In the <mark style="color:blue;">**Find User**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> box, type the user name that you need to delete.
 

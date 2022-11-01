@@ -16,7 +16,7 @@ coverY: 0
 
 <mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Add a File**</mark> tab.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Documents/Folder\_Add\_File\_550x277.png)
+![](/.gitbook/assets/Folder_Add_File_550x277.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Upload Files**</mark> area, click <mark style="color:blue;">**Browse**</mark>.
 

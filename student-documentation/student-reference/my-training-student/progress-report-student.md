@@ -22,7 +22,7 @@ The <mark style="color:blue;">**Progress Report**</mark> gives you an insight in
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Progress Report**</mark> page is displayed. You can view the list of active enrollments.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Progress\_Report/ProgressReport\_ActiveEnrollment\_550x290.png)
+![](/.gitbook/assets/ProgressReport_ActiveEnrollment_550x290.png)
 
 ## **Search for an active enrollment listing**
 
@@ -32,7 +32,7 @@ The <mark style="color:blue;">**Progress Report**</mark> gives you an insight in
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Search**</mark> box of <mark style="color:blue;">**Active Enrollment**</mark> section, type the first few characters of the section that you want to search.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Progress\_Report/ProgressReport\_Active\_Search\_550x200.png)
+![](/.gitbook/assets/ProgressReport_Active_Search_550x200.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 
@@ -48,7 +48,7 @@ The <mark style="color:blue;">**Progress Report**</mark> gives you an insight in
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Progress Report**</mark> page is displayed. You can view the list of an unofficial transcript.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Progress\_Report/ProgressReport\_Transcript\_550x290.png)
+![](/.gitbook/assets/ProgressReport_Transcript_550x290.png)
 
 ## **To search an unofficial transcript listing:**
 
@@ -58,7 +58,7 @@ The <mark style="color:blue;">**Progress Report**</mark> gives you an insight in
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Search**</mark> box of <mark style="color:blue;">**Unofficial Transcript**</mark> section, type the first few characters of the section that you want to search.
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Progress\_Report/ProgressReport\_Transcript\_Search\_550x200.png)
+![](/.gitbook/assets/ProgressReport_Transcript_Search_550x200.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Search**</mark> and NexPort Campus populates matching results.
 
@@ -72,12 +72,12 @@ The <mark style="color:blue;">**Progress Report**</mark> gives you an insight in
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Unofficial Transcript**</mark> section, do the following:
 
-<mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Status**</mark> column, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Certificate.png) icon, to view the certificate.
+<mark style="color:blue;">**Step 4:**</mark>  In the <mark style="color:blue;">**Status**</mark> column, click the ![](/.gitbook/assets/Certificate.png) icon, to view the certificate.
 
 {% hint style="info" %}
 You can also view the certificate from the <mark style="color:blue;">**Enrollment**</mark> tab.
 {% endhint %}
 
-![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Progress\_Report/ProgressReport\_Certificate\_550x290.png)
+![](/.gitbook/assets/ProgressReport_Certificate_550x290.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

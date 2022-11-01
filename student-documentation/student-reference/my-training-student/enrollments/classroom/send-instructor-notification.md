@@ -18,11 +18,11 @@ coverY: 0
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Classroom**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page is displayed.
 
-<mark style="color:blue;">**Step 5**</mark>:  In the upper-right corner of the classroom, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Instructor\_icon.png) icon.
+<mark style="color:blue;">**Step 5**</mark>:  In the upper-right corner of the classroom, click the ![](/.gitbook/assets/Instructor_icon.png) icon.
 
 <mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Primary Instructor**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 7:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Email.png) icon next to the name of the primary instructor to whom you need to send a notification.
+<mark style="color:blue;">**Step 7:**</mark>  Click the ![](/.gitbook/assets/Email.png) icon next to the name of the primary instructor to whom you need to send a notification.
 
 <mark style="color:blue;">**Step 8:**</mark>  The <mark style="color:blue;">**Send Email**</mark> dialog is displayed.
 

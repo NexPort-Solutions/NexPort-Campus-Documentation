@@ -11,7 +11,7 @@ NexPort Campus allows you to distribute your instructional content using one of 
 
 In this model, the access to the learning assets that includes catalogs, training plans, and sections, are provided through invoices. The individual catalogs, training plans, and sections are directly sold to customers. They obtain access to these learning resources after the user redeems redemption codes that are produced by NexPort invoices.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/POS\_Invoicing\_Model.png)
+![](/.gitbook/assets/POS_Invoicing_Model.png)
 
 ## How to create an invoice? <a href="#how" id="how"></a>
 
@@ -38,19 +38,19 @@ This is the most common model used by customers. In this model, the student is s
 
 In essence, the Organizational Model is based on group membership.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/Organizational\_model.png)
+![](/.gitbook/assets/Organizational_model.png)
 
 ## What is the Ticketing Model? <a href="#what3" id="what3"></a>
 
 In NexPort you can create batches of tickets to be distributed to students. These tickets, when redeemed by a student, can give students access to organizations and membership into groups. The ticketing model essentially uses the Organizational model for controlling access. Access to content is still controlled through memberships. All membership rules for tickets are stored in the ticket batch. So, all tickets in a batch have the same rules. Ticket batches can contain as many number of tickets and your organization can create as many number of ticket batches.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/POS\_Ticketing\_Model.png)
+![](/.gitbook/assets/POS_Ticketing_Model.png)
 
 ## How to add ticket batches? <a href="#how2" id="how2"></a>
 
 A ticket can be used to grant users access to various groups in your organization. When redeemed, a ticket creates subscriptions and memberships for the redeeming user in accordance with the rules defined on the ticket batch it belongs to. A redeem link is sent to the users to redeem a ticket or an entire spreadsheet of tickets is sent through an external purchasing agent to distribute at a later date. In this way ticketing offers a very flexible way to distribute content to your students.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Section\_One\_Admin/Add\_TicketBatch\_535x404.png)
+![](/.gitbook/assets/Add_TicketBatch_535x404.png)
 
 1. Click **Administration** > **Manage Campus** > **Organization Tools** > **Ticketing**.
 2. The **Ticketing** page is displayed.
@@ -58,7 +58,7 @@ A ticket can be used to grant users access to various groups in your organizatio
 4. Click **Create**.
 5. The ticketing batch is created.
 
-For more information about adding a ticketing batch, see [Ticketing](https://www.nexportcampus.com/Content/Guides/aweb/Content/Module\_Topics/Campus\_Management/Organization\_Tools/Ticketing/Ticketing.htm).
+For more information about adding a ticketing batch, see [Ticketing](/administrator-documentation/administrator-reference/Campus_Management/Organization_Tools/Ticketing/Ticketing.htm).
 
 ## How to apply membership settings? <a href="#how3" id="how3"></a>
 

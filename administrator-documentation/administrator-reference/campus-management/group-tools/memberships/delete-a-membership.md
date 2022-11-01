@@ -12,9 +12,9 @@ coverY: 0
 
 <mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Members**</mark> page is displayed.
 
-![Member](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/GT\_Membership/Member\_Delete\_550x151.png)
+![Member](/.gitbook/assets/Member_Delete_550x151.png)
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the user whose membership you need to remove.
+<mark style="color:blue;">**Step 3:**</mark>  Click the ![](/.gitbook/assets/Delete.png) icon next to the user whose membership you need to remove.
 
 <mark style="color:blue;">**Step 4:**</mark>  The selected membership of the user is removed.
 

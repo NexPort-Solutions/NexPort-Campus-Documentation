@@ -20,7 +20,7 @@ description: >-
 
 > The list of training plan enrollments is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_TrainingPlans\_View\_550x120.png)
+![](/.gitbook/assets/Enrollment_TrainingPlans_View_550x120.png)
 
 ## **To search training plan enrollment**
 
@@ -36,7 +36,7 @@ description: >-
 
 <mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the training plan enrollment that you need to search.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Manage\_Users/Enrollment\_TrainingPlans\_Search\_550x103.png)
+![](/.gitbook/assets/Enrollment_TrainingPlans_Search_550x103.png)
 
 <mark style="color:blue;">**Step 6:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 

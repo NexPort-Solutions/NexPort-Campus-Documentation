@@ -10,13 +10,13 @@ description: You can add a new web hook to connect a new or additional external 
 
 > The <mark style="color:blue;">**Web Hooks**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/WebHooks\_Add\_550x97.png)
+![](/.gitbook/assets/WebHooks_Add_550x97.png)
 
 <mark style="color:blue;">**Step 2:**</mark>  Click <mark style="color:blue;">**Add**</mark><mark style="color:blue;">.</mark>
 
 > The <mark style="color:blue;">**Manage Web hook Interface**</mark> dialog box is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Web\_Hooks/ManageWebHookInterface.png)
+![](/.gitbook/assets/ManageWebHookInterface.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Name**</mark> box, type the name of the web hook.
 
@@ -40,7 +40,7 @@ The <mark style="color:blue;">**Manage QueryString**</mark> button is disabled, 
 
 <mark style="color:blue;">**Step 8:**</mark>  In the <mark style="color:blue;">**Body**</mark> box, type the XML, JSON, and other formats that HTTPS request allows.
 
-> The body can be built by using the [Velocity Template Language (VTL)](http://velocity.apache.org/engine/1.6/user-guide.html) properties. Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Help.png) icon to access the available VTL properties.
+> The body can be built by using the [Velocity Template Language (VTL)](http://velocity.apache.org/engine/1.6/user-guide.html) properties. Click the ![](/.gitbook/assets/Help.png) icon to access the available VTL properties.
 
 {% hint style="info" %}
 The <mark style="color:blue;">**Body**</mark> box is disabled if you enter <mark style="color:blue;">**Get**</mark> and is enabled when you enter <mark style="color:blue;">**Post**</mark>, <mark style="color:blue;">**Update**</mark>, and <mark style="color:blue;">**Delete**</mark> in the Verb list.  The body content must match the <mark style="color:blue;">**Content Type**</mark>.

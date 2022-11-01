@@ -12,13 +12,13 @@ description: >-
 
 > The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlans\_Enroll\_550x275.png)
+![](/.gitbook/assets/TrainingPlans_Enroll_550x275.png)
 
-<mark style="color:blue;">**Step 2:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need to enroll.
+<mark style="color:blue;">**Step 2:**</mark>  Click the ![](/.gitbook/assets/Details.png) icon next to the training plan that you need to enroll.
 
 > The <mark style="color:blue;">**Enrollments**</mark> page is displayed. You can view the details about the name, status, enrollment date, and last activity of the enrollments.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlan\_Ernollment\_550x153.png)
+![](/.gitbook/assets/TrainingPlan_Ernollment_550x153.png)
 
 ## **To enroll a student**
 
@@ -26,7 +26,7 @@ description: >-
 
 > The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need students to enroll for.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](/.gitbook/assets/Details.png) icon next to the training plan that you need students to enroll for.
 
 > The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
 
@@ -34,7 +34,7 @@ description: >-
 
 > The <mark style="color:blue;">**Enroll a Student**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlan\_Enrollment\_Add\_550x224.png)
+![](/.gitbook/assets/TrainingPlan_Enrollment_Add_550x224.png)
 
 <mark style="color:blue;">**Step 4:**</mark>  Click <mark style="color:blue;">**Enroll**</mark> next to the student you need to enroll to the training plan.
 
@@ -46,13 +46,13 @@ description: >-
 
 > The <mark style="color:blue;">**Training Plans**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Details.png) icon next to the training plan that you need students to enroll for.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](/.gitbook/assets/Details.png) icon next to the training plan that you need students to enroll for.
 
 > The <mark style="color:blue;">**Enrollments**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Training\_Plans/TrainingPlan\_Ernollment\_Remove\_550x153.png)
+![](/.gitbook/assets/TrainingPlan_Ernollment_Remove_550x153.png)
 
-<mark style="color:blue;">**Step 3:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete.png) icon next to the enrollment you need to delete from the training plan.
+<mark style="color:blue;">**Step 3:**</mark> Click the ![](/.gitbook/assets/Delete.png) icon next to the enrollment you need to delete from the training plan.
 
 > A confirmation message, _<mark style="color:red;background-color:yellow;">“Do you really want to delete the training plan enrollment for the \<student name>?”</mark>_ is displayed.
 

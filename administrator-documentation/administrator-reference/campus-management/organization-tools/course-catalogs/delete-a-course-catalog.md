@@ -10,9 +10,9 @@ description: You can delete an existing course catalog from NexPort Campus.
 
 <mark style="color:blue;">**Step 2:**</mark>  The catalogs list is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Course\_Catalogs/Delete\_CourseCatalog\_550x127.png)
+![](/.gitbook/assets/Delete_CourseCatalog_550x127.png)
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Delete\_Certificate.png) icon next to the course catalog that you need to delete.
+<mark style="color:blue;">**Step 3:**</mark>  Click the ![](/.gitbook/assets/Delete_Certificate.png) icon next to the course catalog that you need to delete.
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Delete Catalog**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> dialog box is displayed. A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure you want to delete the catalog?”</mark>_ message.
 

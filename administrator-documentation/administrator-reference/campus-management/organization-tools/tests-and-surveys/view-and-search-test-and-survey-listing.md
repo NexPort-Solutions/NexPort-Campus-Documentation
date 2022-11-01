@@ -20,7 +20,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Search**</mark> box, type the first few characters of the test and survey name that you need to search.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Test\_and\_Surveys/TestandSurvey\_Search\_550x193.png)
+![](/.gitbook/assets/TestandSurvey_Search_550x193.png)
 
 <mark style="color:blue;">**Step 3:**</mark>  Click <mark style="color:blue;">**Search**</mark>.
 

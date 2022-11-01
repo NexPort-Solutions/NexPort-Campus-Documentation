@@ -12,9 +12,9 @@ description: >-
 
 > The <mark style="color:blue;">**Subscriptions**</mark> page is displayed.
 
-![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/OT\_Subscriptions/Subscription\_Send\_Email\_550x170.png)
+![](/.gitbook/assets/Subscription_Send_Email_550x170.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common\_Screens\_Icons/Email.png) icon next to the user to whom you need to send an email notification.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](/.gitbook/assets/Email.png) icon next to the user to whom you need to send an email notification.
 
 > The <mark style="color:blue;">**Send Email**</mark> dialog box is displayed. Type the required information.
 

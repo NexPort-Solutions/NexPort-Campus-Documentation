@@ -22,10 +22,10 @@ Some sections either do not have an Instructor or this feature is disabled. In t
 
 <mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Classroom**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 5:**</mark> In the upper-right corner of the classroom, click the ![](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common\_Screens\_Icons/Instructor\_icon.png) icon.
+<mark style="color:blue;">**Step 5:**</mark> In the upper-right corner of the classroom, click the ![](/.gitbook/assets/Instructor_icon.png) icon.
 
 <mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Primary Instructor**</mark> page is displayed. You can view the name and biography of the primary instructor.
 
-![Primary instructor biography page](https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Classroom/Instructor\_Profile\_550x251.png)
+![Primary instructor biography page](/.gitbook/assets/Instructor_Profile_550x251.png)
 
 #### © NexPort Solutions 2022. All Rights Reserved.
