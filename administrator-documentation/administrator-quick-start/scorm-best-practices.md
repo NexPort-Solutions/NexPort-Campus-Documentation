@@ -8,11 +8,11 @@ NexPort Campus allows content developers to import SCORM 1.2 packages and delive
 
 {% file src="../../.gitbook/assets/SCORM-12-RunTimeEnv.pdf" %}
 
-## Set _lesson_status_ Immediately
+## Set _cmi.core.lesson\_status_ Immediately
 
-According to the SCORM specification _lesson_status_ will be set to completed if a Sharable Content Object (SCO) finishes without setting the status on the first launch. NexPort Campus obeys this behavior. If a SCO fails to set the leson_status during the initial attempt by a student and the student exits the SCO then NexPort Campus will set the status to completed.&#x20;
+According to the SCORM specification, _cmi.core.lesson\_status_ will be set to _**completed**_ if a Sharable Content Object (SCO) finishes without setting the status on the first launch. NexPort Campus obeys this behavior. If a SCO fails to set the leson\_status during the initial attempt by a student and the student exits the SCO then NexPort Campus will set the status to completed.
 
-If this is the desired behavior then the SCO should do nothing. If your SCO intends to set the lesson_status itself you should make sure it is set to "in progress" immediately after the SCO call LmsInitialize().
+If this is the desired behavior then the SCO should do nothing. If your SCO intends to set the _cmi.core.lesson\_status_ itself you should make sure it is set to "_incomplete_" immediately after the SCO call LmsInitialize().
 
 ## Call _LMSCommit_ Often
 
@@ -20,9 +20,9 @@ According to the SCORM 1.2 specification, CMI data is only required to be persis
 
 ## Do Not Try to Close the Window
 
-Many SCORM LMSs will launch a SCORM course in a popup window. NexPort Campus does not use popup windows. NexPort Campus has 2 options for launching a SCORM course.&#x20;
+Many SCORM LMSs will launch a SCORM course in a popup window. NexPort Campus does not use popup windows. NexPort Campus has 2 options for launching a SCORM course.
 
-First, is the "courseware launcher" with opens the courseware separately from the classroom but in the same window/tab. A menu at the top of the courseware launcher has a button that the student can use to "Return to Classroom."&#x20;
+First, is the "courseware launcher" with opens the courseware separately from the classroom but in the same window/tab. A menu at the top of the courseware launcher has a button that the student can use to "Return to Classroom."
 
 Second, is the "embeded" mode. This mode provides the best experience for students. In this mode the courseware is displayed in the classroom directly. The SCO may call LMSFinish as it likes and the classroom will automatically pickup changes to the grade and status.
 
@@ -32,7 +32,7 @@ Curriculum developers frequently QA their course in their authoring environment 
 
 ## Consider Implementing Improved SCORM (iSCORM)
 
-Not all tools support the iSCORM specification.&#x20;
+Not all tools support the iSCORM specification.
 
 The IScorm Spec is a Super Set of the ADL SCORM 1.2 Specification. IScorm is designed to provide a few missing features to the SCORM 1.2 API while still mostly supporting the original SCORM 1.2 specification. Here are a few goals:
 

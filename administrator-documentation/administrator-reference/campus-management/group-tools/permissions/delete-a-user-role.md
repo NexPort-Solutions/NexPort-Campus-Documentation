@@ -6,16 +6,16 @@ description: You can revoke a role from a specific user from the NexPort Campus.
 
 ## **To delete a user role:**
 
-Step 1:  Click **Administration** > **Manage Campus** > **Group Tools** > **Permissions**.
+Step 1: Click **Administration** > **Manage Campus** > **Group Tools** > **Permissions**.
 
-Step 2:  The **Permissions** page is displayed.
+Step 2: The **Permissions** page is displayed.
 
-![](/.gitbook/assets/Delete_Permission.png)
+![](../../../../../.gitbook/assets/Delete\_Permission.png)
 
-Step 3:  Click the ![](/.gitbook/assets/Delete.png) icon next to the user that you need to delete.
+Step 3: Click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon next to the user that you need to delete.
 
-Step 4:  A confirmation dialog box is displayed with the “Are you sure you want to revoke the role \<RoleName> from \<UserName>?” message.
+Step 4: A confirmation dialog box is displayed with the “Are you sure you want to revoke the role \<RoleName> from \<UserName>?” message.
 
-Step 5:  Click **OK**.  The selected role permission of the user is removed.
+Step 5: Click **OK**. The selected role permission of the user is removed.
 
 #### © NexPort Solutions 2022. All Rights Reserved.

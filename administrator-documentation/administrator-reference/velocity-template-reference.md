@@ -5,25 +5,17 @@ coverY: 0
 
 # Velocity Template Reference
 
-You are here: [Section Two: Administrator reference](/administrator-documentation/administrator-reference/Administration_reference.htm) > Velocity Template Reference > Velocity User Guide
+You are here: [Section Two: Administrator reference](Administration\_reference.htm) > Velocity Template Reference > Velocity User Guide
 
 ## **About this Guide** <a href="#about-this-guide" id="about-this-guide"></a>
 
 > Many areas of NexPort Campus support the use of system or context properties that allow you to include text that dynamically changes for each user. For instance you can create group pages that display a logged in user's name or the current date. In assignment descriptions you can include information about the assignment including the current score, status, due date or many other properties. This is all possible because these text areas are actually templates written using the Velocity Templating Language (VTL).
 >
-> &#x20;
->
 > The Velocity User Guide is intended to help page designers and content providers get acquainted with Velocity and the syntax of its simple yet powerful scripting language, the Velocity Template Language (VTL). Many of the examples in this guide deal with using Velocity to embed dynamic content in NexPort Campus, but all VTL examples are equally applicable to other pages and templates.
-
-&#x20;
-
-&#x20;
 
 ## **What is Velocity?** <a href="#what-is-velocity" id="what-is-velocity"></a>
 
 > Velocity is a template engine. It permits editors and content designers to reference proterties defined by NexPort. This allows curriculum designers to create robust content that dynamically changes.
-
-&#x20;
 
 ## **Velocity Template Language (VTL): An Introduction** <a href="#velocity-template-language-vtl-an-introduction" id="velocity-template-language-vtl-an-introduction"></a>
 
@@ -41,13 +33,9 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > In the example above, the variable is _$a_ and the value is _Velocity_. This variable, like all references, begins with the _$_ character. Values are always enclosed in quotes; with Velocity there is no confusion about data types, as only strings (text-based information) may be passed to variables.
 >
-> The following rule of thumb may be useful to better understand how Velocity works: **References begin with **_**$**_** and are used to get something. Directives begin with **_**#**_** and are used to do something.**
+> The following rule of thumb may be useful to better understand how Velocity works: **References begin with \_$**_\*\* and are used to get something. Directives begin with \*\*_**#**\_\*\* and are used to do something.\*\*
 >
 > In the example above, _#set_ is used to assign a value to a variable. The variable, _$a_, can then be used in the template to output "Velocity".
-
-&#x20;
-
-&#x20;
 
 ## **Hello Velocity World!** <a href="#hello-velocity-world" id="hello-velocity-world"></a>
 
@@ -62,25 +50,21 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > To make statements containing VTL directives more readable, we encourage you to start each VTL statement on a new line, although you are not required to do so. The _set_ directive will be revisited in greater detail later on.
 
-&#x20;
-
-&#x20;
-
 ## **Comments** <a href="#comments" id="comments"></a>
 
 > Comments allows descriptive text to be included that is not placed into the output of the template engine. Comments are a useful way of reminding yourself and explaining to others what your VTL statements are doing, or any other purpose you find useful. Below is an example of a comment in VTL.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ## This is a single line comment.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > A single line comment begins with _##_ and finishes at the end of the line. If you're going to write a few lines of commentary, there's no need to have numerous single line comments. Multi-line comments, which begin with _#\*_ and end with _\*#_, are available to handle this scenario.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > This is text that is outside the multi-line comment.
@@ -91,11 +75,11 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > Here is text outside the multi-line comment; it is visible.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Here are a few examples to clarify how single line and multi-line comments work:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > This text is visible. 
@@ -116,41 +100,37 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > **Variables**\
 > The shorthand notation of a variable consists of a leading "$" character followed by a VTL _Identifier_. A VTL Identifier must start with an alphabetic character (a .. z or A .. Z). The rest of the characters are limited to the following types of characters:
 >
-> &#x20;
->
 > * alphabetic (a .. z, A .. Z)
 > * numeric (0 .. 9)
 > * hyphen ("-")
-> * underscore ("_")
->
-> &#x20;
+> * underscore ("\_")
 >
 > Here are some examples of valid variable references in the VTL:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $foo$mudSlinger$mud-slinger$mud_slinger$mudSlinger1
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > When VTL references a variable, such as _$foo_, the variable can get its value from either a _set_ directive in the template. For example, if the Java variable _$foo_ has the value _bar_ at the time the template is requested, _bar_ replaces all instances of _$foo_ on the web page. Alternatively, if I include the statement
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $foo = "bar" )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The output will be the same for all instances of _$foo_ that follow this directive.
 >
 > **Properties**\
 > The second flavor of VTL references are properties, and properties have a distinctive format. The shorthand notation consists of a leading _$_ character followed a VTL Identifier, followed by a dot character (".") and another VTL Identifier. These are examples of valid property references in the VTL:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $customer.Address
@@ -160,20 +140,18 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > $purchase.Total
 > ```
 >
-> &#x20;
->
 > Take the first example, _$customer.Address_. It can have two meanings. It can mean, Look in the hashtable identified as _customer_ and return the value associated with the key _Address_. But _$customer.Address_ can also be referring to a method (references that refer to methods will be discussed in the next section); _$customer.Address_ could be an abbreviated way of writing _$customer.getAddress()_. When your page is requested, Velocity will determine which of these two possibilities makes sense, and then return the appropriate value.
 >
 > **Methods**\
 > A method is defined in NexPort Campus and is capable of doing something useful, like running a calculation or arriving at a decision. Methods are references that consist of a leading "$" character followed a VTL Identifier, followed by a VTL _Method Body_. A VTL Method Body consists of a VTL Identifier followed by an left parenthesis character ("("), followed by an optional parameter list, followed by right parenthesis character (")"). These are examples of valid method references in the VTL:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $customer.getAddress()$purchase.getTotal()$page.setTitle( "My Home Page" )$person.setAttributes( ["Strange", "Weird", "Excited"] )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The first two examples -- _$customer.getAddress()_ and _$purchase.getTotal()_ -- may look similar to those used in the Properties section above, _$customer.Address_ and _$purchase.Total_. If you guessed that these examples must be related some in some fashion, you are correct!
 >
@@ -181,95 +159,91 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > The shorthand notation can be used for the following Methods
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $sun.getPlanets()$annelid.getDirt()$album.getPhoto()
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > We might expect these methods to return the names of planets belonging to the sun, feed our earthworm, or get a photograph from an album. Only the long notation works for the following Methods.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $sun.getPlanet( ["Earth", "Mars", "Neptune"] )## Can't pass a parameter list with $sun.Planets$sisyphus.pushRock()## Velocity assumes I mean $sisyphus.getRock()$book.setTitle( "Homage to Catalonia" )## Can't pass a parameter list
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > **Formal Reference Notation**\
 > Shorthand notation for references was used for the examples listed above, but there is also a formal notation for references, which is demonstrated below:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ${mudSlinger}${customer.Address}${purchase.getTotal()}
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > In almost all cases you will use the shorthand notation for references, but in some cases the formal notation is required for correct processing.
 >
 > Suppose you were constructing a sentence on the fly where _$vice_ was to be used as the base word in the noun of a sentence. The goal is to allow someone to choose the base word and produce one of the two following results: "Jack is a pyromaniac." or "Jack is a kleptomaniac.". Using the shorthand notation would be inadequate for this task. Consider the following example:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Jack is a $vicemaniac.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > There is ambiguity here, and Velocity assumes that _$vicemaniac_, not _$vice_, is the Identifier that you mean to use. Finding no value for _$vicemaniac_, it will return _$vicemaniac_. Using formal notation can resolve this problem.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Jack is a ${vice}maniac.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Now Velocity knows that _$vice_, not _$vicemaniac_, is the reference. Formal notation is often useful when references are directly adjacent to text in a template.
 >
 > **Quiet Reference Notation**\
 > When Velocity encounters an undefined reference, its normal behavior is to output the image of the reference. For example, suppose the following reference appears as part of a VTL template.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <input type="text" name="email" value="$email"/>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > When the form initially loads, the variable reference _$email_ has no value, but you prefer a blank text field to one with a value of "$email". Using the quiet reference notation circumvents Velocity's normal behavior; instead of using _$email_ in the VTL you would use _$!email_. So the above example would look like the following:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <input type="text" name="email" value="$!email"/>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Now when the form is initially loaded and _$email_ still has no value, an empty string will be output instead of "$email".
 >
 > Formal and quiet reference notation can be used together, as demonstrated below.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <input type="text" name="email" value="$!{email}"/>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
-
-&#x20;
-
-&#x20;
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 
 ## **Getting literal** <a href="#getting-literal" id="getting-literal"></a>
 
@@ -279,97 +253,89 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > There is no problem writing "I bought a 4 lb. sack of potatoes at the farmer's market for only $2.50!" As mentioned, a VTL identifier always begins with an upper- or lowercase letter, so $2.50 would not be mistaken for a reference.
 >
 > **Escaping Valid VTL References**\
-> Cases may arise where there is the potential for Velocity to get confused. _Escaping_ special characters is the best way to handle VTL's special characters in your templates, and this can be done using the backslash ( _\_ ) character.
+> Cases may arise where there is the potential for Velocity to get confused. _Escaping_ special characters is the best way to handle VTL's special characters in your templates, and this can be done using the backslash ( \_\_ ) character.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $email = "foo" )$email
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > If Velocity encounters a reference in your VTL template to _$email_, it will search the Context for a corresponding value. Here the output will be _foo_, because _$email_ is defined. If _$email_ is not defined, the output will be _$email_.
 >
 > Suppose that _$email_ is defined (for example, if it has the value _foo_), and that you want to output _$email_. There are a few ways of doing this, but the simplest is to use the escape character.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ## The following line defines $email in this template:#set( $email = "foo" )$email\$email\\$email\\\$email
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > renders as
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > foo$email\foo\$email
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
-> Note that the _\_ character bind to the _$_ from the left. The bind-from-left rule causes _\\\\\\$email_ to render as _\\\\$email_. Compare these examples to those in which _$email_ is not defined.
+> Note that the \_\_ character bind to the _$_ from the left. The bind-from-left rule causes _\\\\\\$email_ to render as _\\\\$email_. Compare these examples to those in which _$email_ is not defined.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $email\$email\\$email\\\$email
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > renders as
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $email\$email\\$email\\\$email
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Notice Velocity handles references that are defined differently from those that have not been defined. Here is a set directive that gives _$foo_ the value _gibbous_.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $foo = "gibbous" )$moon = $foo
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The output will be: _$moon = gibbous_ -- where _$moon_ is output as a literal because it is undefined and _gibbous_ is output in place of _$foo_.
 >
 > It is also possible to escape VTL directives; this is described in more detail in the Directives section.
 
-&#x20;
-
-&#x20;
-
 ## **Case Substitution** <a href="#case-substitution" id="case-substitution"></a>
 
 > Now that you are familiar with references, you can begin to apply them effectively in your templates. Velocity references take advantage of some Java principles that template designers will find easy to use. For example:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $foo$foo.getBar()## is the same as$foo.Bar$data.getUser("jon")## is the same as$data.User("jon")$data.getRequest().getServerName()## is the same as$data.Request.ServerName## is the same as${data.Request.ServerName}
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > These examples illustrate alternative uses for the same references. Velocity takes advantage of Java's introspection and bean features to resolve the reference names to both objects in the Context as well as the objects methods. It is possible to embed and evaluate references almost anywhere in your template.
 >
 > Velocity, which is modelled on the Bean specifications defined by Sun Microsystems, is case sensitive; however, its developers have strove to catch and correct user errors wherever possible. When the method _getFoo()_ is referred to in a template by `$bar.foo`, Velocity will first try `$getfoo`. If this fails, it will then try `$getFoo`. Similarly, when a template refers to `$bar.Foo`, Velocity will try _$getFoo()_ first and then try _getfoo()_.
 >
 > Note: _References to instance variables in a template are not resolved._ Only references to the attribute equivalents of JavaBean getter/setter methods are resolved (i.e. `$foo.Name` does resolve to the class Foo's `getName()` instance method, but not to a public `Name` instance variable of Foo).
-
-&#x20;
-
-&#x20;
 
 ## **Directives** <a href="#directives" id="directives"></a>
 
@@ -379,17 +345,15 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > The _#set_ directive is used for setting the value of a reference. A value can be assigned to either a variable reference or a property reference, and this occurs in brackets, as demonstrated:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $primate = "monkey" )#set( $customer.Behavior = $primate )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The left hand side (LHS) of the assignment must be a variable reference or a property reference. The right hand side (RHS) can be one of the following types:
->
-> &#x20;
 >
 > * Variable reference
 > * String literal
@@ -398,71 +362,69 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > * Number literal
 > * ArrayList
 >
-> &#x20;
->
 > These examples demonstrate each of the aforementioned types:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $monkey = $bill ) ## variable reference#set( $monkey.Friend = "monica" ) ## string literal#set( $monkey.Blame = $whitehouse.Leak ) ## property reference#set( $monkey.Plan = $spindoctor.weave($web) ) ## method reference#set( $monkey.Number = 123 ) ##number literal#set( $monkey.Say = ["Not", $my, "fault"] ) ## ArrayList
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > NOTE: In the last example the elements defined with the \[..] operator are accessible using the methods defined in the ArrayList class. So, for example, you could access the first element above using $monkey.Say.get(0).
 >
 > The RHS can also be a simple arithmetic expression:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $value = $foo + 1 )#set( $value = $bar - 1 )#set( $value = $foo * $bar )#set( $value = $foo / $bar )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > If the RHS is a property or method reference that evaluates to _null_, it will **not** be assigned to the LHS. It is not possible to remove an existing reference from the context via this mechanism. This can be confusing for newcomers to Velocity. For example:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $result = $query.criteria("name") )The result of the first query is $result#set( $result = $query.criteria("address") )The result of the second query is $result
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > If _$query.criteria("name")_ returns the string "bill", and _$query.criteria("address")_ returns _null_, the above VTL will render as the following:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > The result of the first query is billThe result of the second query is bill
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > This tends to confuse newcomers who construct _#foreach_ loops that attempt to _#set_ a reference via a property or method reference, then immediately test that reference with an _#if_ directive. For example:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $criteria = ["name", "address"] )#foreach( $criterion in $criteria )    #set( $result = $query.criteria($criterion) )    #if( $result )        Query was successful    #end#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > In the above example, it would not be wise to rely on the evaluation of _$result_ to determine if a query was successful. After _$result_ has been _#set_ (added to the context), it cannot be set back to _null_ (removed from the context). The details of the _#if_ and _#foreach_ directives are covered later in this document.
 >
 > One solution to this would be to pre-set _$result_ to _false_. Then if the _$query.criteria()_ call fails, you can check.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $criteria = ["name", "address"] )#foreach( $criterion in $criteria )    #set( $result = false )    #set( $result = $query.criteria($criterion) )    #if( $result )        Query was successful    #end#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Unlike some of the other Velocity directives, the _#set_ directive does not have an _#end_ statement.
 >
@@ -470,45 +432,41 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > When using the _#set_ directive, string literals that are enclosed in double quote characters will be parsed and rendered, as shown:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $directoryRoot = "www" )#set( $templateName = "index.vm" )#set( $template = "$directoryRoot/$templateName" )$template
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The output will be
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > www/index.vm
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > However, when the string literal is enclosed in single quote characters, it will not be parsed:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $foo = "bar" )$foo#set( $blargh = '$foo' )$blargh
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 >   bar  $foo
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > By default, this feature of using single quotes to render unparsed text is available in Velocity. This default can be changed by editing `velocity.properties` such that `stringliterals.interpolate=false`.
-
-&#x20;
-
-&#x20;
 
 ## **Conditionals** <a href="#conditionals" id="conditionals"></a>
 
@@ -516,13 +474,13 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > The _#if_ directive in Velocity allows for text to be included when the web page is generated, on the conditional that the if statement is true. For example:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #if( $foo )   <strong>Velocity!</strong>#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The variable _$foo_ is evaluated to determine whether it is true, which will happen under one of two circumstances: (i) _$foo_ is a boolean (true/false) which has a true value, or (ii) the value is not null. Remember that the Velocity context only contains Objects, so when we say 'boolean', it will be represented as a Boolean (the class). This is true even for methods that return `boolean` - the introspection infrastructure will return a `Boolean` of the same logical value.
 >
@@ -530,13 +488,13 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > An _#elseif_ or _#else_ element can be used with an _#if_ element. Note that the Velocity Templating Engine will stop at the first expression that is found to be true. In the following example, suppose that _$foo_ has a value of 15 and _$bar_ has a value of 6.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #if( $foo < 10 )    <strong>Go North</strong>#elseif( $foo == 10 )    <strong>Go East</strong>#elseif( $bar == 6 )    <strong>Go South</strong>#else    <strong>Go West</strong>#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > In this example, _$foo_ is greater than 10, so the first two comparisons fail. Next _$bar_ is compared to 6, which is true, so the output is **Go South**.
 >
@@ -546,53 +504,49 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > Velocity uses the equivalent operator to determine the relationships between variables. Here is a simple example to illustrate how the equivalent operator is used.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set ($foo = "deoxyribonucleic acid")#set ($bar = "ribonucleic acid")#if ($foo == $bar)  In this case it's clear they aren't equivalent. So...#else  They are not equivalent and this will be the output.#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Velocity has logical AND, OR and NOT operators as well. For further information, please see the [VTL Reference Guide](http://velocity.apache.org/engine/1.4/vtl-reference-guide.html) Below are examples demonstrating the use of the logical AND, OR and NOT operators.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ## logical AND#if( $foo && $bar )   <strong> This AND that</strong>#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The _#if()_ directive will only evaluate to true if both _$foo_ and _$bar_ are true. If _$foo_ is false, the expression will evaluate to false; _$bar_ will not be evaluated. If _$foo_ is true, the Velocity Templating Engine will then check the value of _$bar_; if _$bar_ is true, then the entire expression is true and **This AND that** becomes the output. If _$bar_ is false, then there will be no output as the entire expression is false.
 >
 > Logical OR operators work the same way, except only one of the references need evaluate to true in order for the entire expression to be considered true. Consider the following example.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ## logical OR#if( $foo || $bar )    <strong>This OR That</strong>#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > If _$foo_ is true, the Velocity Templating Engine has no need to look at _$bar_; whether _$bar_ is true or false, the expression will be true, and **This OR That** will be output. If _$foo_ is false, however, _$bar_ must be checked. In this case, if _$bar_ is also false, the expression evaluates to false and there is no output. On the other hand, if _$bar_ is true, then the entire expression is true, and the output is **This OR That**
 >
 > With logical NOT operators, there is only one argument :
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ##logical NOT#if( !$foo )  <strong>NOT that</strong>#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Here, the if _$foo_ is true, then _!$foo_ evaluates to false, and there is no output. If _$foo_ is false, then _!$foo_ evaluates to true and **NOT that** will be output. Be careful not to confuse this with the _quiet reference $!foo_ which is something altogether different.
-
-&#x20;
-
-&#x20;
 
 ## **Loops** <a href="#loops" id="loops"></a>
 
@@ -600,13 +554,13 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > The _#foreach_ element allows for looping. For example:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <ul>#foreach( $product in $allProducts )    <li>$product</li>#end</ul>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > This _#foreach_ loop causes the _$allProducts_ list (the object) to be looped over for all of the products (targets) in the list. Each time through the loop, the value from _$allProducts_ is placed into the _$product_ variable.
 >
@@ -614,207 +568,191 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > Lets say that _$allProducts_ is a Hashtable. If you wanted to retrieve the key values for the Hashtable as well as the objects within the Hashtable, you can use code like this:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <ul>#foreach( $key in $allProducts.keySet() )    <li>Key: $key -> Value: $allProducts.get($key)</li>#end</ul>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Velocity provides an easy way to get the loop counter so that you can do something like the following:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <table>#foreach( $customer in $customerList )    <tr><td>$velocityCount</td><td>$customer.Name</td></tr>#end</table>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The default name for the loop counter variable reference, which is specified in the velocity.properties file, is $velocityCount. By default the counter starts at 1, but this can be set to either 0 or 1 in the `velocity.properties` file. Here's what the loop counter properties section of the `velocity.properties` file appears:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > # Default name of the loop counter# variable reference.directive.foreach.counter.name = velocityCount# Default starting value of the loop# counter variable reference.directive.foreach.counter.initial.value = 1
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
-
-&#x20;
-
-&#x20;
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 
 ## **Include** <a href="#include" id="include"></a>
 
-> The _#include_ script element allows the template designer to import a local file, which is then inserted into the location where the _#include_ directive is defined. The contents of the file are not rendered through the template engine. For security reasons, the file to be included may only be under TEMPLATE_ROOT.
+> The _#include_ script element allows the template designer to import a local file, which is then inserted into the location where the _#include_ directive is defined. The contents of the file are not rendered through the template engine. For security reasons, the file to be included may only be under TEMPLATE\_ROOT.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #include( "one.txt" )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The file to which the _#include_ directive refers is enclosed in quotes. If more than one file will be included, they should be separated by commas.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #include( "one.gif","two.txt","three.htm" )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The file being included need not be referenced by name; in fact, it is often preferable to use a variable instead of a filename. This could be useful for targeting output according to criteria determined when the page request is submitted. Here is an example showing both a filename and a variable.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #include( "greetings.txt", $seasonalstock )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
-
-&#x20;
-
-&#x20;
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 
 ## **Parse** <a href="#parse" id="parse"></a>
 
 > The _#parse_ script element allows the template designer to import a local file that contains VTL. Velocity will parse the VTL and render the template specified.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #parse( "me.vm" )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
-> Like the _#include_ directive, _#parse_ can take a variable rather than a template. Any templates to which _#parse_ refers must be included under TEMPLATE_ROOT. Unlike the _#include_ directive, _#parse_ will only take a single argument.
+> Like the _#include_ directive, _#parse_ can take a variable rather than a template. Any templates to which _#parse_ refers must be included under TEMPLATE\_ROOT. Unlike the _#include_ directive, _#parse_ will only take a single argument.
 >
-> VTL templates can have _#parse_ statements referring to templates that in turn have _#parse_ statements. By default set to 10, the _parse_directive.maxdepth_ line of the `velocity.properties` allows users to customize maximum number of _#parse_ referrals that can occur from a single template. (Note: If the _parse_directive.maxdepth_ property is absent from the `velocity.properties` file, Velocity will set this default to 10.) Recursion is permitted, for example, if the template `dofoo.vm` contains the following lines:
+> VTL templates can have _#parse_ statements referring to templates that in turn have _#parse_ statements. By default set to 10, the _parse\_directive.maxdepth_ line of the `velocity.properties` allows users to customize maximum number of _#parse_ referrals that can occur from a single template. (Note: If the _parse\_directive.maxdepth_ property is absent from the `velocity.properties` file, Velocity will set this default to 10.) Recursion is permitted, for example, if the template `dofoo.vm` contains the following lines:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Count down.#set( $count = 8 )#parse( "parsefoo.vm" )All done with dofoo.vm!
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > It would reference the template `parsefoo.vm`, which might contain the following VTL:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > $count#set( $count = $count - 1 )#if( $count > 0 )    #parse( "parsefoo.vm" )#else    All done with parsefoo.vm!#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > After "Count down." is displayed, Velocity passes through `parsefoo.vm`, counting down from 8. When the count reaches 0, it will display the "All done with parsefoo.vm!" message. At this point, Velocity will return to `dofoo.vm` and output the "All done with dofoo.vm!" message.
-
-&#x20;
-
-&#x20;
 
 ## **Stop** <a href="#stop" id="stop"></a>
 
 > The _#stop_ script element allows the template designer to stop the execution of the template engine and return. This is useful for debugging purposes.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #stop
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
-
-&#x20;
-
-&#x20;
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 
 ## **Velocimacros** <a href="#velocimacros" id="velocimacros"></a>
 
 > The _#macro_ script element allows template designers to define a repeated segment of a VTL template. Velocimacros are very useful in a wide range of scenarios both simple and complex. This Velocimacro, created for the sole purpose of saving keystrokes and minimizing typographic errors, provides an introduction to the concept of Velocimacros.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #macro( d )<tr><td></td></tr>#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The Velocimacro being defined in this example is _d_, and it can be called in a manner analogous to any other VTL directive:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #d()
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > When this template is called, Velocity would replace _#d()_ with a row containing a single, empty data cell.
 >
 > A Velocimacro could take any number of arguments -- even zero arguments, as demonstrated in the first example, is an option -- but when the Velocimacro is invoked, it must be called with the same number of arguments with which it was defined. Many Velocimacros are more involved than the one defined above. Here is a Velocimacro that takes two arguments, a color and an array.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #macro( tablerows $color $somelist )#foreach( $something in $somelist )    <tr><td bgcolor=$color>$something</td></tr>#end#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > The Velocimacro being defined in this example, _tablerows_, takes two arguments. The first argument takes the place of _$color_, and the second argument takes the place of _$somelist_.
 >
 > Anything that can be put into a VTL template can go into the body of a Velocimacro. The _tablerows_ Velocimacro is a _foreach_ statement. There are two _#end_ statements in the definition of the _#tablerows_ Velocimacro; the first belongs to the _#foreach_, the second ends the Velocimacro definition.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $greatlakes = ["Superior","Michigan","Huron","Erie","Ontario"] )#set( $color = "blue" )<table>    #tablerows( $color $greatlakes )</table>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Notice that _$greatlakes_ takes the place of _$somelist_. When the _#tablerows_ Velocimacro is called in this situation, the following output is generated:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <table>    <tr><td bgcolor="blue">Superior</td></tr>    <tr><td bgcolor="blue">Michigan</td></tr>    <tr><td bgcolor="blue">Huron</td></tr>    <tr><td bgcolor="blue">Erie</td></tr>    <tr><td bgcolor="blue">Ontario</td></tr></table>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Velocimacros can be defined _inline_ in a Velocity template, meaning that it is unavailable to other Velocity templates in the same campus. Defining a Velocimacro such that it can be shared by all templates has obvious advantages: it reduces the need to redefine the Velocimacro on numerous templates, saving work and reducing the chance of error, and ensures that a single change to a macro available to more than one template.
 >
 > Were the _#tablerows($color $list)_ Velocimacro defined in a Velocimacros template library, this macro could be used on any of the regular templates. It could be used many times and for many different purposes. In the template `mushroom.vm` devoted to all things fungi, the _#tablerows_ Velocimacro could be invoked to list the parts of a typical mushroom:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $parts = ["volva","stipe","annulus","gills","pileus"] )#set( $cellbgcol = "#CC00FF" )<table>#tablerows( $cellbgcol $parts )</table>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > When fulfilling a request for `mushroom.vm`, Velocity would find the _#tablerows_ Velocimacro in the template library (defined in the `velocity.properties` file) and generate the following output:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > <table>    <tr><td bgcolor="#CC00FF">volva</td></tr>    <tr><td bgcolor="#CC00FF">stipe</td></tr>    <tr><td bgcolor="#CC00FF">annulus</td></tr>    <tr><td bgcolor="#CC00FF">gills</td></tr>    <tr><td bgcolor="#CC00FF">pileus</td></tr></table>
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)**Velocimacro Arguments**
+> ![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)**Velocimacro Arguments**
 >
 > Velocimacros can take as arguments any of the following VTL elements :
 >
@@ -828,13 +766,13 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > When passing references as arguments to Velocimacros, please note that references are passed 'by name'. This means that their value is 'generated' at each use inside the Velocimacro. This feature allows you to pass references with method calls and have the method called at each use. For example, when calling the following Velocimacro as shown
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 >      #macro( callme $a )         $a $a $a     #end     #callme( $foo.bar() )   
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > results in the method bar() of the reference $foo being called 3 times.
 >
@@ -842,17 +780,17 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > If you need to circumvent this feature, you can always just get the value from the method as a new reference and pass that :
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 >      #set( $myval = $foo.bar() )     #callme( $myval )   
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)**Velocimacro Properties**
+> ![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)**Velocimacro Properties**
 >
 > Several lines in the `velocity.properties` file allow for flexible implementation of Velocimacros. Note that these are also documented in the [Developer Guide](http://velocity.apache.org/engine/1.4/developer-guide.html).
 >
-> `velocimacro.library` - A comma-separated list of all Velocimacro template libraries. By default, Velocity looks for a single library: _VM_global_library.vm_. The configured template path is used to find the Velocimacro libraries.
+> `velocimacro.library` - A comma-separated list of all Velocimacro template libraries. By default, Velocity looks for a single library: _VM\_global\_library.vm_. The configured template path is used to find the Velocimacro libraries.
 >
 > `velocimacro.permissions.allow.inline` - This property, which has possible values of true or false, determines whether Velocimacros can be defined in regular templates. The default, true, allows template designers to define Velocimacros in the templates themselves.
 >
@@ -870,259 +808,241 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 >
 > This is important to remember if you try to #parse() a template containing inline #macro() directives. Because the #parse() happens at runtime, and the parser decides if a VM-looking element in the template is a VM at parsetime, #parse()-ing a set of VM declarations won't work as expected. To get around this, simply use the `velocimacro.library` facility to have Velocity load your VMs at startup.
 
-&#x20;
-
-&#x20;
-
 ## **Escaping VTL Directives** <a href="#escaping-vtl-directives" id="escaping-vtl-directives"></a>
 
 > VTL directives can be escaped with the backslash character ("\\") in a manner similar to valid VTL references.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > ## #include( "a.txt" ) renders as <contents of a.txt>#include( "a.txt" )## \#include( "a.txt" ) renders as \#include( "a.txt" )\#include( "a.txt" )## \\#include ( "a.txt" ) renders as \<contents of a.txt>\\#include ( "a.txt" )
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Extra care should be taken when escaping VTL directives that contain multiple script elements in a single directive (such as in an if-else-end statements). Here is a typical VTL if-statement:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #if( $jazz )    Vyacheslav Ganelin#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > If _$jazz_ is true, the output is
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Vyacheslav Ganelin
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > If _$jazz_ is false, there is no output. Escaping script elements alters the output. Consider the following case:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > \#if( $jazz )    Vyacheslav Ganelin\#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Whether _$jazz_ is true or false, the output will be
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 >  #if($ jazz )     Vyacheslav Ganelin #end 
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > In fact, because all script elements are escaped, _$jazz_ is never evaluated for it's boolean value. Suppose backslashes precede script elements that are legitimately escaped:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > \\#if( $jazz )   Vyacheslav Ganelin\\#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > In this case, if _$jazz_ is true, the output is
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > \ Vyacheslav Ganelin\
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > To understand this, note that the `#if( arg )` when ended by a newline (return) will omit the newline from the output. Therefore, the body of the `#if()` block follows the first '\\', rendered from the '\\\\' preceding the `#if()`. The last \ is on a different line than the text because there is a newline after 'Ganelin', so the final \\\\, preceding the `#end` is part of the body of the block.
 >
 > If _$jazz_ is false, there is no output. Note that things start to break if script elements are not properly escaped.
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > \\\#if( $jazz )    Vyacheslave Ganelin\\#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Here the _#if_ is escaped, but there is an _#end_ remaining; having too many endings will cause a parsing error.
-
-&#x20;
-
-&#x20;
 
 ## **VTL: Formatting Issues** <a href="#vtl-formatting-issues" id="vtl-formatting-issues"></a>
 
 > Although VTL in this user guide is often displayed with newlines and whitespaces, the VTL shown below
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > #set( $imperial = ["Munetaka","Koreyasu","Hisakira","Morikune"] )#foreach( $shogun in $imperial )    $shogun#end
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > is equally valid as the following snippet that Geir Magnusson Jr. posted to the Velocity user mailing list to illustrate a completely unrelated point:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Send me #set($foo = ["$10 and ","a cake"])#foreach($a in $foo)$a #end please.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > Velocity's behaviour is to gobble up excess whitespace. The preceding directive can be written as:
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Send me#set( $foo = ["$10 and ","a cake"] )#foreach( $a in $foo )$a#endplease.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > or as
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > ```
 > Send me#set($foo       = ["$10 and ","a cake"])                 #foreach           ($a in $foo )$a         #end please.
 > ```
 >
-> ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
 > In each case the output will be the same.
 
-&#x20;
-
-&#x20;
-
 ## **Other Features and Miscellany** <a href="#other-features-and-miscellany" id="other-features-and-miscellany"></a>
 
-> ### **Math** <a href="#math" id="math"></a>
+> #### **Math** <a href="#math" id="math"></a>
 >
 > > Velocity has a handful of built-in mathematical functions that can be used in templates with the _set_ directive. The following equations are examples of addition, subtraction, multiplication and division, respectively:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #set( $foo = $bar + 3 )#set( $foo = $bar - 4 )#set( $foo = $bar * 6 )#set( $foo = $bar / 2 )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > When a division operation is performed, the result will be an integer. Any remainder can be obtained by using the modulus (_%_) operator.
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #set( $foo = $bar % 5 )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Only integers (...-2, -1, 0, 1, 2...) are permissible when performing mathematical equations in Velocity; when a non-integer is used, it is logged and a null will be returned as the output.
 >
-> &#x20;
->
-> ### **Range Operator** <a href="#range-operator" id="range-operator"></a>
+> #### **Range Operator** <a href="#range-operator" id="range-operator"></a>
 >
 > > The range operator can be used in conjunction with _#set_ and _#foreach_ statements. Useful for its ability to produce an object array containing integers, the range operator has the following construction:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > [n..m]
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Both _n_ and _m_ must either be or produce integers. Whether _m_ is greater than or less than _n_ will not matter; in this case the range will simply count down. Examples showing the use of the range operator as provided below:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > First example:#foreach( $foo in [1..5] )$foo#endSecond example:#foreach( $bar in [2..-2] )$bar#endThird example:#set( $arr = [0..1] )#foreach( $i in $arr )$i#endFourth example:[1..3]
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Produces the following output:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > First example:1 2 3 4 5Second example:2 1 0 -1 -2Third example:0 1Fourth example:[1..3]
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Note that the range operator only produces the array when used in conjunction with _#set_ and _#foreach_ directives, as demonstrated in the fourth example.
 > >
 > > Web page designers concerned with making tables a standard size, but where some will not have enough data to fill the table, will find the range operator particularly useful.
 >
-> &#x20;
+> #### **Advanced Issues: Escaping and !** <a href="#advanced-issues-escaping-and" id="advanced-issues-escaping-and"></a>
 >
-> ### **Advanced Issues: Escaping and !** <a href="#advanced-issues-escaping-and" id="advanced-issues-escaping-and"></a>
->
-> > When a reference is silenced with the _!_ character and the _!_ character preceded by an _\_ escape character, the reference is handled in a special way. Note the differences between regular escaping, and the special case where _\_ precedes _!_ follows it:
+> > When a reference is silenced with the _!_ character and the _!_ character preceded by an \_\_ escape character, the reference is handled in a special way. Note the differences between regular escaping, and the special case where \_\_ precedes _!_ follows it:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #set( $foo = "bar" )$\!foo$\!{foo}$\\!foo$\\\!foo
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > This renders as:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > $!foo$!{foo}$\!foo$\\!foo
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
-> > Contrast this with regular escaping, where _\_ precedes _$_:
+> > Contrast this with regular escaping, where \_\_ precedes _$_:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > \$foo\$!foo\$!{foo}\\$!{foo}
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > This renders as:
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > \$foo\$!foo\$!{foo}\bar
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 >
-> &#x20;
->
-> ### **Velocimacro Miscellany** <a href="#velocimacro-miscellany" id="velocimacro-miscellany"></a>
+> #### **Velocimacro Miscellany** <a href="#velocimacro-miscellany" id="velocimacro-miscellany"></a>
 >
 > > This section is a mini-FAQ on topics relating to Velocimacros. Thissection will change over time, so it's worth checking for new informationfrom time to time.
 > >
@@ -1136,65 +1056,65 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > >
 > > _However..._, there are things you can do. One easy solution is to takeadvantage of the fact that 'doublequote' (") renders it's contents. So youcould do something like
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #set($stuff = "#bold('hello')" )#center( $stuff )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > You can save a step...
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #center( "#bold( 'hello' )" )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Please note that in the latter example the argis evaluated _inside_ the VM, not at thecalling level. In other words, the argument tothe VM is passed in in its entirety and evaluated within the VMit was passed into. This allows you to do things like :
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #macro( inner $foo )  inner : $foo#end#macro( outer $foo )   #set($bar = "outerlala")   outer : $foo#end#set($bar = 'calltimelala')#outer( "#inner($bar)" )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Where the output is
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > Outer : inner : outerlala
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > because the evaluation of the "#inner($bar)" happens inside #outer(), so the$bar value set inside #outer() is the one that's used.
 > >
 > > This is an intentional and jealously guarded feature - args are passed 'byname' into VMs, so you can hand VMs things like stateful references such as
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #macro( foo $color )  <tr bgcolor=$color><td>Hi</td></tr>  <tr bgcolor=$color><td>There</td></tr>#end#foo( $bar.rowColor() )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > And have rowColor() called repeatedly, rather than just once. To avoid that,invoke the method outside of the VM, and pass the value into the VM.
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > > #set($color = $bar.rowColor())#foo( $color )
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)**Can I register Velocimacros via #parse() ?**
+> > ![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)![](../../.gitbook/assets/void.png)**Can I register Velocimacros via #parse() ?**
 > >
 > > Currently, Velocimacros must be defined before they are first used in a template. This means that your #macro() declarations should come before using the Velocimacros.
 > >
@@ -1214,19 +1134,17 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > >
 > > Here is what a simple set of configuration properties would look like.
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > >     file.resource.loader.path = templates    file.resource.loader.cache = false    velocimacro.library.autoreload = true    
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Don't keep this on in production.
 >
-> &#x20;
->
-> ### **String Concatenation** <a href="#string-concatenation" id="string-concatenation"></a>
+> #### **String Concatenation** <a href="#string-concatenation" id="string-concatenation"></a>
 >
 > > A common question that developers ask is _How do I do String concatenation? Is there any analogue to the '+' operator in Java?_.
 > >
@@ -1234,48 +1152,38 @@ You are here: [Section Two: Administrator reference](/administrator-documentatio
 > >
 > > In the regular 'schmoo' of a template (when you are mixing it in with regular content) :
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > >        #set( $size = "Big" )       #set( $name = "Ben" )      The clock is $size$name.   
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > and the output will render as 'The clock is BigBen'. For more interesting cases, such as when you want to concatenate strings to pass to a method, or to set a new reference, just do
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > >       #set( $size = "Big" )      #set( $name = "Ben" )      #set($clock = "$size$name" )      The clock is $clock.    
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Which will result in the same output. As a final example, when you want to mix in 'static' strings with your references, you may need to use 'formal references' :
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > ```
 > >       #set( $size = "Big" )      #set( $name = "Ben" )      #set($clock = "${size}Tall$name" )      The clock is $clock.    
 > > ```
 > >
-> > ![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)![](/.gitbook/assets/void.png)
+> > <img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original"><img src="../../.gitbook/assets/void.png" alt="" data-size="original">
 > >
 > > Now the output is 'The clock is BigTallBen'. The formal notation is needed so the parser knows you mean to use the reference '$size' versus '$sizeTall' which it would if the '{}' weren't there.
->
-> &#x20;
-
-&#x20;
-
-&#x20;
 
 ## **Feedback** <a href="#feedback" id="feedback"></a>
 
 > If you encounter any mistakes in this manual or have other feedback related to the Velocity User Guide, please email the [Velocity user list](mailto:velocity-user@jakarta.apache.org). Thanks!
-
-&#x20;
-
-&#x20;
 
 © NexPort Solutions 2017. All Rights Reserved.
