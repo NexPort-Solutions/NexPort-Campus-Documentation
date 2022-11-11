@@ -46,7 +46,7 @@ description: You can add a test or a survey for evaluation.
 | ![](../../../../../.gitbook/assets/DragDrop\_17x10.png) | You can reorder the question banks sequence and locate the question bank to reorder. Then, in the first column, press and drag the icon to reorder the question banks. |
 | <mark style="color:blue;">**# Questions**</mark>        | Type the number of questions that are to be included from the selected question bank.                                                                                  |
 | <mark style="color:blue;">**Question Bank**</mark>      | Display the name of the question bank.                                                                                                                                 |
-| ![](<../../../../../.gitbook/assets/Delete (4).png>)    | Delete the question bank from which the questions are included in the test or survey.                                                                                  |
+| ![](../../../../../.gitbook/assets/Delete.png)          | Delete the question bank from which the questions are included in the test or survey.                                                                                  |
 
 > Click <mark style="color:blue;">**Apply**</mark> to apply the changes.
 >

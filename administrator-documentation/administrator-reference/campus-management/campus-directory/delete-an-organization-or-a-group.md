@@ -16,9 +16,9 @@ You can delete an organization or a group from the NexPort Campus.
 
 <mark style="color:blue;">**Step 5:**</mark> Select the organization or group that you need to delete.\\
 
-![](<../../../../.gitbook/assets/Delete (4).png>)
+![](../../../../.gitbook/assets/Delete.png)
 
-<mark style="color:blue;">**Step 6:**</mark> Click the ![](<../../../../.gitbook/assets/Delete (4).png>) icon.
+<mark style="color:blue;">**Step 6:**</mark> Click the ![](../../../../.gitbook/assets/Delete.png) icon.
 
 <mark style="color:blue;">**Step 7:**</mark> A confirmation dialog box is displayed with the _<mark style="color:red;">“Are you sure you want to delete this group?”</mark>_ message.
 

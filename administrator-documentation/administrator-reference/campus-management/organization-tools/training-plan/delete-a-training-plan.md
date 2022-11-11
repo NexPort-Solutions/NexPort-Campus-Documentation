@@ -12,7 +12,7 @@ description: You can delete an existing training plan from the NexPort Campus.
 
 ![](../../../../../.gitbook/assets/TrainingPlans\_Delete\_550x275.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon next to the training plan that you need to delete.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon next to the training plan that you need to delete.
 
 <mark style="color:blue;">**Step 3:**</mark> A confirmation dialog box is displayed with the, “Are you sure you would like to delete the training plan?” message.
 

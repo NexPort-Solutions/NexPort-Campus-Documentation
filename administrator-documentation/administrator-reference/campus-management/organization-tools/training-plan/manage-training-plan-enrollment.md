@@ -52,7 +52,7 @@ description: >-
 
 ![](../../../../../.gitbook/assets/TrainingPlan\_Ernollment\_Remove\_550x153.png)
 
-<mark style="color:blue;">**Step 3:**</mark> Click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon next to the enrollment you need to delete from the training plan.
+<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon next to the enrollment you need to delete from the training plan.
 
 > A confirmation message, _<mark style="color:red;background-color:yellow;">“Do you really want to delete the training plan enrollment for the \<student name>?”</mark>_ is displayed.
 

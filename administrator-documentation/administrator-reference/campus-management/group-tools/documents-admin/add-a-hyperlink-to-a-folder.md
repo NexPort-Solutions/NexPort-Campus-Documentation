@@ -29,7 +29,7 @@ coverY: 0
 {% hint style="info" %}
 You can click the ![](../../../../../.gitbook/assets/Edit.png) icon to <mark style="color:blue;">**modify**</mark> the title, URL or description.
 
-You can click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon to <mark style="color:blue;">**delete**</mark> the hyperlink from the folder.
+You can click the ![](../../../../../.gitbook/assets/Delete.png) icon to <mark style="color:blue;">**delete**</mark> the hyperlink from the folder.
 {% endhint %}
 
 #### © NexPort Solutions 2022. All Rights Reserved.

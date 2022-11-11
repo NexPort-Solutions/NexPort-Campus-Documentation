@@ -29,7 +29,7 @@ coverY: 0
 {% hint style="info" %}
 You can click the ![](../../../../../.gitbook/assets/Edit.png) icon to modify the file title, file description or upload a new file.
 
-You can click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon to delete the file from the bookshelf.
+You can click the ![](../../../../../.gitbook/assets/Delete.png) icon to delete the file from the bookshelf.
 {% endhint %}
 
 #### © NexPort Solutions. All Rights Reserved.

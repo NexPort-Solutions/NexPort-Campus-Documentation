@@ -13,21 +13,15 @@ In order to use NexPort Campus you must have a compatible web browser installed 
 | <mark style="color:blue;">**Supported browsers**</mark>                    | <ul><li>Internet Explorer is no longer supported</li><li>Mozilla Firefox 42 and later</li><li>Apple Safari v15.4 and later</li><li>Google Chrome v99 and later</li><li>Opera 30 and later</li><li>Microsoft Edge v99 and later</li></ul> |
 | <mark style="color:blue;">**Additional plug-ins (may be required)**</mark> | <ul><li>Adobe Acrobat Reader (view and print certificates)</li></ul>                                                                                                                                                                     |
 
-&#x20;
-
 | Tablets                                                                    |                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**Supported browsers**</mark>                    | <ul><li>Internet Explorer 11 and later</li><li>Mozilla Firefox 10 and later</li><li>iOS Safari 8 and later</li><li>Google Chrome 51 and later</li><li>Opera 37 and later</li><li>Microsoft Edge 12 and later</li></ul> |
 | <mark style="color:blue;">**Additional plug-ins (may be required)**</mark> | <ul><li>Adobe Acrobat Reader (view and print certificates)</li></ul>                                                                                                                                                   |
 
-&#x20;
-
 | Mobile Devices (Phones and others)                                         |                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**Supported browsers**</mark>                    | <ul><li>Google Chrome 51 or later</li><li>Microsoft Edge 13 or later</li><li>Opera Mobile 37 or Later</li><li>Safari on iOS 9.3 or later</li><li>Firefox Mobile 47 or later</li><li>Samsung Internet 2.0</li><li>Amazon Silk</li></ul> |
 | <mark style="color:blue;">**Additional plug-ins (may be required)**</mark> | <ul><li>Adobe Acrobat Reader (view and print certificates)</li></ul>                                                                                                                                                                   |
-
-&#x20;
 
 | Other Devices                                                              |                                                                      |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -43,7 +37,7 @@ The following are the steps to enable cookies in various browsers.
 The following are the steps to enable cookies in Internet Explorer version 11.
 
 1. Open **Internet Explorer**.
-2. In upper-right corner of the browser, click the ![](/.gitbook/assets/IE_icon.png) icon > **Internet Options**.
+2. In upper-right corner of the browser, click the ![](../.gitbook/assets/IE\_icon.png) icon > **Internet Options**.
 3. The **Internet Options** dialog box is displayed.
 4. Click on the **Privacy** tab and select **Advanced**.
 5. In the **Advanced Privacy Settings** dialog box, click **Accept** for **First-party Cookies** and **Third-party Cookies**.
@@ -55,7 +49,7 @@ The following are the steps to enable cookies in Internet Explorer version 11.
 The following are the steps to enable cookies in Google Chrome version 56.
 
 1. Open **Google Chrome**.
-2. In upper-right corner of the browser, click the ![](/.gitbook/assets/Chrome_Icon_17x24.png) icon > **Settings**.
+2. In upper-right corner of the browser, click the ![](../.gitbook/assets/Chrome\_Icon\_17x24.png) icon > **Settings**.
 3. Click the **Show advanced settings** link.
 4. In the **Privacy** area, click **Content settings** tab.
 5. The **Content settings** dialog box is displayed.
@@ -67,7 +61,7 @@ The following are the steps to enable cookies in Google Chrome version 56.
 The following are the steps to enable cookies in Mozilla Firefox version 47.
 
 1. Open **Mozilla Firefox**.
-2. In the upper-right corner of the browser, click the ![](/.gitbook/assets/Mozilla_Icon.png) icon > **Options**.
+2. In the upper-right corner of the browser, click the ![](../.gitbook/assets/Mozilla\_Icon.png) icon > **Options**.
 3. The **General** page is displayed.
 4. Click **Privacy**.
 5. In the **History** area, do the following:
@@ -81,7 +75,7 @@ The following are the steps to enable cookies in Mozilla Firefox version 47.
 The following are the steps to enable cookies in Safari version 9.
 
 1. Open **Safari**.
-2. In the upper-right corner of the browser, click the ![](/.gitbook/assets/Safari_Icon.png) icon > **Preferences**.
+2. In the upper-right corner of the browser, click the ![](../.gitbook/assets/Safari\_Icon.png) icon > **Preferences**.
 3. The **General** dialog box is displayed.
 4. Click the **Privacy** tab.
 5. In the **Block cookies** area, click **Never**.
@@ -92,7 +86,7 @@ The following are the steps to enable cookies in Safari version 9.
 The following are the steps to enable cookies in Opera version 30.
 
 1. Open **Opera**.
-2. In the upper-left corner of the browser, click the ![](/.gitbook/assets/Opera_Icon.png) icon > **Settings**.
+2. In the upper-left corner of the browser, click the ![](../.gitbook/assets/Opera\_Icon.png) icon > **Settings**.
 3. The **Settings** page is displayed.
 4. Click **Privacy & security**.
 5. In the **Cookies** area, click **Allow local data to be set (recommended)**.
@@ -118,12 +112,12 @@ This section describes the system requirements to ensure that the NexPort Campus
 
 You can check your system requirements to ensure NexPort Campus is running properly.
 
-1\.  In the lower-left side of the NexPort Campus, click **System Check**.
+1\. In the lower-left side of the NexPort Campus, click **System Check**.
 
-![Webpage footer with system options](/.gitbook/assets/System_Check_518x61.png)
+![Webpage footer with system options](../.gitbook/assets/System\_Check\_518x61.png)
 
-2\.  The **System Check** dialog box is displayed with a list of items to be completed to ensure NexPort Campus is running properly.
+2\. The **System Check** dialog box is displayed with a list of items to be completed to ensure NexPort Campus is running properly.
 
-![Systems Check Screen](/.gitbook/assets/System_Check_dialog_550x403.png)
+![Systems Check Screen](<../.gitbook/assets/System check.PNG>)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

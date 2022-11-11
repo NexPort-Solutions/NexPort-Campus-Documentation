@@ -16,18 +16,18 @@ If an <mark style="color:blue;">**Academic Override**</mark> is done on an enrol
 For Grading Strategy, if <mark style="color:blue;">**‘No Grade’**</mark> is selected for an assignment then the score is displayed as <mark style="color:blue;">**-/-**</mark> in the Gradebook view for those assignments.
 {% endhint %}
 
-<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**My Training**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Enrollments**</mark>.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**My Training**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Enrollments**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
+<mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**Enrollments**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Title**</mark> column, click the section name that you need to access.
+<mark style="color:blue;">**Step 3:**</mark> In the <mark style="color:blue;">**Title**</mark> column, click the section name that you need to access.
 
-<mark style="color:blue;">**Step 4:**</mark>  The <mark style="color:blue;">**Classroom**</mark> page is displayed.
+<mark style="color:blue;">**Step 4:**</mark> The <mark style="color:blue;">**Classroom**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 5:**</mark>  In the upper-right corner of the classroom, click the ![](/.gitbook/assets/Gradebook_icon_50x43.png) icon.
+<mark style="color:blue;">**Step 5:**</mark> In the upper-right corner of the classroom, click the ![](../../../../../.gitbook/assets/Gradebook\_icon\_50x43.png) icon.
 
-<mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Gradebook**</mark> page is displayed.
+<mark style="color:blue;">**Step 6:**</mark> The <mark style="color:blue;">**Gradebook**</mark> page is displayed.
 
-![](/.gitbook/assets/Gradebook_overview_550x225.png)
+![](../../../../../.gitbook/assets/Gradebook.PNG)
 
 #### © NexPort Solutions 2022. All Rights Reserved.

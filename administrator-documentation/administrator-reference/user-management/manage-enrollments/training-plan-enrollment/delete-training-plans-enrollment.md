@@ -20,7 +20,7 @@ description: Delete training plans enrollment
 
 <mark style="color:blue;">**Step 5:**</mark> Click the <mark style="color:blue;">**Training Plans**</mark> tab.
 
-<mark style="color:blue;">**Step 6:**</mark> Click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon, next to the enrollment that you need to delete.
+<mark style="color:blue;">**Step 6:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon, next to the enrollment that you need to delete.
 
 <mark style="color:blue;">**Step 7:**</mark> A <mark style="color:blue;">**Remove Enrollment**</mark> dialog box is displayed.
 

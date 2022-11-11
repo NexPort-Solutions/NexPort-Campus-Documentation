@@ -29,7 +29,7 @@ coverY: 0
 {% hint style="info" %}
 You can click the ![](../../../../../.gitbook/assets/Edit.png) icon to modify the title, URL or description.
 
-You can click the ![](<../../../../../.gitbook/assets/Delete (4).png>) icon to delete the hyperlink from the bookshelf.
+You can click the ![](../../../../../.gitbook/assets/Delete.png) icon to delete the hyperlink from the bookshelf.
 {% endhint %}
 
 #### © NexPort Solutions. All Rights Reserved.
