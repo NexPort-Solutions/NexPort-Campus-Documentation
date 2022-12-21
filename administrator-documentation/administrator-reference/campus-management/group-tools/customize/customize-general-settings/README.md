@@ -2,7 +2,7 @@
 description: >-
   You can customize the login message, the user start page, student view
   options, site configuration, and customer service contact details.
-cover: ../../../../../.gitbook/assets/Untitled-1-01.png
+cover: ../../../../../../.gitbook/assets/Untitled-1-01.png
 coverY: 0
 ---
 

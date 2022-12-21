@@ -41,8 +41,8 @@ On the <mark style="color:blue;">**Customize**</mark> page, you can do the follo
 [customize-welcome-letter-template.md](customize-welcome-letter-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="customize-general-settings.md" %}
-[customize-general-settings.md](customize-general-settings.md)
+{% content-ref url="customize-general-settings/" %}
+[customize-general-settings](customize-general-settings/)
 {% endcontent-ref %}
 
 #### © NexPort Solutions 2022. All Rights Reserved.
