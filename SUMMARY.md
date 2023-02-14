@@ -239,7 +239,6 @@
     * [Manage Invoice Information](administrator-documentation/administrator-reference/invoice-management/manage-invoice-information.md)
     * [Create Invoice](administrator-documentation/administrator-reference/invoice-management/create-invoice.md)
     * [Invoice Toolbar](administrator-documentation/administrator-reference/invoice-management/invoice-toolbar.md)
-  * [Survey Reporting](administrator-documentation/administrator-reference/survey-reporting.md)
   * [MathJax Reference](administrator-documentation/administrator-reference/mathjax-reference.md)
 * [My Training (Admin)](administrator-documentation/my-training-admin/README.md)
   * [Enrollments](administrator-documentation/my-training-admin/enrollments.md)

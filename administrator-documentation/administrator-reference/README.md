@@ -8,7 +8,7 @@ description: >-
 
 When you login to NexPort Campus as an Administrator, you see the following menus:
 
-![](/.gitbook/assets/Administration_reference_550x234.png)
+![](../../.gitbook/assets/Administration\_reference\_550x234.png)
 
 The NexPort Campus Administrator manages campus, users, invoice, and reports.
 
@@ -30,10 +30,4 @@ The NexPort Campus Administrator manages campus, users, invoice, and reports.
 
 > **Invoice Management:** Manages and creates invoices that control access to instructional content.
 
-{% content-ref url="survey-reporting.md" %}
-[survey-reporting.md](survey-reporting.md)
-{% endcontent-ref %}
-
-> **Survey Reporting:** Quickly accesses the NexPort Reporting Services. Develop robust reports and dashboards and schedule reports to be delivered through email.
-
-#### &#x20;© NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions.  All Rights Reserved.
