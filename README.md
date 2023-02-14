@@ -23,7 +23,7 @@ NexPort Campus is a core component of the NexPort Learning Management Platform (
 * A common organizational library with additional libraries in organizational sub-portals
 * Subscription access includes a Collaborative Learning Environment (CLE) utilizing NexMeeting, which supports meetings and blended learning and provides an easy-to-use, browser-based, web meeting, and production tool with the following features:
   * Unload-able and shareable Microsoft PowerPoint Presentations, whiteboard, and webpages
-  * Access for Mac, Windows, and Linux, all using off-the-shelf browsers. For example, Internet Explorer, Mozilla Firefox, Apple Safari, and Google Chrome
+  * Access for Mac, Windows, and Linux, all using off-the-shelf browsers. For example, Internet Explorer, Mozilla Firefox, Google Chrome, Apple Safari, and Google Chrome
   * Live, real-time audio
   * In-meeting presenter controlled chat (public)
   * Integrated and automated scheduling and participant invitation dissemination
