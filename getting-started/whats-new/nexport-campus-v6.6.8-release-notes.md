@@ -1,6 +1,12 @@
+---
+description: >-
+  NexPort Campus 6.6.8 is part of our series of regular point releases. This
+  version addresses serval bugs and adds a few minor enhancements.
+---
+
 # NexPort Campus v6.6.8 Release Notes
 
-## Bug Fixes
+## Bugs Resolved in this Release
 
 ### Disable organization email template specific notifications option not saving (169276)
 
@@ -58,7 +64,7 @@
 
 ### AddInvoiceItem API Timeouts occur frequently (153399)
 
-## Enhancements
+## Enhancements introduced in this release
 
 ### Upgrade Tomcat for NexPort indexing service to latest version (157463)
 
