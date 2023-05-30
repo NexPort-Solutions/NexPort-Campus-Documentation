@@ -12,15 +12,15 @@ description: >-
 
 #### The following table provides a description about the options available in the invoice toolbar.
 
-| Button                                                 | Action or Description                                                                                                                                                            |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/Find.png)                 | You can search an invoice based on invoice number, purchaser last name, purchaser first name, purchaser email ID, purchaser login, organization name or organization short name. |
-| ![](../../../.gitbook/assets/display\_invoice181b.png) | Displays the number of invoices that you can view per page.                                                                                                                      |
-| ![](../../../.gitbook/assets/First\_Page.png)          | You can navigate to the first page of the selected invoice.                                                                                                                      |
-| ![](../../../.gitbook/assets/Previous.png)             | You can navigate to the previous page of the selected invoice.                                                                                                                   |
-| ![](../../../.gitbook/assets/Current\_Page.png)        | Displays the current page number of the invoice.                                                                                                                                 |
-| ![](../../../.gitbook/assets/Next.png)                 | You can navigate to the next page of the selected invoice.                                                                                                                       |
-| ![](../../../.gitbook/assets/Last\_Page.png)           | You can navigate to the last page of the selected invoice.                                                                                                                       |
-| ![](../../../.gitbook/assets/Refresh\_1.png)           | You can refresh the current invoice page.                                                                                                                                        |
+| Button                                                       | Action or Description                                                                                                                                                            |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../.gitbook/assets/Find.png)                       | You can search an invoice based on invoice number, purchaser last name, purchaser first name, purchaser email ID, purchaser login, organization name or organization short name. |
+| ![](<../../../.gitbook/assets/display\_invoice181b (1).png>) | Displays the number of invoices that you can view per page.                                                                                                                      |
+| ![](../../../.gitbook/assets/First\_Page.png)                | You can navigate to the first page of the selected invoice.                                                                                                                      |
+| ![](../../../.gitbook/assets/Previous.png)                   | You can navigate to the previous page of the selected invoice.                                                                                                                   |
+| ![](../../../.gitbook/assets/Current\_Page.png)              | Displays the current page number of the invoice.                                                                                                                                 |
+| ![](../../../.gitbook/assets/Next.png)                       | You can navigate to the next page of the selected invoice.                                                                                                                       |
+| ![](../../../.gitbook/assets/Last\_Page.png)                 | You can navigate to the last page of the selected invoice.                                                                                                                       |
+| ![](../../../.gitbook/assets/Refresh\_1.png)                 | You can refresh the current invoice page.                                                                                                                                        |
 
 #### © NexPort Solutions. All Rights Reserved.

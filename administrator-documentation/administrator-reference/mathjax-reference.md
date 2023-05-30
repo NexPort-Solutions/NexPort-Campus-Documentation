@@ -1,6 +1,6 @@
 # MathJax Reference
 
-You are here: [Section Two: Administrator reference](/administrator-documentation/administrator-reference/Administration_reference.htm) > MathJax Reference
+You are here: [Section Two: Administrator reference](Administration\_reference.htm) > MathJax Reference
 
 ### Introduction
 
@@ -10,7 +10,7 @@ MathJax is a display engine for mathematics. It allows editors to write mathemat
 
 You can use MathJax in Test Assignments by creating Question Banks that have the MathJax notations in a Question or Open Ended Question.
 
-<mark style="color:blue;">**Step 1:**</mark>** ** Click <mark style="color:blue;">**Manage Campus > Question Banks**</mark>
+<mark style="color:blue;">**Step 1:**</mark>\*\* \*\* Click <mark style="color:blue;">**Manage Campus > Question Banks**</mark>
 
 <mark style="color:blue;">**Step 2:**</mark> Create or Edit a <mark style="color:blue;">**Question Bank**</mark>
 
@@ -18,7 +18,7 @@ You can use MathJax in Test Assignments by creating Question Banks that have the
 
 <mark style="color:blue;">**Step 4:**</mark> Write [LaTex](mathjax-reference.md#latex), [MathML](mathjax-reference.md#undefined), or [AsciiMath ](mathjax-reference.md#asciimath)in the text area for <mark style="color:blue;">**Questions**</mark> or <mark style="color:blue;">**Open Ended Questions**</mark>
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 <mark style="color:blue;">**Step 5:**</mark> Save and Verify the results
 
@@ -26,7 +26,7 @@ You can use MathJax in Test Assignments by creating Question Banks that have the
 
 ### LaTex
 
-LaTex is a typesetting system for scientific documentation and mathematical notation.&#x20;
+LaTex is a typesetting system for scientific documentation and mathematical notation.
 
 For more information for supported commands please see [http://docs.mathjax.org/en/v2.7-latest/tex.html#supported-latex-commands](http://docs.mathjax.org/en/v2.7-latest/tex.html#supported-latex-commands).
 
@@ -34,7 +34,7 @@ For a complete reference of LaTex and Tex symbols see [https://www.onemathematic
 
 ### AsciiMath
 
-AsciiMath is a markup language for displaying mathematical expressions. To insert an AsciiMath expression you must insert the notation inside a set of dollar sign symbols.&#x20;
+AsciiMath is a markup language for displaying mathematical expressions. To insert an AsciiMath expression you must insert the notation inside a set of dollar sign symbols.
 
 For example, to display the symbol $$\sum$$ you would write \$$/sum\$$
 

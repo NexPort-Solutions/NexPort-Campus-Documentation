@@ -11,13 +11,21 @@ You are here: [Section Two: Administrator reference](Administration\_reference.h
 
 > Many areas of NexPort Campus support the use of system or context properties that allow you to include text that dynamically changes for each user. For instance you can create group pages that display a logged in user's name or the current date. In assignment descriptions you can include information about the assignment including the current score, status, due date or many other properties. This is all possible because these text areas are actually templates written using the Velocity Templating Language (VTL).
 >
+> &#x20;
+>
 > The Velocity User Guide is intended to help page designers and content providers get acquainted with Velocity and the syntax of its simple yet powerful scripting language, the Velocity Template Language (VTL). Many of the examples in this guide deal with using Velocity to embed dynamic content in NexPort Campus, but all VTL examples are equally applicable to other pages and templates.
 
-## **What is Velocity?** <a href="#what-is-velocity" id="what-is-velocity"></a>
+Many areas of NexPort Campus support the use of system or context properties that allow you to include text that dynamically changes for each user. For instance you can create group pages that display a logged in user's name or the current date. In assignment descriptions you can include information about the assignment including the current score, status, due date or many other properties. This is all possible because these text areas are actually templates written using the Velocity Templating Language (VTL).
+
+&#x20;
+
+The Velocity User Guide is intended to help page designers and content providers get acquainted with Velocity and the syntax of its simple yet powerful scripting language, the Velocity Template Language (VTL). Many of the examples in this guide deal with using Velocity to embed dynamic content in NexPort Campus, but all VTL examples are equally applicable to other pages and templates.
 
 > Velocity is a template engine. It permits editors and content designers to reference proterties defined by NexPort. This allows curriculum designers to create robust content that dynamically changes.
 
-## **Velocity Template Language (VTL): An Introduction** <a href="#velocity-template-language-vtl-an-introduction" id="velocity-template-language-vtl-an-introduction"></a>
+Velocity is a template engine. It permits editors and content designers to reference proterties defined by NexPort. This allows curriculum designers to create robust content that dynamically changes.
+
+> Velocity is a template engine. It permits editors and content designers to reference proterties defined by NexPort. This allows curriculum designers to create robust content that dynamically changes.
 
 > The Velocity Template Language (VTL) is meant to provide the easiest, simplest, and cleanest way to incorporate dynamic content in a web page. Even a web page developer with little or no programming experience should soon be capable of using VTL to incorporate dynamic content in a in their campus and curriculum.
 >
@@ -33,11 +41,42 @@ You are here: [Section Two: Administrator reference](Administration\_reference.h
 >
 > In the example above, the variable is _$a_ and the value is _Velocity_. This variable, like all references, begins with the _$_ character. Values are always enclosed in quotes; with Velocity there is no confusion about data types, as only strings (text-based information) may be passed to variables.
 >
-> The following rule of thumb may be useful to better understand how Velocity works: **References begin with \_$**_\*\* and are used to get something. Directives begin with \*\*_**#**\_\*\* and are used to do something.\*\*
+> The following rule of thumb may be useful to better understand how Velocity works: **References begin with **_**$**_** and are used to get something. Directives begin with **_**#**_** and are used to do something.**
 >
 > In the example above, _#set_ is used to assign a value to a variable. The variable, _$a_, can then be used in the template to output "Velocity".
 
+&#x20;
+
+The Velocity Template Language (VTL) is meant to provide the easiest, simplest, and cleanest way to incorporate dynamic content in a web page. Even a web page developer with little or no programming experience should soon be capable of using VTL to incorporate dynamic content in a in their campus and curriculum.
+
+VTL uses _references_ to embed dynamic content in the text displayed in various areas of NexPort Campus, and a variable is one type of reference. Variables are one type of reference that can refer to something defined in NexPort Campus, or it can get its value from a VTL _statement_ in the web page itself. Here is an example of a VTL statement that could be embedded in an HTML document:
+
+```
+#set( $a = "Velocity" )
+```
+
+This VTL statement, like all VTL statements, begins with the _#_ character and contains a directive: _set_. When an online visitor requests your web page, the Velocity Templating Engine will search through your web page to find all _#_ characters, then determine which mark the beginning of VTL statements, and which of the _#_ characters that have nothing to do with VTL.
+
+The _#_ character is followed by a directive, _set_. The _set_ directive uses an expression (enclosed in brackets) -- an equation that assigns a _value_ to a _variable_. The variable is listed on the left hand side and its value on the right hand side; the two are separated by an _=_ character.
+
+In the example above, the variable is _$a_ and the value is _Velocity_. This variable, like all references, begins with the _$_ character. Values are always enclosed in quotes; with Velocity there is no confusion about data types, as only strings (text-based information) may be passed to variables.
+
+The following rule of thumb may be useful to better understand how Velocity works: **References begin with **_**$**_** and are used to get something. Directives begin with **_**#**_** and are used to do something.**
+
+In the example above, _#set_ is used to assign a value to a variable. The variable, _$a_, can then be used in the template to output "Velocity".
+
 ## **Hello Velocity World!** <a href="#hello-velocity-world" id="hello-velocity-world"></a>
+
+Once a value has been assigned to a variable, you can reference the variable anywhere in your HTML document. In the following example, a value is assigned to _$foo_ and later referenced.
+
+```
+<p>#set( $foo = "Velocity" )
+Hello $foo World!</p>
+```
+
+The result is a paragraph (\<p>)that prints "Hello Velocity World!".
+
+To make statements containing VTL directives more readable, we encourage you to start each VTL statement on a new line, although you are not required to do so. The _set_ directive will be revisited in greater detail later on.
 
 > Once a value has been assigned to a variable, you can reference the variable anywhere in your HTML document. In the following example, a value is assigned to _$foo_ and later referenced.
 >
@@ -50,7 +89,73 @@ You are here: [Section Two: Administrator reference](Administration\_reference.h
 >
 > To make statements containing VTL directives more readable, we encourage you to start each VTL statement on a new line, although you are not required to do so. The _set_ directive will be revisited in greater detail later on.
 
-## **Comments** <a href="#comments" id="comments"></a>
+> Comments allows descriptive text to be included that is not placed into the output of the template engine. Comments are a useful way of reminding yourself and explaining to others what your VTL statements are doing, or any other purpose you find useful. Below is an example of a comment in VTL.
+>
+> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+>
+> ```
+> ## This is a single line comment.
+> ```
+>
+> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+>
+> A single line comment begins with _##_ and finishes at the end of the line. If you're going to write a few lines of commentary, there's no need to have numerous single line comments. Multi-line comments, which begin with _#\*_ and end with _\*#_, are available to handle this scenario.
+>
+> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+>
+> ```
+> This is text that is outside the multi-line comment.
+> Online visitors can see it.
+> #* Thus begins a multi-line comment. 
+> Online visitors won't see this text because 
+> the Velocity Templating Engine will ignore it.*#
+> Here is text outside the multi-line comment; it is visible.
+> ```
+>
+> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+>
+> Here are a few examples to clarify how single line and multi-line comments work:
+>
+> ![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)![](https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/void.gif)
+>
+> ```
+> This text is visible. 
+> ## This text is not.
+> This text is visible.
+> This text is visible. 
+> #* This text, as part of a multi-line comment,is not visible. 
+> This text is not visible; it is also part of themulti-line comment. 
+> This text still not visible. *# This text is outside the comment, so it is visible.## This text is not visible.
+> ```
+
+Comments allows descriptive text to be included that is not placed into the output of the template engine. Comments are a useful way of reminding yourself and explaining to others what your VTL statements are doing, or any other purpose you find useful. Below is an example of a comment in VTL.
+
+```
+## This is a single line comment.
+```
+
+A single line comment begins with _##_ and finishes at the end of the line. If you're going to write a few lines of commentary, there's no need to have numerous single line comments. Multi-line comments, which begin with _#\*_ and end with _\*#_, are available to handle this scenario.&#x9;
+
+```
+This is text that is outside the multi-line comment.
+Online visitors can see it.
+#* Thus begins a multi-line comment. 
+Online visitors won't see this text because 
+the Velocity Templating Engine will ignore it.*#
+Here is text outside the multi-line comment; it is visible.
+```
+
+Here are a few examples to clarify how single line and multi-line comments work:&#x9;
+
+```
+This text is visible. 
+## This text is not.
+This text is visible.
+This text is visible. 
+#* This text, as part of a multi-line comment,is not visible. 
+This text is not visible; it is also part of themulti-line comment. 
+This text still not visible. *# This text is outside the comment, so it is visible.## This text is not visible.
+```
 
 > Comments allows descriptive text to be included that is not placed into the output of the template engine. Comments are a useful way of reminding yourself and explaining to others what your VTL statements are doing, or any other purpose you find useful. Below is an example of a comment in VTL.
 >

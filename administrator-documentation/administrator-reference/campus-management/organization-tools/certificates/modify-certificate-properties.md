@@ -20,13 +20,13 @@ description: >-
 
 <mark style="color:blue;">**Step 3:**</mark> Select a certificate template that you need to modify.
 
-![](<../../../../../.gitbook/assets/image (3).png>)
+![](<../../../../../.gitbook/assets/image (3) (1).png>)
 
 <mark style="color:blue;">**Step 4:**</mark> The <mark style="color:blue;">**Update (HTML/PDF) Certificate Template**</mark> dialog is displayed.
 
 ![Update Pdf Certificate Template](../../../../../.gitbook/assets/image.png)
 
-![Update Html Certificate Template](<../../../../../.gitbook/assets/image (1).png>)
+![Update Html Certificate Template](<../../../../../.gitbook/assets/image (1) (2).png>)
 
 <mark style="color:blue;">**Step 5:**</mark> Modify the values on the fields.
 
