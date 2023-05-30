@@ -108,11 +108,11 @@ If it just centers the cells instead of the table, then go a little higher when 
 
 ![](<../../../../../.gitbook/assets/image (4).png>)
 
-<mark style="color:blue;">**Step 17:**</mark>  Click the <mark style="color:blue;">**Source Icon**</mark>** ** and navigate to the file location on your computer. Click <mark style="color:blue;">**Open**</mark> and the Source field will propagate<mark style="color:blue;">.</mark> Click <mark style="color:blue;">**Save**</mark> and the image will be inserted.
+<mark style="color:blue;">**Step 17:**</mark>  Click the <mark style="color:blue;">**Source Icon**</mark> and navigate to the file location on your computer. Click <mark style="color:blue;">**Open**</mark> and the Source field will propagate<mark style="color:blue;">.</mark> Click <mark style="color:blue;">**Save**</mark> and the image will be inserted.
 
 ![](<../../../../../.gitbook/assets/image (22).png>)
 
-<mark style="color:blue;">**Step 18:**</mark>  <mark style="color:blue;">**Resize**</mark> the <mark style="color:blue;">**Image**</mark>** ** by using the blue square nodes.
+<mark style="color:blue;">**Step 18:**</mark>  <mark style="color:blue;">**Resize**</mark> the <mark style="color:blue;">**Image**</mark> by using the blue square nodes.
 
 ![](<../../../../../.gitbook/assets/image (6).png>)
 
@@ -120,4 +120,4 @@ If it just centers the cells instead of the table, then go a little higher when 
 Reset the base layout table to height 100% by repeating <mark style="color:blue;">**Steps 4 - 5**</mark> whenever you make changes to the base table (ie. adding rows or columns, inserting images).
 {% endhint %}
 
-<mark style="color:blue;">**Step 18:**</mark>  Click <mark style="color:blue;">**Save**</mark>** ** and your <mark style="color:blue;">**Page**</mark> is saved.
+<mark style="color:blue;">**Step 18:**</mark>  Click <mark style="color:blue;">**Save**</mark> and your <mark style="color:blue;">**Page**</mark> is saved.

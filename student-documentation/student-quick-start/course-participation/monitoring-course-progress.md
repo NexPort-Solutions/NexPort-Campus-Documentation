@@ -10,7 +10,7 @@ coverY: 0
 
 ## Check your Progress
 
-The Progress Reports display the details of the active section enrollments and the unofficial transcript. You can check your progress through the <mark style="color:blue;">**My Training**</mark>** ** tab.
+The Progress Reports display the details of the active section enrollments and the unofficial transcript. You can check your progress through the <mark style="color:blue;">**My Training**</mark> tab.
 
 > Click <mark style="color:blue;">**My Training**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Progress Report**</mark>.
 

@@ -33,7 +33,7 @@ The custom enrollment field can be saved as different type fields, they are as f
 
 ![](../../../../../.gitbook/assets/Custom\_Enrollment\_Field\_550x90.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Add\_CustomProfile (2).png>) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/add\_customprofile.png) icon.
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Add Enrollment Field**</mark> dialog box is displayed.
 
@@ -83,7 +83,7 @@ The key can only contain letters, numbers, and underscores, and must not start w
 
 <mark style="color:blue;">**Step 3:**</mark> Select the syllabus title for which you need to change the settings.
 
-<mark style="color:blue;">**Step 4:**</mark> Click the ![](<../../../../../.gitbook/assets/Add\_CustomProfile (2).png>) icon.
+<mark style="color:blue;">**Step 4:**</mark> Click the ![](../../../../../.gitbook/assets/add\_customprofile.png) icon.
 
 <mark style="color:blue;">**Step 5:**</mark> In the <mark style="color:blue;">**Default Value**</mark> list, click the value.
 

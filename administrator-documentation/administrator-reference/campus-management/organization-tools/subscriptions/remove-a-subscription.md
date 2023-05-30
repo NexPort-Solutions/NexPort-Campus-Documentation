@@ -12,7 +12,7 @@ description: You can remove an existing subscription from the NexPort Campus.
 
 ![](../../../../../.gitbook/assets/Subscription\_Delete\_550x170.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon next to the user whose subscription details you need to delete.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/delete907e.png) icon next to the user whose subscription details you need to delete.
 
 > A confirmation dialog box is displayed with the, <mark style="color:red;background-color:yellow;">“Do you really want to delete the subscription for \<user name>?”</mark> message.
 

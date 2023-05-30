@@ -33,7 +33,11 @@ _<mark style="color:blue;">The display on the training plan page is based on the
 
 > Prerequisites might be required to be fulfilled to complete a training plan.
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+<div align="left">
+
+<img src="../../../.gitbook/assets/image (3) (1).png" alt="">
+
+</div>
 
 > In the above example, the <mark style="color:blue;">**English 101**</mark> course is a prerequisite for the _<mark style="color:blue;">**Math 101**</mark>_ course. You must complete the <mark style="color:blue;">**English 101**</mark> section before attempting the <mark style="color:blue;">**Math 101**</mark> section.
 

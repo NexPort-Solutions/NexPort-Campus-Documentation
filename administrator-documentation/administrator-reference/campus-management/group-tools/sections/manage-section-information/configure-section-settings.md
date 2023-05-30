@@ -28,7 +28,7 @@ Step 5: In the **Allow students to drop the course** area, do one of the followi
 
 > Click **Yes**, to allow students to drop any progress in the section.
 >
-> **The** ![](../../../../../../.gitbook/assets/Delete.png) **icon is visible only when the Allow students to drop the course is set to Yes.**
+> **The** ![](../../../../../../.gitbook/assets/delete907e.png) **icon is visible only when the Allow students to drop the course is set to Yes.**
 >
 > For more information about allowing students to drop the course, see Enrollments in NexPort Campus Student Help.
 >

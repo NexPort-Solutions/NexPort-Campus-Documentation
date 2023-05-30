@@ -20,7 +20,7 @@ description: How to setup Google Analytics
 
 
 
-<mark style="color:blue;">**Step 5:**</mark>  Enter www.nexportcampus.com/<mark style="color:blue;">**{org-short-name}**</mark>/ <mark style="color:blue;">****</mark> Where {org-short-name} is replaced with your own organization's short name. See reference below&#x20;
+<mark style="color:blue;">**Step 5:**</mark>  Enter www.nexportcampus.com/<mark style="color:blue;">**{org-short-name}**</mark>/ Where {org-short-name} is replaced with your own organization's short name. See reference below&#x20;
 
 <figure><img src="../../../../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Create new Stream for your Org</p></figcaption></figure>
 

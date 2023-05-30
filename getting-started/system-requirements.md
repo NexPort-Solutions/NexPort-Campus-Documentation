@@ -49,7 +49,7 @@ The following are the steps to enable cookies in Internet Explorer version 11.
 The following are the steps to enable cookies in Google Chrome version 56.
 
 1. Open **Google Chrome**.
-2. In upper-right corner of the browser, click the ![](../.gitbook/assets/Chrome\_Icon\_17x24.png) icon > **Settings**.
+2. In upper-right corner of the browser, click the ![](<../.gitbook/assets/Chrome\_Icon\_17x24 (1).png>) icon > **Settings**.
 3. Click the **Show advanced settings** link.
 4. In the **Privacy** area, click **Content settings** tab.
 5. The **Content settings** dialog box is displayed.

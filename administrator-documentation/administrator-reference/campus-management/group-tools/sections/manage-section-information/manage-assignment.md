@@ -63,7 +63,7 @@ Prerequisites ensure that a student cannot access an assignment until they have 
 1. Click the **Assignments** tab.
 2. The **Assignments** page is displayed.
 3. ![](../../../../../../.gitbook/assets/AssignmentSection\_Delete\_550x252.png)\\
-4. In the **Assignment** section, click the ![](../../../../../../.gitbook/assets/Delete.png) icon next to the assignment that you need to delete.
+4. In the **Assignment** section, click the ![](../../../../../../.gitbook/assets/delete907e.png) icon next to the assignment that you need to delete.
 5. A **Delete Assignment** dialog box with the confirmation message, “Are you sure you want to delete this assignment?” is displayed.
 6. Click **Delete**.
 7. The selected assignment is deleted from the NexPort Campus.

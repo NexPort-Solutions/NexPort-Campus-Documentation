@@ -12,7 +12,7 @@ description: You can delete an existing tests or surveys from the NexPort Campus
 
 ![](../../../../../.gitbook/assets/TestandSurvey\_Delete\_550x193.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon next to the test or a survey that you need to delete.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/delete907e.png) icon next to the test or a survey that you need to delete.
 
 > A confirmation dialog box is displayed with the, <mark style="color:red;background-color:yellow;">“Are you sure you want to delete \<TestName> or \<Survey Name>?”</mark> is displayed.
 

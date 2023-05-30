@@ -27,7 +27,7 @@ The custom profile field can be defined as one of several different types. They 
 
 ![](<../../../../../.gitbook/assets/Custom\_Profile\_Fields\_Add button\_550x63.png>)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Add\_CustomProfile (2).png>) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/add\_customprofile.png) icon.
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Add Profile Field**</mark> dialog box is displayed.
 

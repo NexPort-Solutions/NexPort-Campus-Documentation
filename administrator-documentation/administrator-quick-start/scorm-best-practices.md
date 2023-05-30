@@ -40,4 +40,4 @@ The IScorm Spec is a Super Set of the ADL SCORM 1.2 Specification. IScorm is des
 * Expose an alternative to the standard window.api object instance that is less generic
 * Expose versioning
 
-[Click here to learn more about iSCORM](https://app.gitbook.com/o/8jter5exvHg3A0oWSmxn/s/X48Kz2UK6EcOyV7eH5PZ/).
+[Click here to learn more about iSCORM](http://localhost:5000/o/8jter5exvHg3A0oWSmxn/s/X48Kz2UK6EcOyV7eH5PZ/).
