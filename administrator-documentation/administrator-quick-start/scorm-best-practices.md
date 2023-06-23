@@ -14,6 +14,10 @@ According to the SCORM specification, _cmi.core.lesson\_status_ will be set to _
 
 If this is the desired behavior then the SCO should do nothing. If your SCO intends to set the _cmi.core.lesson\_status_ itself you should make sure it is set to "_incomplete_" immediately after the SCO call LmsInitialize().
 
+## Setting cmi.core.lesson\_status to completed can not be reversed
+
+If the lesson status is set to completed and LMSCommit is called the status can no longer be changed. In fact the course automatically goes into review mode and no further updates to any CMI value will be written.
+
 ## Call _LMSCommit_ Often
 
 According to the SCORM 1.2 specification, CMI data is only required to be persisted when LMSFinish is called OR when LMSCommit is called. To ensure that student progress is properly tracked LMSCommit should be called frequently.
