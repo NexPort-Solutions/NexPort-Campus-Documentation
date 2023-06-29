@@ -1,7 +1,7 @@
 ---
 description: >-
   NexPort Campus 6.7.0 is part of our series of regular feature and enhancement
-  releases. This version addresses serval bugs, adds new features and
+  releases. This version addresses several bugs, adds new features and
   enhancements.
 ---
 
@@ -37,7 +37,7 @@ No Notes.
 
 No Notes.
 
-### Validation Exceptions are no displayed properly in the classroom ([Bug 131993](https://darwin-global.fogbugz.com/f/cases/131993))
+### Validation Exceptions are not displayed properly in the classroom ([Bug 131993](https://darwin-global.fogbugz.com/f/cases/131993))
 
 No Notes.
 
