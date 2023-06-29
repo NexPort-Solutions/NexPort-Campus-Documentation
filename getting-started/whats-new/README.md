@@ -6,8 +6,8 @@ layout: landing
 
 # What's New?
 
-{% content-ref url="nexport-campus-v6.7.0-release-notes.md" %}
-[nexport-campus-v6.7.0-release-notes.md](nexport-campus-v6.7.0-release-notes.md)
+{% content-ref url="release-announcement-nexport-campus-6.7.0/nexport-campus-v6.7.0-release-notes.md" %}
+[nexport-campus-v6.7.0-release-notes.md](release-announcement-nexport-campus-6.7.0/nexport-campus-v6.7.0-release-notes.md)
 {% endcontent-ref %}
 
 {% content-ref url="nexport-campus-v6.6.9-release-notes.md" %}
