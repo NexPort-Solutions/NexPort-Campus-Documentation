@@ -1,5 +1,6 @@
 ---
 description: Introducing Exciting New Features and Enhancements!
+coverY: 0
 ---
 
 # Release Announcement: NexPort Campus 6.7.0
