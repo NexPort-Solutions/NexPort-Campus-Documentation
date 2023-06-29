@@ -14,12 +14,12 @@ On the <mark style="color:blue;">**Instructor**</mark> page, you can do the foll
 [view-and-search-section.md](../../administrator-reference/campus-management/group-tools/sections/view-and-search-section.md)
 {% endcontent-ref %}
 
-{% content-ref url="assignments.md" %}
-[assignments.md](assignments.md)
+{% content-ref url="assignments/" %}
+[assignments](assignments/)
 {% endcontent-ref %}
 
-{% content-ref url="assignment-feedback/" %}
-[assignment-feedback](assignment-feedback/)
+{% content-ref url="assignments/assignment-feedback-1/" %}
+[assignment-feedback-1](assignments/assignment-feedback-1/)
 {% endcontent-ref %}
 
 {% content-ref url="gradebook.md" %}

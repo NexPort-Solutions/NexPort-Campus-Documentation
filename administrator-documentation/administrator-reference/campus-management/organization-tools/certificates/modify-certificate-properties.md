@@ -6,11 +6,11 @@ description: >-
 
 # Modify Certificate Properties
 
-| Icon                                                          | Action or Description               |
-| ------------------------------------------------------------- | ----------------------------------- |
-| ![](../../../../../.gitbook/assets/View\_Certificates.png)    | Click to view a sample certificate. |
-| ![](../../../../../.gitbook/assets/Download\_Certificate.png) | Click to download a certificate.    |
-| ![](../../../../../.gitbook/assets/Delete\_Certificate.png)   | Click to delete the certificate.    |
+| Icon                                                             | Action or Description               |
+| ---------------------------------------------------------------- | ----------------------------------- |
+| ![](<../../../../../.gitbook/assets/View\_Certificates (1).png>) | Click to view a sample certificate. |
+| ![](../../../../../.gitbook/assets/Download\_Certificate.png)    | Click to download a certificate.    |
+| ![](../../../../../.gitbook/assets/Delete\_Certificate.png)      | Click to delete the certificate.    |
 
 ## To Modify Certificate Properties
 

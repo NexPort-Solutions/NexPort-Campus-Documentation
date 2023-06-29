@@ -18,9 +18,9 @@ description: >-
 | ![](../../../.gitbook/assets/display\_invoice181b.png) | Displays the number of invoices that you can view per page.                                                                                                                      |
 | ![](<../../../.gitbook/assets/First\_Page (1).png>)    | You can navigate to the first page of the selected invoice.                                                                                                                      |
 | ![](<../../../.gitbook/assets/Previous (2).png>)       | You can navigate to the previous page of the selected invoice.                                                                                                                   |
-| ![](<../../../.gitbook/assets/Current\_Page (1).png>)  | Displays the current page number of the invoice.                                                                                                                                 |
-| ![](../../../.gitbook/assets/Next.png)                 | You can navigate to the next page of the selected invoice.                                                                                                                       |
-| ![](<../../../.gitbook/assets/Last\_Page (1) (1).png>) | You can navigate to the last page of the selected invoice.                                                                                                                       |
+| ![](../../../.gitbook/assets/Current\_Page.png)        | Displays the current page number of the invoice.                                                                                                                                 |
+| ![](<../../../.gitbook/assets/Next (1).png>)           | You can navigate to the next page of the selected invoice.                                                                                                                       |
+| ![](<../../../.gitbook/assets/Last\_Page (1).png>)     | You can navigate to the last page of the selected invoice.                                                                                                                       |
 | ![](<../../../.gitbook/assets/Refresh\_1 (1).png>)     | You can refresh the current invoice page.                                                                                                                                        |
 
 #### © NexPort Solutions. All Rights Reserved.
