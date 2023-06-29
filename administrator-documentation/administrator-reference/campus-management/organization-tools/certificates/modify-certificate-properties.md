@@ -6,11 +6,11 @@ description: >-
 
 # Modify Certificate Properties
 
-| Icon                                                           | Action or Description               |
-| -------------------------------------------------------------- | ----------------------------------- |
-| ![](../../../../../.gitbook/assets/view\_certificates8c86.png) | Click to view a sample certificate. |
-| ![](../../../../../.gitbook/assets/Download\_Certificate.png)  | Click to download a certificate.    |
-| ![](../../../../../.gitbook/assets/Delete\_Certificate.png)    | Click to delete the certificate.    |
+| Icon                                                          | Action or Description               |
+| ------------------------------------------------------------- | ----------------------------------- |
+| ![](../../../../../.gitbook/assets/View\_Certificates.png)    | Click to view a sample certificate. |
+| ![](../../../../../.gitbook/assets/Download\_Certificate.png) | Click to download a certificate.    |
+| ![](../../../../../.gitbook/assets/Delete\_Certificate.png)   | Click to delete the certificate.    |
 
 ## To Modify Certificate Properties
 
@@ -20,13 +20,13 @@ description: >-
 
 <mark style="color:blue;">**Step 3:**</mark> Select a certificate template that you need to modify.
 
-![](<../../../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../../../.gitbook/assets/image (3).png>)
 
 <mark style="color:blue;">**Step 4:**</mark> The <mark style="color:blue;">**Update (HTML/PDF) Certificate Template**</mark> dialog is displayed.
 
 ![Update Pdf Certificate Template](../../../../../.gitbook/assets/image.png)
 
-![Update Html Certificate Template](<../../../../../.gitbook/assets/image (1) (2).png>)
+![Update Html Certificate Template](<../../../../../.gitbook/assets/image (1).png>)
 
 <mark style="color:blue;">**Step 5:**</mark> Modify the values on the fields.
 

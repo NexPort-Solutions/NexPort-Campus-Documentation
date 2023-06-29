@@ -22,7 +22,7 @@ description: >-
 
 <mark style="color:blue;">**Step 5:**</mark> Click the <mark style="color:blue;">**Sections**</mark> tab.
 
-<mark style="color:blue;">**Step 6:**</mark> Click the ![](../../../../../.gitbook/assets/delete907e.png) icon, corresponding to the enrollment that you need to delete.
+<mark style="color:blue;">**Step 6:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon, corresponding to the enrollment that you need to delete.
 
 ![](../../../../../.gitbook/assets/Enrollment\_Sections\_Delete\_550x136.png)
 

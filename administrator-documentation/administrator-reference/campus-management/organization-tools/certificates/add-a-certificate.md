@@ -12,7 +12,7 @@ description: >-
 
 <mark style="color:blue;">**Step 2:**</mark>  Click the <mark style="color:blue;">**Add HTML Template**</mark> or <mark style="color:blue;">**Add PDF Template**</mark> button.
 
-![](<../../../../../.gitbook/assets/image (10).png>)
+![](<../../../../../.gitbook/assets/image (10) (1).png>)
 
 ### Add HTML Template
 
@@ -36,19 +36,19 @@ HTML Certificate Template Custom Fields can only have letters or numbers as <mar
 
 <mark style="color:blue;">**Step 6:**</mark> Click <mark style="color:blue;">**Add Page.**</mark>
 
-![](<../../../../../.gitbook/assets/image (7).png>)
+![](<../../../../../.gitbook/assets/image (7) (1).png>)
 
 <mark style="color:blue;">**Step 7:**</mark> Create your template pages by repeating Step 6.
 
 <mark style="color:blue;">**Step 8:**</mark>  Click <mark style="color:blue;">**Info Icon**</mark> to view all possible template Keys that you can add to a page.
 
-![](<../../../../../.gitbook/assets/image (9).png>)
+![](<../../../../../.gitbook/assets/image (9) (1).png>)
 
 You can also add custom enrollment fields that are defined in an organization by replacing CUSTOMFIELDKEY with the key that is defined in Manage Campus -> Customize -> Custom Enrollment Fields or Custom Profile Fields<mark style="color:blue;">**.**</mark>
 
-![Manage Campus -> Customize -> Custom Enrollment Fields or Custom Profile Fields](<../../../../../.gitbook/assets/image (1).png>)
+![Manage Campus -> Customize -> Custom Enrollment Fields or Custom Profile Fields](<../../../../../.gitbook/assets/image (1) (1).png>)
 
-![Search "custom" for Custom Enrollment Fields and Custom Profile Fields (ExtendedProfile)](<../../../../../.gitbook/assets/image (8).png>)
+![Search "custom" for Custom Enrollment Fields and Custom Profile Fields (ExtendedProfile)](<../../../../../.gitbook/assets/image (8) (1).png>)
 
 <mark style="color:blue;">**Step 9:**</mark>  Click <mark style="color:blue;">**Save**</mark> and the certificate template page is saved.
 

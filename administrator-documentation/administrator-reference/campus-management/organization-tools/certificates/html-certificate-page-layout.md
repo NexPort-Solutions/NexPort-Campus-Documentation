@@ -30,7 +30,7 @@ description: >-
 
 <mark style="color:blue;">**Step 3:**</mark>  Create a base layout to contain all custom layout options. Select the <mark style="color:blue;">**Table Icon**</mark> and select a <mark style="color:blue;">**1x1**</mark>.
 
-![](<../../../../../.gitbook/assets/image (8) (1).png>)
+![](<../../../../../.gitbook/assets/image (8).png>)
 
 <mark style="color:blue;">**Step 4:**</mark>  Open <mark style="color:blue;">**Table Properties**</mark> by selecting the inserted 1x1 table and selecting the <mark style="color:blue;">**Properties Icon.**</mark>
 
@@ -60,7 +60,7 @@ description: >-
 
 <mark style="color:blue;">**Step 9:**</mark>  Enter your header title. <mark style="color:blue;">**Align Center**</mark> and set Font from <mark style="color:blue;">**Paragraph**</mark> to <mark style="color:blue;">**Header 1.**</mark>
 
-![](<../../../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../../../.gitbook/assets/image (7).png>)
 
 <mark style="color:blue;">**Step 10:**</mark>  Reset the base layout table to height 100% by repeating <mark style="color:blue;">**Steps 4 - 5**</mark> whenever you make changes to the base table (ie. adding rows and columns).
 
@@ -82,7 +82,7 @@ To <mark style="color:blue;">**re-center the table**</mark>, select from outside
 If it just centers the cells instead of the table, then go a little higher when you select to the top left. Then select the <mark style="color:blue;">**Align center icon**</mark> in the editor.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (10) (1).png>)
+![](<../../../../../.gitbook/assets/image (10).png>)
 
 <mark style="color:blue;">**Step 13:**</mark>  Optionally <mark style="color:blue;">**Align Contents**</mark> by selecting <mark style="color:blue;">**within**</mark> the table and dragging to select the table cells.&#x20;
 
@@ -100,13 +100,13 @@ If it just centers the cells instead of the table, then go a little higher when 
 
 ![Creating a footer](<../../../../../.gitbook/assets/image (24).png>)
 
-![Example footer](<../../../../../.gitbook/assets/image (11) (1).png>)
+![Example footer](<../../../../../.gitbook/assets/image (11).png>)
 
 ### Inserting Images <a href="#insert-images" id="insert-images"></a>
 
 <mark style="color:blue;">**Step 16:**</mark>  Optionally insert images by selecting the <mark style="color:blue;">**Image Icon.**</mark>
 
-![](<../../../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../../../.gitbook/assets/image (4).png>)
 
 <mark style="color:blue;">**Step 17:**</mark>  Click the <mark style="color:blue;">**Source Icon**</mark> and navigate to the file location on your computer. Click <mark style="color:blue;">**Open**</mark> and the Source field will propagate<mark style="color:blue;">.</mark> Click <mark style="color:blue;">**Save**</mark> and the image will be inserted.
 

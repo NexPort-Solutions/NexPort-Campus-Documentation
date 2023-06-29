@@ -40,14 +40,14 @@ You can drop any enrollments from the NexPort Campus.
 
 ![](../../.gitbook/assets/Enrollment\_Drop\_550x193.png)
 
-<mark style="color:blue;">**Step 4:**</mark> Click the ![](../../.gitbook/assets/delete907e.png) icon next to the enrollment that you need to delete.
+<mark style="color:blue;">**Step 4:**</mark> Click the ![](../../.gitbook/assets/Delete.png) icon next to the enrollment that you need to delete.
 
 <mark style="color:blue;">**Step 5:**</mark> A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure you want to drop?”</mark>_ message.
 
 <mark style="color:blue;">**Step 6:**</mark> Click <mark style="color:blue;">**OK**</mark>. The selected enrollment is dropped.
 
 {% hint style="info" %}
-The ![](../../.gitbook/assets/delete907e.png) icon is visible only when the <mark style="color:blue;">**Allow students to drop the course**</mark> is set to <mark style="color:blue;">**Yes**</mark>.
+The ![](../../.gitbook/assets/Delete.png) icon is visible only when the <mark style="color:blue;">**Allow students to drop the course**</mark> is set to <mark style="color:blue;">**Yes**</mark>.
 {% endhint %}
 
 #### © NexPort Solutions 2022. All Rights Reserved.

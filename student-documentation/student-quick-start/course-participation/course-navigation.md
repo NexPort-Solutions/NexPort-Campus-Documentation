@@ -35,7 +35,7 @@ _<mark style="color:blue;">The display on the training plan page is based on the
 
 <div align="left">
 
-<img src="../../../.gitbook/assets/image (3).png" alt="">
+<img src="../../../.gitbook/assets/image (3) (1).png" alt="">
 
 </div>
 

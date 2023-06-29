@@ -12,7 +12,7 @@ Step 2: The **Permissions** page is displayed.
 
 ![](../../../../../.gitbook/assets/Delete\_Permission.png)
 
-Step 3: Click the ![](../../../../../.gitbook/assets/delete907e.png) icon next to the user that you need to delete.
+Step 3: Click the ![](../../../../../.gitbook/assets/Delete.png) icon next to the user that you need to delete.
 
 Step 4: A confirmation dialog box is displayed with the “Are you sure you want to revoke the role \<RoleName> from \<UserName>?” message.
 

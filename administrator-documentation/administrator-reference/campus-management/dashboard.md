@@ -33,11 +33,11 @@ The following table provides information about the <mark style="color:blue;">**A
 
 The following table provides information about the shared catalogs section.
 
-| Field                                        | Description                                                                     |
-| -------------------------------------------- | ------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**Catalog**</mark> | The name of the course catalog.                                                 |
-| <mark style="color:blue;">**Shared**</mark>  | From the name of the group that has shared the catalog.                         |
-| <mark style="color:blue;">**Unshare**</mark> | Click ![](../../../.gitbook/assets/delete907e.png) to stop sharing the catalog. |
+| Field                                        | Description                                                                 |
+| -------------------------------------------- | --------------------------------------------------------------------------- |
+| <mark style="color:blue;">**Catalog**</mark> | The name of the course catalog.                                             |
+| <mark style="color:blue;">**Shared**</mark>  | From the name of the group that has shared the catalog.                     |
+| <mark style="color:blue;">**Unshare**</mark> | Click ![](../../../.gitbook/assets/Delete.png) to stop sharing the catalog. |
 
 The following table provides information about the <mark style="color:blue;">**graphs**</mark> that are displayed.
 

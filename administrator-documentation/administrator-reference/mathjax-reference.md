@@ -18,7 +18,7 @@ You can use MathJax in Test Assignments by creating Question Banks that have the
 
 <mark style="color:blue;">**Step 4:**</mark> Write [LaTex](mathjax-reference.md#latex), [MathML](mathjax-reference.md#undefined), or [AsciiMath ](mathjax-reference.md#asciimath)in the text area for <mark style="color:blue;">**Questions**</mark> or <mark style="color:blue;">**Open Ended Questions**</mark>
 
-![](<../../.gitbook/assets/image (2) (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 <mark style="color:blue;">**Step 5:**</mark> Save and Verify the results
 

@@ -18,17 +18,17 @@ You can view the invoice items such as the cost, name of the item, redemption co
 
 The following table contains description for all the fields that you see in the **Invoice Items** window.
 
-| Field                                                             | Action or Description                                                                                                                                                                              |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../../../.gitbook/assets/invoiceitem\_notea347.png)           | Click to view the invoice item note.                                                                                                                                                               |
-| ![](<../../../.gitbook/assets/invoiceitem\_auditlogae10 (1).png>) | Click to view the invoice item audit logs. The audit log displays a log of all invoice activity for the invoice item.                                                                              |
-| Cost                                                              | Displays the price paid for the invoice item expressed in US dollars.                                                                                                                              |
-| Redemption Code                                                   | This code can be used to redeem the associated invoice item. The invoice item may be a section, training plan, or a catalog. The code can be shared with any user to access the invoice item.      |
-| Access Expiration Time Limit                                      | Displays the amount of time the user has access to the invoice item after they have redeemed it using the redemption code.                                                                         |
-| Redemption User                                                   | This field is blank until a user has redeemed the invoice item. After an item is redeemed it is no longer available and the user who redeemed the item is listed under the Redemption User column. |
-| Redemption Date                                                   | Displays the date when the redemption code was used.                                                                                                                                               |
-| Expiration Date                                                   | Displays the absolute date that the user no longer has access to the redeemed item. This field is blank till the item is redeemed.                                                                 |
-| Product Code                                                      | Displays the product code specified when the invoice was created.                                                                                                                                  |
+| Field                                                       | Action or Description                                                                                                                                                                              |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../../../.gitbook/assets/invoiceitem\_notea347.png)     | Click to view the invoice item note.                                                                                                                                                               |
+| ![](../../../.gitbook/assets/invoiceitem\_auditlogae10.png) | Click to view the invoice item audit logs. The audit log displays a log of all invoice activity for the invoice item.                                                                              |
+| Cost                                                        | Displays the price paid for the invoice item expressed in US dollars.                                                                                                                              |
+| Redemption Code                                             | This code can be used to redeem the associated invoice item. The invoice item may be a section, training plan, or a catalog. The code can be shared with any user to access the invoice item.      |
+| Access Expiration Time Limit                                | Displays the amount of time the user has access to the invoice item after they have redeemed it using the redemption code.                                                                         |
+| Redemption User                                             | This field is blank until a user has redeemed the invoice item. After an item is redeemed it is no longer available and the user who redeemed the item is listed under the Redemption User column. |
+| Redemption Date                                             | Displays the date when the redemption code was used.                                                                                                                                               |
+| Expiration Date                                             | Displays the absolute date that the user no longer has access to the redeemed item. This field is blank till the item is redeemed.                                                                 |
+| Product Code                                                | Displays the product code specified when the invoice was created.                                                                                                                                  |
 
 ## View and add payment details <a href="#view2" id="view2"></a>
 
@@ -105,7 +105,7 @@ You can view the audit logs related to the invoice, such as login date of the in
 
 > The <mark style="color:blue;">**Invoices**</mark> page is displayed.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../.gitbook/assets/invoiceitem\_auditlogae10 (1).png>) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../.gitbook/assets/invoiceitem\_auditlogae10.png) icon.
 
 > The <mark style="color:blue;">**Invoice Audit Logs**</mark> window, which contains the audit logs, is displayed.
 

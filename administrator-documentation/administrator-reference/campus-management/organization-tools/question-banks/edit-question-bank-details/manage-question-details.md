@@ -79,7 +79,7 @@ You can delete questions from the question bank that are no longer relevant.
 
 ![](../../../../../../.gitbook/assets/Questions\_Delete\_550x185.png)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../../.gitbook/assets/delete907e.png) icon next to the questions that you need to remove. A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure this is what you want?”</mark>_ message.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../../.gitbook/assets/Delete.png) icon next to the questions that you need to remove. A confirmation dialog box is displayed with the _<mark style="color:red;background-color:yellow;">“Are you sure this is what you want?”</mark>_ message.
 
 <mark style="color:blue;">**Step 3:**</mark> Click <mark style="color:blue;">**OK**</mark><mark style="color:blue;">.</mark> The selected questions are deleted from the question bank.
 

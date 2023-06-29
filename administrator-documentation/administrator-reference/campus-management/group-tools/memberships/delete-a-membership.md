@@ -14,7 +14,7 @@ coverY: 0
 
 ![Member](../../../../../.gitbook/assets/Member\_Delete\_550x151.png)
 
-<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../../../.gitbook/assets/delete907e.png) icon next to the user whose membership you need to remove.
+<mark style="color:blue;">**Step 3:**</mark> Click the ![](../../../../../.gitbook/assets/Delete.png) icon next to the user whose membership you need to remove.
 
 <mark style="color:blue;">**Step 4:**</mark> The selected membership of the user is removed.
 
