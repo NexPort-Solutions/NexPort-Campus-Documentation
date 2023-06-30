@@ -38,6 +38,16 @@ Curriculum developers frequently QA their course in their authoring environment 
 
 The manifest identifiers should only contain letter, numbers, dashes and underscores.
 
+```xml
+<organization identifier="acme_course_101">
+      <title>Acme Course 101</title>
+      <item identifier="acme_course_101" isvisible="true" identifierref="__6pvVJupxRfVhiv_RES">
+        <title>acme_course_101</title>
+      </item>
+    </organization>
+  </organizations>
+```
+
 ## Consider Implementing Improved SCORM (iSCORM)
 
 Not all tools support the iSCORM specification.

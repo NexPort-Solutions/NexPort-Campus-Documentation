@@ -9,7 +9,7 @@ description: >-
 
 You are here: [My Training](../../../) > [Instructor](../../) > [Assignment Types](./) > Courseware assignment
 
-<figure><img src="../../../../../.gitbook/assets/instructor_courseware.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/instructor_courseware (1).png" alt=""><figcaption></figcaption></figure>
 
 When a SCORM courseware is uploaded to your organization you can make it available to students within a section using the Courseware Assignment.
 
