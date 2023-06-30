@@ -34,6 +34,10 @@ Second, is the "embeded" mode. This mode provides the best experience for studen
 
 Curriculum developers frequently QA their course in their authoring environment only to find that it behaves differently in the Learning Management Environment. Small differences in how courses are launched or delivered can change, drastically, the experience for your students. You should always verify the behavior of your courses in NexPort Campus before publishing them.
 
+## Manifest Identifiers Should Contain no Special Characters
+
+The manifest identifiers should only contain letter, numbers, dashes and underscores.
+
 ## Consider Implementing Improved SCORM (iSCORM)
 
 Not all tools support the iSCORM specification.
