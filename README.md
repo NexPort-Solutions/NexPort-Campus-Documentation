@@ -39,6 +39,10 @@ Guides to get started on the basics as quickly as possible:
 [whats-new](getting-started/whats-new/)
 {% endcontent-ref %}
 
+{% content-ref url="getting-started/guidelines-for-support.md" %}
+[guidelines-for-support.md](getting-started/guidelines-for-support.md)
+{% endcontent-ref %}
+
 {% content-ref url="getting-started/access-nexport-campus.md" %}
 [access-nexport-campus.md](getting-started/access-nexport-campus.md)
 {% endcontent-ref %}
