@@ -19,6 +19,7 @@
 * [Language Preferences](getting-started/language-preferences.md)
 * [Campus Interface](getting-started/campus-interface.md)
 * [Campus Text Editor](getting-started/campus-text-editor.md)
+* [Guidelines for Support](getting-started/guidelines-for-support.md)
 
 ## STUDENT DOCUMENTATION
 
