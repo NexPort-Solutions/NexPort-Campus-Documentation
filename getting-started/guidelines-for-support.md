@@ -54,7 +54,9 @@ If possible, attaching a screenshot or recording a video demonstrating the issue
 
 ## <mark style="color:blue;">**Error Logs**</mark><mark style="color:blue;">:</mark>&#x20;
 
-If there are any relevant error logs or crash reports, provide them as they can offer valuable insights into the root cause of the issue.
+If there are any relevant error logs or crash reports, provide them as they can offer valuable insights into the root cause of the issue. If you receive and error in Nexport Campus similar to the image below, click on the "technical details" link to show the relevant details to include in the technical support request.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-30 at 3.14.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
