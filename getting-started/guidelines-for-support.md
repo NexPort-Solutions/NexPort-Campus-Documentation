@@ -38,6 +38,22 @@ If the problem involves network-related issues (e.g., internet connectivity, net
 
 A step-by-step account of what the client was doing when the problem occurred can help in replicating the issue for troubleshooting purposes.
 
+#### Bad Example: <a href="#633c" id="633c"></a>
+
+Step1: open http://mywebsite.com/page1\
+Step2: observe the field is now empty whereas it was filled in before\
+Step3: I was logged in with USER1
+
+#### **Good Example:**
+
+1/ go to http://mywebsite.com/page1\
+2/ log in as USER1 : LOGIN / PASSWORD\
+3/ observe the field is filled in\
+4/ go to http://mywebsite.com/page2\
+5/ do action ACTION1\
+6/ go back to http://mywebsite.com/page1\
+7/ observe the field is now empty
+
 ***
 
 ## <mark style="color:blue;">**Recent Changes or Updates**</mark><mark style="color:blue;">:</mark>&#x20;
@@ -49,6 +65,8 @@ If any software, hardware, or system updates were installed shortly before the p
 ## <mark style="color:blue;">**Screenshot or Video**</mark><mark style="color:blue;">:</mark>&#x20;
 
 If possible, attaching a screenshot or recording a video demonstrating the issue can be incredibly helpful for the support team to visually understand the problem.
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-09-06 at 8.55.51 AM.png" alt=""><figcaption><p>Screenshot of an error message</p></figcaption></figure>
 
 ***
 
