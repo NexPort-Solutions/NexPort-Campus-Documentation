@@ -17,12 +17,12 @@ coverY: 0
 
 The following table provides information about the various sections displayed on the <mark style="color:blue;">**Dashboard**</mark> page.
 
-| Field                                             | Description                                            |
-| ------------------------------------------------- | ------------------------------------------------------ |
-| <mark style="color:blue;">**Group Name**</mark>   | The group name, above the Dashboard menu is displayed. |
-| <mark style="color:blue;">**Short Name**</mark>   | The short name for the group.                          |
-| <mark style="color:blue;">**Date Created**</mark> | The date when the group was created.                   |
-| <mark style="color:blue;">**URL**</mark>          | URL The uniform resource locator for the group.        |
+| Field                                                        | Description                                                            |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| <mark style="color:blue;">**Group/Organization Name**</mark> | The group or organization name, above the Dashboard menu is displayed. |
+| <mark style="color:blue;">**Short Name**</mark>              | The short name for the group or organization.                          |
+| <mark style="color:blue;">**Date Created**</mark>            | The date when the group was created.                                   |
+| <mark style="color:blue;">**URL**</mark>                     | URL The uniform resource locator for the group.                        |
 
 The following table provides information about the <mark style="color:blue;">**Administrators section.**</mark>
 
