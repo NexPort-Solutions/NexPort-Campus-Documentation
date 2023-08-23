@@ -44,6 +44,10 @@ The following are the primary administration functions.
 [deliver-instructor-led-curriculum.md](deliver-instructor-led-curriculum.md)
 {% endcontent-ref %}
 
+{% content-ref url="custom-login-forms.md" %}
+[custom-login-forms.md](custom-login-forms.md)
+{% endcontent-ref %}
+
 {% content-ref url="scorm-best-practices.md" %}
 [scorm-best-practices.md](scorm-best-practices.md)
 {% endcontent-ref %}
