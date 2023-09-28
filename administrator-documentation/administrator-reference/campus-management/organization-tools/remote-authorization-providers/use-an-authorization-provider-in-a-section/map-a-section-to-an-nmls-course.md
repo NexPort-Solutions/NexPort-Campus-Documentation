@@ -38,7 +38,7 @@ description: >-
 
 <mark style="color:blue;">**Step 9:**</mark> Click the <mark style="color:blue;">**Save**</mark> button.&#x20;
 
-> The <mark style="color:blue;">**Edit Nmls Course Mappig**</mark> dialog is closed.
+> The <mark style="color:blue;">**Edit Nmls Course Mapping**</mark> dialog is closed.
 
 At any point that you no longer want your section to be mapped to an Nmls course, click the <mark style="color:blue;">**Remove Mapping**</mark> button.&#x20;
 
