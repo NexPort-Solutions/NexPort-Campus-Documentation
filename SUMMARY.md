@@ -5,6 +5,7 @@
 ## Getting Started
 
 * [What's New?](getting-started/whats-new/README.md)
+  * [Announcing NexPort Campus Version 6.7.2](getting-started/whats-new/announcing-nexport-campus-version-6.7.2.md)
   * [Introducing NexPort Campus Version 6.7.1](getting-started/whats-new/introducing-nexport-campus-version-6.7.1.md)
   * [Release Announcement: NexPort Campus 6.7.0](getting-started/whats-new/release-announcement-nexport-campus-6.7.0/README.md)
     * [NexPort Campus v6.7.0 Release Notes](getting-started/whats-new/release-announcement-nexport-campus-6.7.0/nexport-campus-v6.7.0-release-notes.md)
