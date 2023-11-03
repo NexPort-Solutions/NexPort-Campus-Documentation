@@ -165,6 +165,7 @@
         * [Modify Course Set details](administrator-documentation/administrator-reference/campus-management/organization-tools/course-sets/modify-course-set-details.md)
         * [Delete a Course Set](administrator-documentation/administrator-reference/campus-management/organization-tools/course-sets/delete-a-course-set.md)
       * [Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/README.md)
+        * [Courseware Best Practices](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/courseware-best-practices.md)
         * [Search Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/search-courseware.md)
         * [View and Manage Owned Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/view-and-manage-owned-courseware.md)
         * [View Available Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/view-available-courseware.md)
