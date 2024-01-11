@@ -155,6 +155,7 @@
         * [HTML Certificate Background](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/html-certificate-background.md)
         * [Creating a PDF Certificate](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/creating-a-certificate-pdf.md)
         * [PDF Certificate Properties](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/certificate-pdf-properties.md)
+        * [View Current and Replacement Certificates](administrator-documentation/administrator-reference/campus-management/organization-tools/certificates/view-current-and-replacement-certificates.md)
       * [Course Catalogs](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/README.md)
         * [Add a Course Catalog](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/add-a-course-catalog.md)
         * [Modify Course Catalog details](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/modify-course-catalog-details.md)
