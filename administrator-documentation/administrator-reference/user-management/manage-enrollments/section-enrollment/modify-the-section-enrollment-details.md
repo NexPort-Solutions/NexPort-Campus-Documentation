@@ -9,29 +9,29 @@ description: >-
 
 ## **To modify the section enrollment details**
 
-<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> > <mark style="color:blue;">**Manage Users**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark>  The <mark style="color:blue;">**User Listing**</mark> page is displayed.
+<mark style="color:blue;">**Step 2:**</mark> The <mark style="color:blue;">**User Listing**</mark> page is displayed.
 
 > Select a user to modify the enrollment details.
 >
 > The user information page is displayed.
 
-<mark style="color:blue;">**Step 3:**</mark>  Click the <mark style="color:blue;">**Enrollments**</mark> tab.
+<mark style="color:blue;">**Step 3:**</mark> Click the <mark style="color:blue;">**Enrollments**</mark> tab.
 
 > The list of enrollments is displayed.
 
-<mark style="color:blue;">**Step 4:**</mark>  Click the <mark style="color:blue;">**Sections**</mark> tab.
+<mark style="color:blue;">**Step 4:**</mark> Click the <mark style="color:blue;">**Sections**</mark> tab.
 
-<mark style="color:blue;">**Step 5:**</mark>  Click the ![](/.gitbook/assets/Edit.png) icon next to the section enrollment that you need to override.
+<mark style="color:blue;">**Step 5:**</mark> Click the ![](../../../../../.gitbook/assets/Edit.png) icon next to the section enrollment that you need to override.
 
-![](/.gitbook/assets/Enrollments_Edit_550x105.png)
+![](../../../../../.gitbook/assets/Enrollments\_Edit\_550x105.png)
 
-<mark style="color:blue;">**Step 6:**</mark>  The <mark style="color:blue;">**Edit Enrollment \<EnrollmentName>**</mark> page is displayed.
+<mark style="color:blue;">**Step 6:**</mark> The <mark style="color:blue;">**Edit Enrollment \<EnrollmentName>**</mark> page is displayed.
 
-![](/.gitbook/assets/Enrollment_Modify_550x185.png)
+![](../../../../../.gitbook/assets/Enrollment\_Modify\_550x185.png)
 
-<mark style="color:blue;">**Step 7:**</mark>  On the selected sections enrollment, modify the information on the following tabs.
+<mark style="color:blue;">**Step 7:**</mark> On the selected sections enrollment, modify the information on the following tabs.
 
 > The <mark style="color:blue;">**Breakdown**</mark> tab gives you a combined view of the statuses and scores of each assignment.
 >
@@ -49,15 +49,24 @@ When you update the <mark style="color:blue;">**Date**</mark> and/or <mark style
 Users with academic override permissions can generate a transcript record.
 {% endhint %}
 
-> The <mark style="color:blue;">**Impersonate User**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> button lets you navigate around the courseware that the student is having an issue with. The testing team or the customer care team can replicate the issue and send it to the engineering team
+> The <mark style="color:blue;">**Impersonate User**</mark> button lets you navigate around the courseware that the student is having an issue with. The testing team or the customer care team can replicate the issue and send it to the engineering team
 >
-> The <mark style="color:blue;">**Academic Override**</mark>** ** section lets you override any item listed in the status. Modify the values according to your requirements, and then click <mark style="color:blue;">**Override**</mark>.
+> The <mark style="color:blue;">**Academic Override**</mark>\*\* \*\* section lets you override any item listed in the status. Modify the values according to your requirements, and then click <mark style="color:blue;">**Override**</mark>.
 >
-> The <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Audit Trail**</mark> tab lets you track all the changes made to an enrollment. The <mark style="color:blue;">**Audit Trail**</mark> page lists the score, phase, result, log user, IP address, and the log date.
+> The <mark style="color:blue;">**Audit Trail**</mark> tab lets you track all the changes made to an enrollment. The <mark style="color:blue;">**Audit Trail**</mark> page lists the score, phase, result, log user, IP address, and the log date.
 >
-> The <mark style="color:blue;">**Section Details**</mark> tab displays the details of the catalog and organization to which the section belongs. The <mark style="color:blue;">**Section Details**</mark> page lists the catalog, organization, and the organization short name.
+> The <mark style="color:blue;">**Section Details**</mark> tab displays the details of the catalog and organization to which the section belongs.&#x20;
 >
-> The <mark style="color:blue;">**Custom Enrollment Fields**</mark> tab lets you set custom enrollment fields. You can set the value of the enrollment fields as per the enrollment. The value of the custom enrollment field is the same within an organization. The values can be different for each enrollment. Only an Administrator can edit the values of the custom enrollment fields. For more information about adding, modifying, and deleting custom enrollment fields, see:
+> The <mark style="color:blue;">**Section Details**</mark> page lists:
+
+* [<mark style="color:blue;">**Catalog**</mark>](../../../campus-management/organization-tools/course-catalogs/add-a-course-catalog.md) <mark style="color:blue;">**-**</mark> The Catalog this section belongs to.
+* **Unique Name -** The unique name assigned to the section.
+* [<mark style="color:blue;">**Certificate Template**</mark>](../../../campus-management/organization-tools/certificates/add-a-certificate.md) <mark style="color:blue;">**-**</mark> The Organization certificate issued to this enrollment.
+* [<mark style="color:blue;">**Replacement Certificate Template**</mark>](../../../campus-management/organization-tools/certificates/replace-a-certificate-from-shared-training.md) <mark style="color:blue;">**-**</mark> The Certificate used as a "replacement" and issued for this enrollment.
+* **Section Organization** - The organization this section belongs to.
+* **Enrollment Organization** - The organization this enrollment belongs to.
+
+The <mark style="color:blue;">**Custom Enrollment Fields**</mark> tab lets you set custom enrollment fields. You can set the value of the enrollment fields as per the enrollment. The value of the custom enrollment field is the same within an organization. The values can be different for each enrollment. Only an Administrator can edit the values of the custom enrollment fields. For more information about adding, modifying, and deleting custom enrollment fields, see:
 
 {% content-ref url="../../../campus-management/group-tools/customize/create-custom-enrollment-fields.md" %}
 [create-custom-enrollment-fields.md](../../../campus-management/group-tools/customize/create-custom-enrollment-fields.md)
