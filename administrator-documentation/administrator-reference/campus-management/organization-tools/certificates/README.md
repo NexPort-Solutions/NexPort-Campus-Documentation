@@ -45,4 +45,8 @@ You can upload, view, and manage the certificates available in your organization
 [certificate-pdf-properties.md](certificate-pdf-properties.md)
 {% endcontent-ref %}
 
+{% content-ref url="view-current-and-replacement-certificates.md" %}
+[view-current-and-replacement-certificates.md](view-current-and-replacement-certificates.md)
+{% endcontent-ref %}
+
 #### &#x20;© NexPort Solutions 2022. All Rights Reserved.
