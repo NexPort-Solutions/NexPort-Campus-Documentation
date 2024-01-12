@@ -42,9 +42,15 @@ Click <mark style="color:blue;">**Remove**</mark>, to remove the selected requir
 
 ## Update training plan details <a href="#update" id="update"></a>
 
-By using the Rich Text Editor, you can create a name, icon option, and add description related to your training plan.
+By using the Rich Text Editor, you can edit the following:
 
-![](<../../../../../.gitbook/assets/Screenshot 2024-01-08 153953.png>)
+* Name - Name given to this Category.
+* Icon - Select icon to be displayed along with Category Name.
+* Description - Description related to the training plan.
+
+![Admin view of training plan Category Details Tab.](<../../../../../.gitbook/assets/Screenshot 2024-01-08 153953.png>)
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-01-12 080326.png" alt=""><figcaption><p>Student view of training plan and how icons will be displayed.</p></figcaption></figure>
 
 ## Update training plan prerequisites <a href="#update2" id="update2"></a>
 
