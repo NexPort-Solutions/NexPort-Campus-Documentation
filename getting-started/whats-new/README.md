@@ -1,10 +1,29 @@
 ---
 description: Release Notes and other news about NexPort Campus.
-coverY: 0
-layout: landing
+cover: >-
+  https://images.unsplash.com/photo-1602189156324-4c5c6c2c02b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXxlbnwwfHx8fDE3MDYwMzQ1NDR8MA&ixlib=rb-4.0.3&q=85
+coverY: 231.03706343549536
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # What's New?
+
+{% content-ref url="nexport-campus-version-6.7.3-release-announcement.md" %}
+[nexport-campus-version-6.7.3-release-announcement.md](nexport-campus-version-6.7.3-release-announcement.md)
+{% endcontent-ref %}
 
 {% content-ref url="announcing-nexport-campus-version-6.7.2.md" %}
 [announcing-nexport-campus-version-6.7.2.md](announcing-nexport-campus-version-6.7.2.md)
