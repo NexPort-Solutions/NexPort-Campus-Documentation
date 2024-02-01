@@ -73,7 +73,11 @@ The key can only contain letters, numbers, and underscores, and must not start w
 
 <mark style="color:blue;">**Step 7:**</mark> Click <mark style="color:blue;">**Save**</mark>.
 
-## **To make the response mandatory for a syllabus**
+## **Customize an Enrollment Field for a Section or Training Plan**
+
+{% hint style="info" %}
+Below Syllabus refers to either a Section OR a Training Plan.&#x20;
+{% endhint %}
 
 <mark style="color:blue;">**Step 1:**</mark> Place the cursor in the <mark style="color:blue;">**Type a syllabus**</mark> title.
 
