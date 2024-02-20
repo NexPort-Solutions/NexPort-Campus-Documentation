@@ -8,7 +8,11 @@ coverY: 0
 
 # Permissions
 
-&#x20;On the <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Permissions**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> page, you can do the following:
+{% content-ref url="understanding-permissions-in-nexport-campus.md" %}
+[understanding-permissions-in-nexport-campus.md](understanding-permissions-in-nexport-campus.md)
+{% endcontent-ref %}
+
+On the <mark style="color:blue;">**Permissions**</mark> page, you can do the following:
 
 {% content-ref url="permission-categories.md" %}
 [permission-categories.md](permission-categories.md)
