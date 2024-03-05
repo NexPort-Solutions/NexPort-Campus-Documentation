@@ -2,7 +2,6 @@
 description: Get started with the NexPort Campus Documentation
 cover: .gitbook/assets/Untitled-1-01.png
 coverY: 0
-layout: landing
 ---
 
 # NEXPORT CAMPUS

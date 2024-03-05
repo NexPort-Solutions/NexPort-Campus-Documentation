@@ -21,6 +21,10 @@ layout:
 
 # What's New?
 
+{% content-ref url="nexport-campus-6.7.4-released.md" %}
+[nexport-campus-6.7.4-released.md](nexport-campus-6.7.4-released.md)
+{% endcontent-ref %}
+
 {% content-ref url="nexport-campus-version-6.7.3-release-announcement.md" %}
 [nexport-campus-version-6.7.3-release-announcement.md](nexport-campus-version-6.7.3-release-announcement.md)
 {% endcontent-ref %}
