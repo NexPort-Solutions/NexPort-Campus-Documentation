@@ -2,24 +2,27 @@
 description: These are the available fields in the Nexport Certificates
 ---
 
-# Certificate PDF Properties
+# PDF Certificate Properties
 
 ## Available Certificate Fields
 
 ### **Basic Fields**
 
-01    first.name\
-02    middle.name\
-03    last.name\
-04    name : "First Last"\
-05    formalname : "Last, First Middle"\
-06    nickname\
-07    user.title\
-08    user.email\
-09    course.title\
-10    section.description\
-11    section.title\
-12    section.number
+
+
+* first.name&#x20;
+* middle.name&#x20;
+* last.name name : "First Last"&#x20;
+* formalname : "Last, First Middle"&#x20;
+* nickname&#x20;
+* user.title&#x20;
+* user.email&#x20;
+* ourse.title&#x20;
+* section.description&#x20;
+* section.title&#x20;
+* section.number01   &#x20;
+* first.name
+* section.duration
 
 ## Available Date Fields
 
