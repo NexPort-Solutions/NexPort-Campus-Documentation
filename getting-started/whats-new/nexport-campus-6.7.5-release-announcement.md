@@ -1,5 +1,7 @@
 ---
 description: Streamlined Training Plan Navigation in NexPort Campus Version 6.7.5
+cover: ../../.gitbook/assets/660c2b5f7ceb766b18c45830_ceu-article.webp
+coverY: 75
 ---
 
 # NexPort Campus 6.7.5 Release Announcement
