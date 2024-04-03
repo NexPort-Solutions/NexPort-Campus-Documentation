@@ -1,7 +1,7 @@
 ---
 description: Release Notes and other news about NexPort Campus.
 cover: ../../.gitbook/assets/2b7c7cb4-7c3e-4e15-aeaa-82bbac322c52.webp
-coverY: -13.127833182230281
+coverY: 0
 layout:
   cover:
     visible: true
