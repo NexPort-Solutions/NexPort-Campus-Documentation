@@ -1,12 +1,11 @@
 ---
 description: Release Notes and other news about NexPort Campus.
-cover: >-
-  https://images.unsplash.com/photo-1602189156324-4c5c6c2c02b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxhbm5vdW5jZXxlbnwwfHx8fDE3MDYwMzQ1NDR8MA&ixlib=rb-4.0.3&q=85
-coverY: 231.03706343549536
+cover: ../../.gitbook/assets/2b7c7cb4-7c3e-4e15-aeaa-82bbac322c52.webp
+coverY: -13.127833182230281
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
