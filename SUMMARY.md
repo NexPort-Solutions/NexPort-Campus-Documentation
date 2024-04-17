@@ -197,6 +197,7 @@
         * [Modify the Subscription details](administrator-documentation/administrator-reference/campus-management/organization-tools/subscriptions/modify-the-subscription-details.md)
         * [Send a Notification](administrator-documentation/administrator-reference/campus-management/organization-tools/subscriptions/send-a-notification.md)
         * [Remove a Subscription](administrator-documentation/administrator-reference/campus-management/organization-tools/subscriptions/remove-a-subscription.md)
+        * [Subscription Options](administrator-documentation/administrator-reference/campus-management/organization-tools/subscriptions/subscription-options.md)
       * [Tests and Surveys](administrator-documentation/administrator-reference/campus-management/organization-tools/tests-and-surveys/README.md)
         * [View and Search Test and Survey Listing](administrator-documentation/administrator-reference/campus-management/organization-tools/tests-and-surveys/view-and-search-test-and-survey-listing.md)
         * [Add a Test or a Survey](administrator-documentation/administrator-reference/campus-management/organization-tools/tests-and-surveys/add-a-test-or-a-survey.md)
