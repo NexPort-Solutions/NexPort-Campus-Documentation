@@ -28,4 +28,8 @@ On the <mark style="color:blue;">**Subscriptions**</mark> page, you can do the f
 [remove-a-subscription.md](remove-a-subscription.md)
 {% endcontent-ref %}
 
+{% content-ref url="subscription-options.md" %}
+[subscription-options.md](subscription-options.md)
+{% endcontent-ref %}
+
 #### © NexPort Solutions 2022. All Rights Reserved.
