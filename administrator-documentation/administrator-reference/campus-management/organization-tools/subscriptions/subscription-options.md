@@ -14,7 +14,7 @@ The purpose of the Subscription Options area is to allow an organization adminis
 
 ***
 
-## <mark style="color:blue;">Creating a Status</mark>
+## <mark style="color:blue;">Creating a Subscription Status</mark>
 
 <mark style="color:blue;">**Step 1:**</mark> Click the Add New button at the bottom of the page.
 
@@ -32,11 +32,11 @@ The purpose of the Subscription Options area is to allow an organization adminis
 
 ## <mark style="color:blue;">Setting the Default Status</mark>
 
-At the bottom of the Subscription Options page is the setting for the Default Status.
+At the bottom of the Subscription Options page is the setting for the Default Status. The Default Status will be applied to every new subscription.
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-18 at 9.27.57 AM.png" alt=""><figcaption></figcaption></figure>
 
-
+Click on the drop-down menu to view the available statuses. A status must be enabled to appear in this list. If the desired status does not appear in the list, then locate the value in the Subscription Workflow Editor above and change the Active value to Enabled.
 
 ***
 
