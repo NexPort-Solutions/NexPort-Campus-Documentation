@@ -40,7 +40,19 @@ Click on the drop-down menu to view the available statuses. A status must be ena
 
 ***
 
-## <mark style="color:blue;">Changing the Status</mark>
+## <mark style="color:blue;">Configuring the Status Changes</mark>
 
-There are two methods to update the status.
+Automatic status changes can be configured for each Status listed in the Subscription Workflow Editor by clicking on the Details icon <img src="../../../../../.gitbook/assets/image.png" alt="" data-size="line"> on the right side of the Status row.
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-19 at 2.02.02 PM.png" alt=""><figcaption><p>The Edit Status Changes dialog box</p></figcaption></figure>
+
+When the Edit Status Changes dialog box appears, any existing status changes will appear here. Click the Add New button to create a new status change event.
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-19 at 2.03.09 PM.png" alt=""><figcaption><p>The Edit Status Changes dialog box show a list of change events.</p></figcaption></figure>
+
+When adding a new status change there will be an option of two triggers for the change.
+
+> <mark style="color:blue;">**First Enrollment Activity**</mark>: this event is triggered when the first activity of a new enrollment occurs.
+>
+> <mark style="color:blue;">**All Enrollment Passed**</mark>: this event is triggered when all enrollments have been passed.
 
