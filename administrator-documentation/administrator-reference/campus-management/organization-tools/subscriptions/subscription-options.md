@@ -56,3 +56,10 @@ When adding a new status change there will be an option of two triggers for the 
 >
 > <mark style="color:blue;">**All Enrollment Passed**</mark>: this event is triggered when all enrollments have been passed.
 
+Next select whether you want the Status Change to begin Enabled or disabled. ( this can be changed at any time by coming back to the Status Changes dialog box )
+
+Finally select the status that will show when the trigger condition is activated.
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-19 at 2.03.26 PM.png" alt=""><figcaption></figcaption></figure>
+
+Click the Green Checkmark to save thee Status Change and click Close to leave the Status Changes window.
