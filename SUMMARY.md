@@ -164,7 +164,7 @@
         * [Add a Course Catalog](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/add-a-course-catalog.md)
         * [Modify Course Catalog details](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/modify-course-catalog-details.md)
         * [Delete a Course Catalog](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/delete-a-course-catalog.md)
-        * [Creating a Course Repository](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/creating-a-course-repository.md)
+        * [Sharing or Copying Course Catalogs](administrator-documentation/administrator-reference/campus-management/organization-tools/course-catalogs/sharing-or-copying-course-catalogs.md)
       * [Course Sets](administrator-documentation/administrator-reference/campus-management/organization-tools/course-sets/README.md)
         * [View Course Set List](administrator-documentation/administrator-reference/campus-management/organization-tools/course-sets/view-course-set-list.md)
         * [Add a Course Set](administrator-documentation/administrator-reference/campus-management/organization-tools/course-sets/add-a-course-set.md)
