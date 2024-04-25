@@ -20,4 +20,8 @@ After a catalog is populated with training content that content can be shared to
 [delete-a-course-catalog.md](delete-a-course-catalog.md)
 {% endcontent-ref %}
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+{% content-ref url="sharing-or-copying-course-catalogs.md" %}
+[sharing-or-copying-course-catalogs.md](sharing-or-copying-course-catalogs.md)
+{% endcontent-ref %}
+
+#### © NexPort Solutions  All Rights Reserved.
