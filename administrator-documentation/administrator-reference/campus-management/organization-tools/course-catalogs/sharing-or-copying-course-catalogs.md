@@ -25,3 +25,17 @@ This article will walk-through the steps to share or copy a course catalog to on
 
 
 ## Copying Course Catalogs
+
+<mark style="color:blue;">**STEP 1:**</mark>  Click on the name of the course catalog that needs to be copied.
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-25 at 4.14.43 PM.png" alt=""><figcaption><p>View of the Copy Catalog window</p></figcaption></figure>
+
+<mark style="color:blue;">**STEP 2:**</mark> Click on the <mark style="color:blue;">**COPY CATALOG**</mark> tab.
+
+<mark style="color:blue;">**STEP 3:**</mark> Click the arrow to open the Organization map, then select one sub-org to share the course catalog.
+
+<mark style="color:blue;">**STEP 4:**</mark> Click the <mark style="color:blue;">**COPY**</mark> button and it will take several moments to copy the course catalog.
+
+When the copy process has completed a dialog box will appear with the results of the copy procedure.
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-25 at 4.16.26 PM.png" alt=""><figcaption><p>Copy procedure results dialog box</p></figcaption></figure>
