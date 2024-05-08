@@ -24,4 +24,12 @@ In the <mark style="color:blue;">**Option**</mark> column, click the download li
 
 ![](<../../../../../.gitbook/assets/Screenshot 2024-01-03 145823.png>)
 
+#### Report Commit Log
+
+Use the report commit log option to enable commit logging for this courseware. This feature can be enabled for debugging purposes. It may add additional overhead to commits so enabling it should be done sparingly. The commit logs can be seen through the [student record](../../../user-management/manage-enrollments/section-enrollment/manage-scorm-assignment-sessions.md).
+
+#### Disable Exit Notice
+
+By default the course launcher will add a notice to the end of a course when LMSFinish is called. This notice can be disabled for courses that wish to use a custom notice.
+
 #### © NexPort Solutions 2022. All Rights Reserved.
