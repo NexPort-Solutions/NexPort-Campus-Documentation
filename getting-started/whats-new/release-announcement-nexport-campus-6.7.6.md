@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/what's new.avif
+coverY: 0
+---
+
 # Release Announcement: NexPort Campus 6.7.6
 
 We are excited to announce that NexPort Campus 6.7.6 has been successfully released to production! This release includes a variety of enhancements and bug fixes aimed at improving the overall user experience and system functionality. Here are the key updates in this release:
