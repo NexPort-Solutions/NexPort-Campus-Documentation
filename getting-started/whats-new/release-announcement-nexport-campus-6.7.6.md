@@ -5,6 +5,10 @@ coverY: 0
 
 # Release Announcement: NexPort Campus 6.7.6
 
+{% hint style="info" %}
+v6.7.6 Released 5/15/2024
+{% endhint %}
+
 We are excited to announce that NexPort Campus 6.7.6 has been successfully released to production! This release includes a variety of enhancements and bug fixes aimed at improving the overall user experience and system functionality. Here are the key updates in this release:
 
 **Enhancements**
