@@ -11,8 +11,22 @@ We are excited to announce that NexPort Campus 6.7.6 has been successfully relea
 
 1. **Case 181218: Certificate Development**
    * Certificate developers can now see a list of available VTL properties that can be used in the PDF certificate templates, enhancing flexibility and ease of use.
-2. **Case 180937: Syllabus VTL Template Properties**
-   * Added missing properties to the syllabus VTL template, providing more options and control to users.
+2.  **Case 180937: Syllabus VTL Template Properties**
+
+    * Added missing properties to the syllabus VTL template, providing more options and control to users.
+
+    The following properties are now available for both PDF and HTML templates. These are also available to assignment descriptions and assignment titles.\
+
+
+    `$enrollment.Syllabus.SectionCeus`: The ceus for the syllabus. Null for training plans.
+
+    `$enrollment.Syllabus.SectionDuration`: The duration of the syllabus. Null for training plans.
+
+    `$enrollment.Syllabus.SectionMasteryScore`: The mastery score for the syllabus. Null for training plans.
+
+    `$enrollment.Syllabus.SectionNumber`: Section number for the syllabus. Null for training plans.
+
+    `$enrollment.Syllabus.SectionObjectives` The objectives for the syllabus. Null for training plans.
 
 **Bug Fixes**
 
