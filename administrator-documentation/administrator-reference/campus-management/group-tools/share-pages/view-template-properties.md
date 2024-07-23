@@ -1,18 +1,27 @@
+---
+description: Create dynamic content for any page.
+---
+
 # View Template Properties
 
-##
+If you place the name of a field after a $ then it is replaced with the information of the student.&#x20;
 
-You can update or modify the title and body content for a homepage or page. If you place the name of a field after a $ then it is replaced with the information of the student. For example; ‘Welcome to `$OrganizationName`’ changes to ‘Welcome to Nexport’ for 'Nexport' organization.
+{% hint style="info" %}
+**EXAMPLE:**  ‘Welcome to _`$OrganizationName`_’ changes to ‘Welcome to Nexport’ for the 'Nexport' organization.
+{% endhint %}
 
-&#x20;
+## **To view template properties:**
 
-**To view template properties:**
+**STEP 1:** Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
 
-1. Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
-2. In the left pane, click **Template properties**.
-3. ![](/.gitbook/assets/Share_Pages_Template_Properties_550x294.png)
-4. The **Page Template Properties** dialog box is displayed. This dialog box contains the list of template properties.
+**STEP 2**: Select **Template Properties** from the left pane options.
 
-&#x20;
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-23 at 11.30.44 AM.png" alt=""><figcaption></figcaption></figure>
 
-#### &#x20;© NexPort Solutions 2022. All Rights Reserved.
+{% hint style="info" %}
+The **Page Template Properties** dialog box is displayed. This dialog box contains the list of template properties.
+{% endhint %}
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-23 at 11.18.07 AM.png" alt=""><figcaption><p>Example of the Page Template Properties (a partial list)</p></figcaption></figure>
+
+#### © NexPort Solutions 2022. All Rights Reserved.
