@@ -24,4 +24,4 @@ The **Page Template Properties** dialog box is displayed. This dialog box contai
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-23 at 11.18.07 AM.png" alt=""><figcaption><p>Example of the Page Template Properties (a partial list)</p></figcaption></figure>
 
-#### © NexPort Solutions 2022. All Rights Reserved.
+#### © 2015-2024 NexPort Solutions. All Rights Reserved.
