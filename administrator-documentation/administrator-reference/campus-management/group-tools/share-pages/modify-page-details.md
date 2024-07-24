@@ -1,20 +1,29 @@
+---
+description: Modify page details any time after it is created.
+---
+
 # Modify Page details
 
-##
+## **To modify page details:**
 
-After creating a page, you can modify the page details any time later.
+**STEP 1:** Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
 
-&#x20;
+**STEP 2:** Select an existing page or create a new page.&#x20;
 
-**To modify page details:**
+{% hint style="info" %}
+Details for creating new pages available [here.](add-a-page.md)&#x20;
+{% endhint %}
 
-1. Click **Administration** > **Manage Campus** > **Group Tools** > **Share Pages**.
-2. Select a page that you need to modify the page details.
-3. ![](/.gitbook/assets/Share_Pages_Edit%201.png)
-4. In the left pane, click **Edit**.
-5. ![](/.gitbook/assets/Share_Pages_Edit_550x294.png)
-6. Modify the title, text, or image.
-7. Click **Save** and then click **Finished Editing**.
-8. The page details are updated and saved.
+**STEP 3:** In the left pane, click **Edit**.
 
-&#x20; © NexPort Solutions 2022. All Rights Reserved.
+
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-23 at 3.36.05 PM.png" alt=""><figcaption></figcaption></figure>
+
+STEP 4: Modify the page as needed with the **Rich Text Editor**.
+
+STEP 5: Click **Save** and then click **Finished Editing**.
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-07-24 at 8.48.42 AM.png" alt=""><figcaption></figcaption></figure>
+
+© 2015-2024 NexPort Solutions. All Rights Reserved.
