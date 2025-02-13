@@ -95,7 +95,6 @@
     * [Group Tools](administrator-documentation/administrator-reference/campus-management/group-tools/README.md)
       * [Customize](administrator-documentation/administrator-reference/campus-management/group-tools/customize/README.md)
         * [Upload an Image](administrator-documentation/administrator-reference/campus-management/group-tools/customize/upload-an-image.md)
-        * [Customize Organization Colors](administrator-documentation/administrator-reference/campus-management/group-tools/customize/customize-organization-colors.md)
         * [Select a Domain for Organization Website](administrator-documentation/administrator-reference/campus-management/group-tools/customize/select-a-domain-for-organization-website.md)
         * [Modify Custom Text](administrator-documentation/administrator-reference/campus-management/group-tools/customize/modify-custom-text.md)
         * [Create Custom Profile Fields](administrator-documentation/administrator-reference/campus-management/group-tools/customize/create-custom-profile-fields.md)

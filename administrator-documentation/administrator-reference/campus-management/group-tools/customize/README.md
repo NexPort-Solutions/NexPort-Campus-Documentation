@@ -17,8 +17,8 @@ On the <mark style="color:blue;">**Customize**</mark> page, you can do the follo
 [upload-an-image.md](upload-an-image.md)
 {% endcontent-ref %}
 
-{% content-ref url="customize-organization-colors.md" %}
-[customize-organization-colors.md](customize-organization-colors.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="select-a-domain-for-organization-website.md" %}

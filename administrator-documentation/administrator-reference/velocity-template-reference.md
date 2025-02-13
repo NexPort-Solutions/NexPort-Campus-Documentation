@@ -5,7 +5,7 @@ coverY: 0
 
 # Velocity Template Reference
 
-You are here: [Section Two: Administrator reference](Administration\_reference.htm) > Velocity Template Reference > Velocity User Guide
+You are here: [Section Two: Administrator reference](Administration_reference.htm) > Velocity Template Reference > Velocity User Guide
 
 ## **About this Guide** <a href="#about-this-guide" id="about-this-guide"></a>
 
@@ -41,7 +41,7 @@ Velocity is a template engine. It permits editors and content designers to refer
 >
 > In the example above, the variable is _$a_ and the value is _Velocity_. This variable, like all references, begins with the _$_ character. Values are always enclosed in quotes; with Velocity there is no confusion about data types, as only strings (text-based information) may be passed to variables.
 >
-> The following rule of thumb may be useful to better understand how Velocity works: **References begin with **_**$**_** and are used to get something. Directives begin with **_**#**_** and are used to do something.**
+> The following rule of thumb may be useful to better understand how Velocity works: **References begin with&#x20;**_**$**_**&#x20;and are used to get something. Directives begin with&#x20;**_**#**_**&#x20;and are used to do something.**
 >
 > In the example above, _#set_ is used to assign a value to a variable. The variable, _$a_, can then be used in the template to output "Velocity".
 
@@ -61,7 +61,7 @@ The _#_ character is followed by a directive, _set_. The _set_ directive uses an
 
 In the example above, the variable is _$a_ and the value is _Velocity_. This variable, like all references, begins with the _$_ character. Values are always enclosed in quotes; with Velocity there is no confusion about data types, as only strings (text-based information) may be passed to variables.
 
-The following rule of thumb may be useful to better understand how Velocity works: **References begin with **_**$**_** and are used to get something. Directives begin with **_**#**_** and are used to do something.**
+The following rule of thumb may be useful to better understand how Velocity works: **References begin with&#x20;**_**$**_**&#x20;and are used to get something. Directives begin with&#x20;**_**#**_**&#x20;and are used to do something.**
 
 In the example above, _#set_ is used to assign a value to a variable. The variable, _$a_, can then be used in the template to output "Velocity".
 
