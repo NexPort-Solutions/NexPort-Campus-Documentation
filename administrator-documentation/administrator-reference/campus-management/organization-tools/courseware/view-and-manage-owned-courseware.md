@@ -22,7 +22,31 @@ The manifest identification number is extracted from the manifest stored in the 
 In the <mark style="color:blue;">**Option**</mark> column, click the download link to download the original SCORM package.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/Screenshot 2024-01-03 145823.png>)
+![](../../../../../.gitbook/assets/OrganizationManagement_Courseware.png)
+
+#### Title
+
+This is the title of the course, pulled from the course manifest file.
+
+#### Manifest Id
+
+This is the unique identifier pulled from the course manifest file. When uploading a course,  the system will replace any existing course on the Owned tab with the same manifest id as the newly uploaded one.
+
+#### Uploaded
+
+This is the date the course was uploaded.
+
+#### Schema
+
+This is the schema for the course. Currently, this will either show up as SCORM12 or SCORM2004.
+
+#### Player Version
+
+This is the version of the courseware player currently installed with the course, specifically with courses made using NexPort Studio.
+
+#### Upload Status
+
+Keep track of the status of the courseare upload. The states are Uploaded, Unpackaging, Installing, Installed, and Failed. &#x20;
 
 #### Report Commit Log
 
@@ -31,5 +55,9 @@ Use the report commit log option to enable commit logging for this courseware. T
 #### Disable Exit Notice
 
 By default the course launcher will add a notice to the end of a course when LMSFinish is called. This notice can be disabled for courses that wish to use a custom notice.
+
+#### Use Async Api
+
+Use the async api option to allow courses to use asynchronous SCORM api calls. This is especially important for review mode when using SCORM 2004 courses made using Articulate or other authoring tools that expect API calls to be asynchronous. This setting is currently ignored for SCORM 1.2 courses.
 
 #### © NexPort Solutions 2022. All Rights Reserved.
