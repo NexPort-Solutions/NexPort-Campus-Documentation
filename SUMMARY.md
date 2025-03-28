@@ -1,6 +1,6 @@
 # Table of contents
 
-* [NEXPORT CAMPUS](README.md)
+* [NEXPORT CAMPUS!](README.md)
 
 ## Getting Started
 
