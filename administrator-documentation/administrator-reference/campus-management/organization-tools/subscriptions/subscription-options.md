@@ -42,7 +42,7 @@ Click on the drop-down menu to view the available statuses. A status must be ena
 
 ## <mark style="color:blue;">Configuring the Status Changes</mark>
 
-Automatic status changes can be configured for each Status listed in the Subscription Workflow Editor by clicking on the Details icon <img src="../../../../../.gitbook/assets/image.png" alt="" data-size="line"> on the right side of the Status row.
+Automatic status changes can be configured for each Status listed in the Subscription Workflow Editor by clicking on the Details icon <img src="../../../../../.gitbook/assets/image (57).png" alt="" data-size="line"> on the right side of the Status row.
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-19 at 2.02.02 PM.png" alt=""><figcaption><p>The Edit Status Changes dialog box</p></figcaption></figure>
 

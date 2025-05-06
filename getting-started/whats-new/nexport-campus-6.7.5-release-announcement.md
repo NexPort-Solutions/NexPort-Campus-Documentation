@@ -18,7 +18,7 @@ NexPort Solutions proudly unveils Version 6.7.5 of NexPort Campus, delivering ta
 *   **Administrator Insight**: Enrollment administrators are provided with a comprehensive view of the prerequisite framework for each training plan, enabling better support and guidance for students navigating their educational pathways.\
 
 
-    <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Prerequisites visible from the Academic Override Area</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (57) (1).png" alt=""><figcaption><p>Prerequisites visible from the Academic Override Area</p></figcaption></figure>
 
 **Key Bug Fixes and Improvements**
 

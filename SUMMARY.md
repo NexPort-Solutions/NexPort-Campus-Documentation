@@ -232,6 +232,7 @@
         * [Modify an Authorization Provider](administrator-documentation/administrator-reference/campus-management/organization-tools/remote-authorization-providers/modify-an-authorization-provider.md)
         * [View Nmls Authorization Provider Integration Details](administrator-documentation/administrator-reference/campus-management/organization-tools/remote-authorization-providers/view-nmls-authorization-provider-integration-details.md)
         * [Delete an Authorization Provider](administrator-documentation/administrator-reference/campus-management/organization-tools/remote-authorization-providers/delete-an-authorization-provider.md)
+      * [Proctors](administrator-documentation/administrator-reference/campus-management/organization-tools/proctors.md)
   * [User Management](administrator-documentation/administrator-reference/user-management/README.md)
     * [View and Search User Listing](administrator-documentation/administrator-reference/user-management/view-and-search-user-listing.md)
     * [Add a User](administrator-documentation/administrator-reference/user-management/add-a-user.md)

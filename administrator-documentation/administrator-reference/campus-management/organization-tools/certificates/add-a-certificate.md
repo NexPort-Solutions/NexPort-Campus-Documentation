@@ -46,7 +46,7 @@ HTML Certificate Template Custom Fields can only have letters or numbers as <mar
 
 You can also add custom enrollment fields that are defined in an organization by replacing CUSTOMFIELDKEY with the key that is defined in Manage Campus -> Customize -> Custom Enrollment Fields or Custom Profile Fields<mark style="color:blue;">**.**</mark>
 
-![Manage Campus -> Customize -> Custom Enrollment Fields or Custom Profile Fields](<../../../../../.gitbook/assets/image (1) (1).png>)
+![Manage Campus -> Customize -> Custom Enrollment Fields or Custom Profile Fields](<../../../../../.gitbook/assets/image (1) (1) (2).png>)
 
 ![Search "custom" for Custom Enrollment Fields and Custom Profile Fields (ExtendedProfile)](<../../../../../.gitbook/assets/image (8) (1).png>)
 
