@@ -23,15 +23,15 @@ The custom profile field can be defined as one of several different types. They 
 
 ## **To add a custom profile field**
 
-<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Profile Fields**</mark>.\\
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Profile Fields**</mark>.
 
-![](<../../../../../.gitbook/assets/Custom\_Profile\_Fields\_Add button\_550x63.png>)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 182733.png>)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Add\_CustomProfile (2).png>) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 184235.png>) icon.
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Add Profile Field**</mark> dialog box is displayed.
 
-![](../../../../../.gitbook/assets/Custom\_Profile\_Fields\_Add.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 183510.png>)
 
 <mark style="color:blue;">**Step 4:**</mark> In the <mark style="color:blue;">**Key**</mark> box, type the key.
 
@@ -55,9 +55,9 @@ The custom profile question gets added to the <mark style="color:blue;">**Extend
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Profile Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark> Click <mark style="color:blue;">**Optional**</mark> next to custom profile field.
+<mark style="color:blue;">**Step 2:**</mark> Click <mark style="color:blue;">**Required**</mark> next to custom profile field.
 
-![](../../../../../.gitbook/assets/Cutom\_profile\_field\_optional\_550x89.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 183558.png>)
 
 <mark style="color:blue;">**Step 3:**</mark> The text changes to <mark style="color:blue;">**Required**</mark> and the custom profile field becomes mandatory for response.
 
@@ -65,9 +65,9 @@ The custom profile question gets added to the <mark style="color:blue;">**Extend
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Profile Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Edit\_CustomProfile.png) icon next to custom profile field.
+<mark style="color:blue;">**Step 2:**</mark> Click <mark style="color:blue;">**Edit**</mark> next to custom profile field.
 
-![](../../../../../.gitbook/assets/Custom\_Profile\_Fields\_Edit\_550x81.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 182733 (4).png>)
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Edit Profile Field**</mark> dialog box is displayed.
 
@@ -83,9 +83,9 @@ The custom profile question also gets updated from the <mark style="color:blue;"
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration > Manage Campus > Group Tools > Customize > Custom Profile Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Delete\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click <mark style="color:blue;">**Delete**</mark>.
 
-![](../../../../../.gitbook/assets/Custom\_Profile\_Fields\_Delete\_550x81.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 182733 (3).png>)
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Confirm Deletion**</mark> dialog box is displayed.
 
