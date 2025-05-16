@@ -3,7 +3,7 @@
 ## Intended Audience
 
 * Campus Administrators
-* Instructors with Group Management Permissions
+* Instructors with Org/Group Management Permissions
 
 ***
 
