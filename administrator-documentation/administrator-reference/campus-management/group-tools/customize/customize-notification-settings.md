@@ -84,17 +84,7 @@ To suppress delivery for this notification, check **Disable Notifications**.
 
 Below is a list of commonly used notification types and their purposes:
 
-| Notification Event                       | Description                                       | Recipient      | Editable |
-| ---------------------------------------- | ------------------------------------------------- | -------------- | -------- |
-| Student submits writing assignment       | Confirms that the student submitted an assignment | Student        | Yes      |
-| Instructor requires writing resubmission | Notifies student that a revision is required      | Student        | Yes      |
-| Instructor provides feedback             | Informs student that feedback has been posted     | Student        | Yes      |
-| Instructor grades writing assignment     | Sends grade and comments to the student           | Student        | Yes      |
-| Student submits student input assignment | Acknowledges submission of a self-report form     | Student        | Yes      |
-| Panelist is invited to a meeting         | Invitation email for a panel or event             | Panelist       | Yes      |
-| Welcome letter sent to new subscribers   | Sends onboarding and orientation information      | Student/Member | Yes      |
-| Student receives certificate             | Notifies of earned certificate with download link | Student        | Yes      |
-| Message to users when confirming email   | Verifies email address ownership                  | User           | Yes      |
+<table data-header-hidden><thead><tr><th></th><th></th><th></th><th width="95"></th></tr></thead><tbody><tr><td>Notification Event</td><td>Description</td><td>Recipient</td><td>Editable</td></tr><tr><td>Student submits writing assignment</td><td>Confirms submission of a writing assignment, letting the student know it was successfully received.</td><td>Student</td><td>Yes</td></tr><tr><td>Instructor requires writing resubmission</td><td>Informs the student that the submitted assignment requires revisions and must be resubmitted.</td><td>Student</td><td>Yes</td></tr><tr><td>Instructor provides feedback</td><td>Alerts the student that instructor feedback is available for a submitted assignment.</td><td>Student</td><td>Yes</td></tr><tr><td>Instructor grades writing assignment</td><td>Notifies the student of the official grade along with any scoring criteria or comments.</td><td>Student</td><td>Yes</td></tr><tr><td>Student submits student input assignment</td><td>Acknowledges submission of an input-type assignment, such as a survey.</td><td>Student</td><td>Yes</td></tr><tr><td>Panelist is invited to a meeting</td><td>Sends an invitation with event details to a panelist, typically for live review sessions.</td><td>Panelist</td><td>Yes</td></tr><tr><td>Welcome letter sent to new subscribers</td><td>Sends a welcome email with account info, orientation resources, and how to get started.</td><td>Student/Member</td><td>Yes</td></tr><tr><td>Student receives certificate</td><td>Notifies the student that they have successfully completed training and can access their certificate.</td><td>Student</td><td>Yes</td></tr><tr><td>Message to users when confirming email</td><td>Verifies a user's email address during initial registration or profile updates.</td><td>User</td><td>Yes</td></tr></tbody></table>
 
 ## Troubleshooting
 
