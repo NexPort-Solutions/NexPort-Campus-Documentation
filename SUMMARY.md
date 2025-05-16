@@ -101,6 +101,7 @@
         * [Create Custom Profile Fields](administrator-documentation/administrator-reference/campus-management/group-tools/customize/create-custom-profile-fields.md)
         * [Create Custom Enrollment Fields](administrator-documentation/administrator-reference/campus-management/group-tools/customize/create-custom-enrollment-fields.md)
         * [Customize Welcome Letter Template](administrator-documentation/administrator-reference/campus-management/group-tools/customize/customize-welcome-letter-template.md)
+        * [Customize Notification Settings](administrator-documentation/administrator-reference/campus-management/group-tools/customize/customize-notification-settings.md)
         * [Customize General Settings](administrator-documentation/administrator-reference/campus-management/group-tools/customize/customize-general-settings/README.md)
           * [Google Analytics](administrator-documentation/administrator-reference/campus-management/group-tools/customize/customize-general-settings/google-analytics.md)
       * [Documents (Admin)](administrator-documentation/administrator-reference/campus-management/group-tools/documents-admin/README.md)
