@@ -31,13 +31,13 @@ The custom enrollment field can be saved as different type fields, they are as f
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-![](../../../../../.gitbook/assets/Custom\_Enrollment\_Field\_550x90.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 092617.png>)
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Add\_CustomProfile (2).png>) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-16 184235.png>) icon.
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Add Enrollment Field**</mark> dialog box is displayed.
 
-![](../../../../../.gitbook/assets/Add\_Enrollment\_Field\_box.png)\\
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 092923.png>)\\
 
 <mark style="color:blue;">**Step 4:**</mark> In the <mark style="color:blue;">**Key**</mark> box, type the key.
 
@@ -57,17 +57,17 @@ The key can only contain letters, numbers, and underscores, and must not start w
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Setting\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 093219.png>) icon.
 
-![](../../../../../.gitbook/assets/Custom\_Enrollment\_Fields\_Settings\_550x88.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 093034.png>)
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Enrollment Field Settings**</mark> dialog box is displayed.
 
-![](../../../../../.gitbook/assets/Enrollment\_Field\_Settings\_509x186.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 093248.png>)
 
-<mark style="color:blue;">**Step 4:**</mark> Click the ![](../../../../../.gitbook/assets/Edit\_CustomProfile.png) icon.
+<mark style="color:blue;">**Step 4:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 093300.png>) icon.
 
-<mark style="color:blue;">**Step 5:**</mark> In the <mark style="color:blue;">**Default Value**</mark> list, click the value.
+<mark style="color:blue;">**Step 5:**</mark> In the <mark style="color:blue;">**Default Value**</mark> list, enter the value.
 
 <mark style="color:blue;">**Step 6:**</mark> Select the <mark style="color:blue;">**Is Required**</mark> check box to make the response mandatory.
 
@@ -81,13 +81,13 @@ Below Syllabus refers to either a Section OR a Training Plan.&#x20;
 
 <mark style="color:blue;">**Step 1:**</mark> Place the cursor in the <mark style="color:blue;">**Type a syllabus**</mark> title.
 
-![](../../../../../.gitbook/assets/Enrollment\_Field\_Setttings\_Syllabus.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 093551.png>)
 
 <mark style="color:blue;">**Step 2:**</mark> The syllabus title list is displayed.
 
 <mark style="color:blue;">**Step 3:**</mark> Select the syllabus title for which you need to change the settings.
 
-<mark style="color:blue;">**Step 4:**</mark> Click the ![](<../../../../../.gitbook/assets/Add\_CustomProfile (2).png>) icon.
+<mark style="color:blue;">**Step 4:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 093932.png>) icon.
 
 <mark style="color:blue;">**Step 5:**</mark> In the <mark style="color:blue;">**Default Value**</mark> list, click the value.
 
@@ -103,9 +103,9 @@ You can repeat these steps for other syllabus.
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Edit\_CustomProfile.png) icon next to custom enrollment field.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 094101.png>) icon next to custom enrollment field.
 
-![](../../../../../.gitbook/assets/Custom\_Enrollment\_Fields\_Edit\_550x87.png)
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 094122.png>)
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Edit Enrollment**</mark> Field dialog box is displayed.
 
@@ -117,9 +117,9 @@ You can repeat these steps for other syllabus.
 
 <mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Custom Enrollment Fields**</mark>.
 
-<mark style="color:blue;">**Step 2:**</mark> Click the ![](../../../../../.gitbook/assets/Delete\_CustomProfile.png) icon next to custom enrollment field.
+<mark style="color:blue;">**Step 2:**</mark> Click the ![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 150839.png>) icon next to custom enrollment field.
 
-![](../../../../../.gitbook/assets/Custom\_Enrollment\_Fields\_Delete\_550x89.png)\\
+![](<../../../../../.gitbook/assets/Screenshot 2025-05-19 150802.png>)\\
 
 <mark style="color:blue;">**Step 3:**</mark> The <mark style="color:blue;">**Confirm Deletion**</mark> dialog box is displayed.
 
