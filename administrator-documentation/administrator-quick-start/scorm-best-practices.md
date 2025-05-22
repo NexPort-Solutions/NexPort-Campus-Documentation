@@ -18,9 +18,11 @@ NexPort Campus allows content developers to import SCORM 1.2 and SCORM 2004 pack
 
 <summary>All Courseware</summary>
 
-## Set _cmi.core.lesson\_status_ Immediately
+## Set _Lesson Status_ Immediately
 
-According to the SCORM specification, _cmi.core.lesson\_status_ will be set to _**completed**_ if a Sharable Content Object (SCO) finishes without setting the status on the first launch. NexPort Campus obeys this behavior. If a SCO fails to set the lesson\_status during the initial attempt by a student and the student exits the SCO then NexPort Campus will set the status to completed.
+According to the **SCORM 1.2 specification**, _cmi.core.lesson\_status_ will be set to _**completed**_ if a Sharable Content Object (SCO) finishes without setting the status on the first launch. NexPort Campus obeys this behavior. If a SCO fails to set the lesson\_status during the initial attempt by a student and the student exits the SCO then NexPort Campus will set the status to completed.
+
+For SCORM 2004 this behavior is less specific. It's still a good idea to set the _cmi.completion\_status_ immediately upon launch to in progress.
 
 If this is the desired behavior then the SCO should do nothing. If your SCO intends to set the _cmi.core.lesson\_status_ itself you should make sure it is set to "_incomplete_" immediately after the SCO calls LmsInitialize() or Initialize() (SCORM 2004).
 
