@@ -16,7 +16,7 @@ Instructors can ask a student to resubmit input assignments as many times as req
 
 The following image illustrates the student input assignment type.
 
-<figure><img src="../../../../../.gitbook/assets/instructor_studentinput.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/instructor_studentinput.png" alt=""><figcaption></figcaption></figure>
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage student input assignment.
 

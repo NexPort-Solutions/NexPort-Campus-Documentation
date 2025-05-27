@@ -16,7 +16,7 @@ The test assignments can be set as either graded or ungraded assignments. Test q
 
 The following image illustrates the test assignment type.
 
-<figure><img src="../../../../../.gitbook/assets/instructor_test.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/instructor_test.png" alt=""><figcaption></figcaption></figure>
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage test assignment.
 

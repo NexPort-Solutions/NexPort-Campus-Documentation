@@ -14,11 +14,11 @@ Currently, NexPort supports any video format, which is transcoded to MP4 so it w
 
 ## The Media Assignment Type
 
-<figure><img src="../../../../../.gitbook/assets/instructor_media.png" alt=""><figcaption><p>Edit/Create Media Assignment dialog</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/instructor_media.png" alt=""><figcaption><p>Edit/Create Media Assignment dialog</p></figcaption></figure>
 
 
 
-<figure><img src="../../../../../.gitbook/assets/instructor_mediapicker.png" alt=""><figcaption><p>Select Media dialog</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/instructor_mediapicker.png" alt=""><figcaption><p>Select Media dialog</p></figcaption></figure>
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage media assignment.
 

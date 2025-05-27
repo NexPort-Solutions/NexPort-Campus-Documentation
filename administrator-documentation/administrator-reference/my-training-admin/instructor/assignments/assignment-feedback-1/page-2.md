@@ -13,7 +13,7 @@ You are here: [My Training](../../../) > [Instructor](../../) > [Assignment Type
 
 ## The Discussion Assignment Type
 
-<figure><img src="../../../../../.gitbook/assets/instructor_discussion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/instructor_discussion.png" alt=""><figcaption></figcaption></figure>
 
 The following table provides explanation for the user inputs that are required for the various sections and fields to manage discussion assignment.
 

@@ -31,8 +31,8 @@ For more information about various types of assignments:
 
 On the **Sections** page, you can do the following:
 
-{% content-ref url="../../../../my-training-admin/instructor/view-and-search-sections.md" %}
-[view-and-search-sections.md](../../../../my-training-admin/instructor/view-and-search-sections.md)
+{% content-ref url="../../../my-training-admin/instructor/view-and-search-sections.md" %}
+[view-and-search-sections.md](../../../my-training-admin/instructor/view-and-search-sections.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-a-section.md" %}

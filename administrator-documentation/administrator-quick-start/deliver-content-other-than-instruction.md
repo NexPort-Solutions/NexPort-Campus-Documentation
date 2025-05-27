@@ -13,12 +13,12 @@ After you have organized a campus and created instructional content for students
 You can share documents, images, video, and other files through a bookshelf. A bookshelf is a virtual storage area where you can upload, organize, and share various learning resources. You can upload documents, images, videos, audio files, and webpages under appropriate subfolders in a bookshelf.
 
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Documents** > **Browse**.
-2. Click the ![](/.gitbook/assets/Bookshelf.png) icon, type the values, and then click **Save**.
+2. Click the ![](../../.gitbook/assets/Bookshelf.png) icon, type the values, and then click **Save**.
 
 #### For more information about adding a bookshelf.
 
-{% content-ref url="../documents-admin.md" %}
-[documents-admin.md](../documents-admin.md)
+{% content-ref url="../administrator-reference/documents-admin.md" %}
+[documents-admin.md](../administrator-reference/documents-admin.md)
 {% endcontent-ref %}
 
 ## **To share a bookshelf**
@@ -27,14 +27,14 @@ Bookshelves must be shared to groups before they are visible to students. When a
 
 1. Click **Administration** > **Manage Campus** > **Group Tools** > **Documents** > **Browse**.
 2. In the bookshelf list, select the bookshelf to share.
-3. Click the ![](/.gitbook/assets/Share_Bookshelf.png) icon.
+3. Click the ![](../../.gitbook/assets/Share_Bookshelf.png) icon.
 4. In the organization list, select the check box next to the organization, sub-organization, group, or subgroup.
 5. Click to **Shared** or **Shared With New Descendants**.
 
 #### For more information about sharing a bookshelf.
 
-{% content-ref url="../documents-admin.md" %}
-[documents-admin.md](../documents-admin.md)
+{% content-ref url="../administrator-reference/documents-admin.md" %}
+[documents-admin.md](../administrator-reference/documents-admin.md)
 {% endcontent-ref %}
 
 ## How to share a page <a href="#how2" id="how2"></a>
@@ -58,4 +58,4 @@ Advanced administrators pages also allow for dynamic content using the [Velocity
 [share-pages](../administrator-reference/campus-management/group-tools/share-pages/)
 {% endcontent-ref %}
 
-#### &#x20;© NexPort Solutions 2022. All Rights Reserved.
+#### © NexPort Solutions 2022. All Rights Reserved.

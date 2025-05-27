@@ -23,21 +23,21 @@ You can view the existing list of sections for a organization in which you are a
 
 For more information about various types of assignments, see:
 
-{% content-ref url="../../administrator-reference/campus-management/group-tools/sections/types-of-assignments/" %}
-[types-of-assignments](../../administrator-reference/campus-management/group-tools/sections/types-of-assignments/)
+{% content-ref url="../../campus-management/group-tools/sections/types-of-assignments/" %}
+[types-of-assignments](../../campus-management/group-tools/sections/types-of-assignments/)
 {% endcontent-ref %}
 
 ## **To view the section listing**
 
 * Click **My Training (My Campus)** > Instructor.
 * The **Instructor** page is displayed.
-* ![](../../../.gitbook/assets/Instructor\_550x227.png)
+* ![](../../../../.gitbook/assets/Instructor_550x227.png)
 
 ## **To search for a specific section:**
 
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
-3. ![](../../../.gitbook/assets/Instructor\_Search\_550x227.png)
+3. ![](../../../../.gitbook/assets/Instructor_Search_550x227.png)
 4. In the **Search** box, type the first few characters of a section that you want to search.
 5. Click **Search**.
 6. NexPort Campus populates matching results.
@@ -47,8 +47,8 @@ For more information about various types of assignments, see:
 1. Click **My Training (My Campus)** > **Instructor**.
 2. The **Instructor** page is displayed.
 3. In the **Section** column, click the section name you need to access.
-4. ![](../../../.gitbook/assets/Instructor\_Access\_550x227.png)
+4. ![](../../../../.gitbook/assets/Instructor_Access_550x227.png)
 5. The **Instructing: <\<Section name>>** page is displayed.
-6. ![](../../../.gitbook/assets/Instructing\_page\_550x287.png)
+6. ![](../../../../.gitbook/assets/Instructing_page_550x287.png)
 
 #### © NexPort Solutions. All Rights Reserved.

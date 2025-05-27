@@ -4,7 +4,7 @@ cover: .gitbook/assets/Untitled-1-01.png
 coverY: 0
 ---
 
-# NEXPORT CAMPUS
+# NEXPORT CAMPUS!
 
 ## Web Based Learning Management Platform
 
@@ -94,8 +94,8 @@ Help documentation for students on the NexPort Learning Management Platform.
 
 Help documentation for organization administrators on the Nexport Learning Management Platform.&#x20;
 
-{% content-ref url="administrator-documentation/campus-webapi.md" %}
-[campus-webapi.md](administrator-documentation/campus-webapi.md)
+{% content-ref url="developer-documentation/campus-webapi.md" %}
+[campus-webapi.md](developer-documentation/campus-webapi.md)
 {% endcontent-ref %}
 
 {% content-ref url="administrator-documentation/administrator-quick-start/" %}
@@ -106,20 +106,20 @@ Help documentation for organization administrators on the Nexport Learning Manag
 [administrator-reference](administrator-documentation/administrator-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="administrator-documentation/my-training-admin/" %}
-[my-training-admin](administrator-documentation/my-training-admin/)
+{% content-ref url="administrator-documentation/administrator-reference/my-training-admin/" %}
+[my-training-admin](administrator-documentation/administrator-reference/my-training-admin/)
 {% endcontent-ref %}
 
-{% content-ref url="administrator-documentation/my-events-admin.md" %}
-[my-events-admin.md](administrator-documentation/my-events-admin.md)
+{% content-ref url="administrator-documentation/administrator-reference/my-events-admin.md" %}
+[my-events-admin.md](administrator-documentation/administrator-reference/my-events-admin.md)
 {% endcontent-ref %}
 
-{% content-ref url="administrator-documentation/my-community-admin.md" %}
-[my-community-admin.md](administrator-documentation/my-community-admin.md)
+{% content-ref url="administrator-documentation/administrator-reference/my-community-admin.md" %}
+[my-community-admin.md](administrator-documentation/administrator-reference/my-community-admin.md)
 {% endcontent-ref %}
 
-{% content-ref url="administrator-documentation/documents-admin.md" %}
-[documents-admin.md](administrator-documentation/documents-admin.md)
+{% content-ref url="administrator-documentation/administrator-reference/documents-admin.md" %}
+[documents-admin.md](administrator-documentation/administrator-reference/documents-admin.md)
 {% endcontent-ref %}
 
 {% content-ref url="administrator-documentation/faqs.md" %}

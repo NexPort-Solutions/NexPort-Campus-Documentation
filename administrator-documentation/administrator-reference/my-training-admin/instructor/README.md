@@ -10,8 +10,8 @@ From the <mark style="color:blue;">**Instructor**</mark> tab, you can assign ass
 
 On the <mark style="color:blue;">**Instructor**</mark> page, you can do the following:
 
-{% content-ref url="../../administrator-reference/campus-management/group-tools/sections/view-and-search-section.md" %}
-[view-and-search-section.md](../../administrator-reference/campus-management/group-tools/sections/view-and-search-section.md)
+{% content-ref url="../../campus-management/group-tools/sections/view-and-search-section.md" %}
+[view-and-search-section.md](../../campus-management/group-tools/sections/view-and-search-section.md)
 {% endcontent-ref %}
 
 {% content-ref url="assignments/" %}

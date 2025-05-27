@@ -18,6 +18,6 @@ On the **Instructing: <\<Section name>>** page, you can provide feedback for the
 * [Test assignment](assignment-feedback-1/page-8.md)
 * [Writing assignment](assignment-feedback-1/page-9.md)
 
-![Related Topics Link Icon](../../../../.gitbook/assets/void.png)Related Topics
+![Related Topics Link Icon](../../../../../.gitbook/assets/void.png)Related Topics
 
 © NexPort Solutions 2017. All Rights Reserved.
