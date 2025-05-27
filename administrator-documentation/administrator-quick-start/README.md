@@ -12,8 +12,8 @@ NexPort Campus provides an end-to-end, integrated learning management solution. 
 
 The following are the primary administration functions.
 
-{% content-ref url="set-up-your-campus.md" %}
-[set-up-your-campus.md](set-up-your-campus.md)
+{% content-ref url="set-up-your-campus/" %}
+[set-up-your-campus](set-up-your-campus/)
 {% endcontent-ref %}
 
 {% content-ref url="adding-users-subscribers-and-members.md" %}

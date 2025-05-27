@@ -72,7 +72,8 @@
 ## ADMINISTRATOR DOCUMENTATION
 
 * [Administrator Quick Start](administrator-documentation/administrator-quick-start/README.md)
-  * [Set Up Your Campus](administrator-documentation/administrator-quick-start/set-up-your-campus.md)
+  * [Set Up Your Campus](administrator-documentation/administrator-quick-start/set-up-your-campus/README.md)
+    * [Scalable Courseware Delivery with NexPort](administrator-documentation/administrator-quick-start/set-up-your-campus/scalable-courseware-delivery-with-nexport.md)
   * [Adding Users, Subscribers and Members](administrator-documentation/administrator-quick-start/adding-users-subscribers-and-members.md)
   * [Set Up Roles and Permissions](administrator-documentation/administrator-quick-start/set-up-roles-and-permissions.md)
   * [Distribute Instructional Content](administrator-documentation/administrator-quick-start/distribute-instructional-content.md)
