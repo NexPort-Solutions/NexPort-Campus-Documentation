@@ -1,5 +1,5 @@
 ---
-description: You can create a custom login message to communicate with the students.
+description: You can create a custom welcome message to communicate with the students.
 cover: ../../../../../.gitbook/assets/Untitled-1-01.png
 coverY: 0
 ---
@@ -10,19 +10,23 @@ You can create a welcome letter to be sent to new subscribers. The body of the w
 
 ## **To customize the welcome letter**
 
-<mark style="color:blue;">**Step 1:**</mark>  Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Customize**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Welcome Letter**</mark>.
+<mark style="color:blue;">**Step 1:**</mark> Click <mark style="color:blue;">**Administration**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Manage Campus**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Group Tools**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Customize**</mark> <mark style="color:blue;">></mark> <mark style="color:blue;">**Notification Settings**</mark> area.
 
-![](/.gitbook/assets/Welcome_Letter_550x239.png)
+<figure><img src="../../../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**Step 2:**</mark>  In the <mark style="color:blue;">**Subject Template**</mark> box, type the subject for the welcome letter.
+<mark style="color:blue;">**Step 2:**</mark> In the <mark style="color:blue;">**All emails sent**</mark> dropdown, select <mark style="color:blue;">**Welcome letter sent to new subscribers**</mark>. Click the <mark style="color:blue;">**Override**</mark> button to activate the text area.
 
-<mark style="color:blue;">**Step 3:**</mark>  In the <mark style="color:blue;">**Body Template box**</mark>, type a welcome message.
+<mark style="color:blue;">**Step 3:**</mark> In the <mark style="color:blue;">**Template Subject**</mark> box, type the subject for the welcome letter.
 
-<mark style="color:blue;">**Step 4:**</mark>  The Rich Text Editor allows to format the text, upload images, create table, add hyperlinks, insert code snippet, and other Rich Text Editor features.
+<mark style="color:blue;">**Step 4:**</mark> In the <mark style="color:blue;">**Template Body box**</mark>, type a welcome message.
 
-<mark style="color:blue;">**Step 5:**</mark>  In the <mark style="color:blue;">**Custom Email**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">‘</mark><mark style="color:blue;">**From**</mark><mark style="color:blue;">’</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Address**</mark> box, type the email address.
+<mark style="color:blue;">**Step 5:**</mark> The Rich Text Editor allows to format the text, upload images, create table, add hyperlinks, insert code snippet, and other Rich Text Editor features.
 
-<mark style="color:blue;">**Step 6:**</mark>  Click <mark style="color:blue;">**Save**</mark>. The welcome letter template details are updated and saved.
+<mark style="color:blue;">**Step 6:**</mark> In the <mark style="color:blue;">**Sender**</mark> <mark style="color:blue;">**Address**</mark> box, type the email address you would like it sent from or you can leave it blank to be sent from your selected support user.
+
+<mark style="color:blue;">**Step 7:**</mark> Click <mark style="color:blue;">**Save**</mark>. The welcome letter template details are updated and saved.
+
+If you would like to prevent welcome letters from being sent, check the <mark style="color:blue;">**Disable Notifications**</mark> checkbox. Also, the welcome letters will not be sent if the template body is empty.
 
 #### The following is the list of available VTL properties that are used in the welcome letter.
 
@@ -65,10 +69,10 @@ You can create a welcome letter to be sent to new subscribers. The body of the w
 
 #### The following is the list of available VTL properties for miscellaneous.
 
-| Properties | Description                                                    |
-| ---------- | -------------------------------------------------------------- |
-| `$Notes`   | The notes provided in the spreadsheet.                         |
-| `$Cc`      | The list of emails that the letter are carbon copied to.       |
-| `$Bcc`     | The list of emails that the letter are blind carbon copied to. |
+| Properties | Description                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------- |
+| `$Notes`   | The notes provided in the spreadsheet.                                                              |
+| `$Cc`      | The list of emails that the letter are carbon copied to if using the user upload spreadsheet.       |
+| `$Bcc`     | The list of emails that the letter are blind carbon copied to if using the user upload spreadsheet. |
 
 #### © NexPort Solutions 2022. All Rights Reserved.
