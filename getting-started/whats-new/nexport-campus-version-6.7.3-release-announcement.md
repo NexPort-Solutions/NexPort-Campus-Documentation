@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # NexPort Campus Version 6.7.3 Release Announcement
 
 ### **NexPort Campus 6.7.3: Focused Improvements for a Superior Experience** <a href="#nexport-campus-6-7-3-focused-improvements-for-a-superior-experience" id="nexport-campus-6-7-3-focused-improvements-for-a-superior-experience"></a>

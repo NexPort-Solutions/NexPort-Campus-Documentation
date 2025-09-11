@@ -300,4 +300,14 @@
 
 ## Developer Documentation
 
-* [Campus WebAPI](developer-documentation/campus-webapi.md)
+* [Campus WebAPI](developer-documentation/campus-webapi/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: true
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: nexport-solutions-api
+    ```

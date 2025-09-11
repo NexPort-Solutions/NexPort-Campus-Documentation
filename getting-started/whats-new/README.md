@@ -2,20 +2,6 @@
 description: Release Notes and other news about NexPort Campus.
 cover: ../../.gitbook/assets/2b7c7cb4-7c3e-4e15-aeaa-82bbac322c52.webp
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # What's New?

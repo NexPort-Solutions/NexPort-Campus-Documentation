@@ -94,8 +94,8 @@ Help documentation for students on the NexPort Learning Management Platform.
 
 Help documentation for organization administrators on the Nexport Learning Management Platform.&#x20;
 
-{% content-ref url="developer-documentation/campus-webapi.md" %}
-[campus-webapi.md](developer-documentation/campus-webapi.md)
+{% content-ref url="developer-documentation/campus-webapi/" %}
+[campus-webapi](developer-documentation/campus-webapi/)
 {% endcontent-ref %}
 
 {% content-ref url="administrator-documentation/administrator-quick-start/" %}
