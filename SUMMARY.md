@@ -312,4 +312,4 @@
           spec: nexport-solutions-api
     ```
   * [Workflows](developer-documentation/campus-webapi/workflows/README.md)
-    * [Page 1](developer-documentation/campus-webapi/workflows/page-1.md)
+    * [NexPort Point of Sale (PoS) Workflow](developer-documentation/campus-webapi/workflows/nexport-point-of-sale-pos-workflow.md)

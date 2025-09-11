@@ -1,6 +1,4 @@
-# Page 1
-
-## NexPort Point of Sale (PoS) Workflow
+# NexPort Point of Sale (PoS) Workflow
 
 This workflow describes how a partner **frontend application** (any e-commerce site, LMS portal, or marketplace capable of displaying a storefront and processing payments) integrates with the NexPort PoS API to process course purchases, payments, and redemptions.
 
