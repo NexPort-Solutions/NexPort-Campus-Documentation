@@ -311,3 +311,5 @@
           kind: openapi
           spec: nexport-solutions-api
     ```
+  * [Workflows](developer-documentation/campus-webapi/workflows/README.md)
+    * [Page 1](developer-documentation/campus-webapi/workflows/page-1.md)
