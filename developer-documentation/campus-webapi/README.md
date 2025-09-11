@@ -18,16 +18,5 @@ The NexPort Campus Web API is secure and is a JavaScript Object Notation (JSON) 
 
 You can access the NexPort Campus Web API through NexPort Campus.
 
-<mark style="color:blue;">**Step 1:**</mark> In the lower-left side of the NexPort Campus click <mark style="color:blue;">**About**</mark>\*\* \*\* to bring up the <mark style="color:blue;">**About**</mark> dialog box.
+<a href="https://www.nexportcampus.com/api/ui/index" class="button primary" data-icon="webhook">View the Web API Documentation Online</a>
 
-![](../../.gitbook/assets/About_550x74.png)
-
-<mark style="color:blue;">**Step 2:**</mark> Click the <mark style="color:blue;">**System Information**</mark> tab, and then click the <mark style="color:blue;">**Web Api Documentation**</mark> link.
-
-![](../../.gitbook/assets/System_Information_550x308.png)
-
-**Step 3:** The NexPort Campus API page is displayed.
-
-![](../../.gitbook/assets/Swagger_URL_550x328.png)
-
-#### © NexPort Solutions 2022. All Rights Reserved.
