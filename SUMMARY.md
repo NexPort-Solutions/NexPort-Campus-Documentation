@@ -19,6 +19,7 @@
   * [NexPort Campus v6.6.8 Release Notes](getting-started/whats-new/nexport-campus-v6.6.8-release-notes.md)
   * [NexPort Campus v6.6.7 Release Notes](getting-started/whats-new/nexport-campus-v6.6.7-release-notes.md)
   * [NexPort Campus v6.6.5 Release Notes](getting-started/whats-new/nexport-campus-v6.6.5-release-notes.md)
+  * [NexPort Campus 6.7.9 Release Announcement](getting-started/whats-new/nexport-campus-6.7.9-release-announcement.md)
 * [Ensuring Trust and Security: Why SOC2 Compliance is Vital for an LMS](getting-started/ensuring-trust-and-security-why-soc2-compliance-is-vital-for-an-lms.md)
 * [Access NexPort Campus](getting-started/access-nexport-campus.md)
 * [System Requirements](getting-started/system-requirements.md)
