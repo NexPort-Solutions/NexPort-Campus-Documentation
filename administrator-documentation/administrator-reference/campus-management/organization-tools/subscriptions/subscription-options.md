@@ -50,11 +50,15 @@ When the Edit Status Changes dialog box appears, any existing status changes wil
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-19 at 2.03.09 PM.png" alt=""><figcaption><p>The Edit Status Changes dialog box show a list of change events.</p></figcaption></figure>
 
-When adding a new status change there will be an option of two triggers for the change.
+When adding a new status change the administrator can choose from the following trigger types:
 
-> <mark style="color:blue;">**First Enrollment Activity**</mark>: this event is triggered when the first activity of a new enrollment occurs.
+> <mark style="color:blue;">**First Enrollment Activity**</mark>: fires the first time any linked enrollment records activity (launching a course, submitting an assignment, etc.).
 >
-> <mark style="color:blue;">**All Enrollment Passed**</mark>: this event is triggered when all enrollments have been passed.
+> <mark style="color:blue;">**All Enrollments Passed**</mark>: fires after every enrollment tied to the subscription has reached a passed/completed state.
+>
+> <mark style="color:blue;">**Inactivity Threshold Reached**</mark>: fires when a learner has gone the specified number of days without any assignment activity. Use this to move long–inactive students into statuses such as “Active‑NP” automatically.
+
+Selecting **Inactivity Threshold Reached** reveals an additional **Threshold (days)** field. Enter the number of inactive days that should elapse before the status transition occurs. The scheduler examines assignment activity nightly (or on the cadence configured by your administrator) and transitions any subscriptions whose current status matches the trigger’s **From** status and exceed the threshold. If a learner returns and records new assignment activity, the built-in **Assignment Activity Recorded** trigger can return them to an “Active” status.
 
 Next select whether you want the Status Change to begin Enabled or disabled. ( this can be changed at any time by coming back to the Status Changes dialog box )
 
@@ -63,3 +67,11 @@ Finally select the status that will show when the trigger condition is activated
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2024-04-19 at 2.03.26 PM.png" alt=""><figcaption></figcaption></figure>
 
 Click the Green Checkmark to save thee Status Change and click Close to leave the Status Changes window.
+
+***
+
+### <mark style="color:blue;">Automation Tips</mark>
+
+- The inactivity scheduler is resilient: missed runs are caught up during the next execution, and running it multiple times per day will not duplicate transitions.
+- Manual overrides are respected. If you move a subscription into a different status manually, automation will only act again when the subscription returns to a status that has an active trigger.
+- Review the **Status History** panel after enabling new automation to confirm transitions are occurring as expected.
