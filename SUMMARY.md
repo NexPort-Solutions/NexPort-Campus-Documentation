@@ -296,6 +296,7 @@
   * [My Events (Admin)](administrator-documentation/administrator-reference/my-events-admin.md)
   * [MathJax Reference](administrator-documentation/administrator-reference/mathjax-reference.md)
   * [Supported Language and Culture Codes](administrator-documentation/administrator-reference/supported-language-and-culture-codes.md)
+  * [Identity Provider Connectors](administrator-documentation/administrator-reference/identity-provider-connectors.md)
 * [FAQs](administrator-documentation/faqs.md)
 * [Glossary (Admin)](administrator-documentation/glossary-admin.md)
 
