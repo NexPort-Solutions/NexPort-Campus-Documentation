@@ -30,4 +30,10 @@ The NexPort Campus Administrator manages campus, users, invoice, and reports.
 
 > **Invoice Management:** Manages and creates invoices that control access to instructional content.
 
+{% content-ref url="tenant-management/" %}
+[tenant-management](tenant-management/)
+{% endcontent-ref %}
+
+> **Tenant Management:** Manages tenant profiles, billing contexts, and entitlements that span one or more organizations.
+
 #### © NexPort Solutions.  All Rights Reserved.
