@@ -12,3 +12,7 @@ NexPort can act as an **OpenID Connect (OIDC) Identity Provider** so external cl
 - Rotate secrets safely.
 - Understand claims and token lifetimes.
 - Troubleshoot common issues.
+
+## Client Type Support
+
+NexPort currently supports **confidential clients only**. Public-client (PKCE-only) applications are not supported yet.

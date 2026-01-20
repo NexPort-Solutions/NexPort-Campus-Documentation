@@ -27,6 +27,10 @@ NexPort validates required fields at save time and reports any missing or invali
 > Note
 > Secrets are never displayed after save. Re-enter the secret to update it.
 
+## Client Type Support
+
+External identity providers are currently supported as **confidential clients only**. Public-client (PKCE-only) configurations are not supported yet.
+
 ## Automation Notes
 
 If the provider was installed through a connector, some fields may be locked or pre-filled. Use the connector configuration when you need to update automation-driven values.
