@@ -31,5 +31,18 @@ Use the steps below to diagnose the most common identity provider issues.
 2. Update the provider configuration in NexPort.
 3. Save and re-validate.
 
+## Pre-Enable Security Review Blocks Registration
+
+1. Run the **Pre-Enable Security Review** again from the wizard.
+2. Resolve each failing checklist item on the provider configuration.
+3. If connector checks fail, confirm connector type, enabled status, and active secret status.
+4. Retry registration after blocking checklist items are resolved.
+
+## Rollback During Sign-In Incident
+
+1. Disable the provider from the **Installed** tab to stop new external sign-ins.
+2. Validate fallback sign-in for support/admin accounts.
+3. Review the latest validation/troubleshooting messages, correct configuration, and re-enable only after successful review.
+
 > Tip
 > Review audit logs for configuration changes and enable/disable events.

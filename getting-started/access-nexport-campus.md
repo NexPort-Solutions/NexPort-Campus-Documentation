@@ -25,6 +25,16 @@ _<mark style="color:red;">You need access credentials (username and password) wi
 _<mark style="color:blue;">You can select the</mark>_ _<mark style="color:blue;">**Stay Signed In**</mark>_ _<mark style="color:blue;">check box to log on to NexPort Campus automatically instead of typing these details every time you access this.</mark>_
 {% endhint %}
 
+## Sign In with an External Provider
+
+If your organization uses external sign-in (for example, Google or Microsoft Entra ID), use the organization sign-in option shown on your campus login page.
+
+- Select the correct organization sign-in option.
+- Complete the provider prompts.
+- Return to NexPort Campus after authorization.
+
+For troubleshooting and connected-app guidance, see [External Sign-In and Connected Apps](external-sign-in-and-connected-apps.md).
+
 ## Sign Out from NexPort Campus <a href="#log2" id="log2"></a>
 
 You must sign out from NexPort Campus to close the current session.

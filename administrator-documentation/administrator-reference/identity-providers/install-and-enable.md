@@ -24,6 +24,7 @@ Use the **Identity Providers** tool in Manage Campus to install and enable exter
    - Copy the **redirect URI(s)** displayed by NexPort.
    - Register those redirect URIs with the provider.
    - Enter the provider credentials and required settings.
+   - Run the **Pre-Enable Security Review** step and resolve any blocking failures.
 6. Select **Save** to install the provider.
 
 > Tip
@@ -38,8 +39,19 @@ Before enabling a provider for production users, complete the [Security Review C
 3. Use the **Enabled** toggle to enable or disable it.
 4. Save changes.
 
+If NexPort blocks enable, use the **Review** action on the provider card to see checklist issues and required remediation.
+
 > Tip
 > Disable a provider to temporarily block sign-ins without removing configuration.
+
+## Rollback Guidance
+
+Use this sequence when an external sign-in rollout causes unexpected user impact:
+
+1. Disable the affected provider in the **Installed** tab.
+2. Confirm users can still sign in using the approved fallback sign-in method.
+3. Review the provider **Troubleshooting** page and validation results.
+4. Correct configuration, rerun review/validation, and re-enable only after checks pass.
 
 ## When You Need a Connector (System Operators)
 

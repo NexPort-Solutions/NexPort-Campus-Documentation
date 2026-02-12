@@ -27,6 +27,7 @@ Use this checklist before you turn on an external identity provider for your org
 
 ## Validation and Monitoring
 
+- Run the wizard **Pre-Enable Security Review** and confirm all required checks are **Pass** before requesting production enablement.
 - Run **Validate** (or **Validate All**) and confirm provider health is **Healthy**.
 - Confirm health message is clear and has no unresolved warnings.
 - Confirm sign-in failures are visible in observability tools for your support team.

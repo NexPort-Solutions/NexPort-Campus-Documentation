@@ -49,6 +49,17 @@ Customer Service emails might be moving to the <mark style="color:blue;">**Spam*
 * Gmail can store emails in the **Spam** folder because of the reputation of sender or the content of the email. The emails are stored in the **Spam** folder and are deleted after 30 days. You should visit the **Spam** folder regularly. If you see an email that is not spam, select it and click **Not Spam**. This ensures that the email is moved **Inbox** folder. You can also manage the incoming emails using **Filters**. You can create a new filter for NexPort email address and check **Never send it to Spam**.
 * For additional information, view the [Google support](https://support.google.com/mail#topic=7065107).
 
+## **I cannot sign in with my organization account. What should I do?**
+
+If your organization uses external sign-in (for example, Google or Microsoft Entra ID), try the following:
+
+1. Confirm you selected the correct organization sign-in option.
+2. Sign out of other provider accounts in your browser, then try again.
+3. Allow pop-ups for the sign-in page and retry authorization.
+4. If access remains denied, contact your organization administrator.
+
+For details, see [External Sign-In and Connected Apps](../../getting-started/external-sign-in-and-connected-apps.md).
+
 ## **What should I do as I cannot hear a video?**
 
 If you are facing issues pertaining to audio of a video then you can try followings things to troubleshoot:
