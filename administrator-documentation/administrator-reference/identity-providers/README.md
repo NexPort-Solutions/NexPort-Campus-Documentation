@@ -14,11 +14,14 @@ Use this section to connect **external identity providers** (IdPs) such as Googl
 
 - Install and enable external providers.
 - Configure provider options for each provider type.
+- Configure claim mappings and preview claim payloads.
 - Define allow/deny rules based on identity claims.
+- Complete a security review checklist before enabling production sign-in.
 - Monitor provider health and validation status.
 - Troubleshoot common configuration issues.
 
 ## Related Topics
 
+- [Security Review Checklist (Before Enable)](security-review-checklist.md)
 - [NexPort as an Identity Provider (OpenID)](../openid-provider/README.md)
 - [Connectors (System Operators)](connectors.md)

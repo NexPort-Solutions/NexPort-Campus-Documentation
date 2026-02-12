@@ -31,6 +31,8 @@ Use the **Identity Providers** tool in Manage Campus to install and enable exter
 
 ## Enable or Disable a Provider
 
+Before enabling a provider for production users, complete the [Security Review Checklist (Before Enable)](security-review-checklist.md).
+
 1. Open the **Installed** tab.
 2. Locate the provider card.
 3. Use the **Enabled** toggle to enable or disable it.

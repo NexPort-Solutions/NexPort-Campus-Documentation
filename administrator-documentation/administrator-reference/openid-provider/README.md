@@ -12,6 +12,7 @@ NexPort can act as an **OpenID Connect (OIDC) Identity Provider** so external cl
 - Rotate secrets safely.
 - Understand claims and token lifetimes.
 - Troubleshoot common issues.
+- Configure NexPort Marketplace SSO applications.
 
 ## Client Type Support
 
