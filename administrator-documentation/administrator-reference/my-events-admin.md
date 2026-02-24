@@ -1,33 +1,41 @@
 ---
-cover: ../../.gitbook/assets/Untitled-1-01.png
+description: Admins can view personal and organization calendars, create and manage events, invitations, and meetings. The Calendar is permission‑scoped and updates in real time.
+cover: ../../../../nexport-user-docs-assets/cover-calendar.png
 coverY: 0
 ---
 
 # My Events (Admin)
 
-You are here: My Events
+## Overview
+Admins can view personal and organization calendars in a single scheduler. Events and actions are governed by your permissions.
 
-## My Events <a href="#kanchor8" id="kanchor8"></a>
+## Manage Calendars
+1) Open Manage Calendars (left slide‑out).
+2) Search for organization calendars you manage and Pin them.
+3) Toggle Include descendants to display events for the selected organization and its children.
 
-Event calendar displays the NexMeeting meetings that you have been invited to.
+## Create and Edit Events
+1) Choose the destination calendar (organization) first.
+2) Enter title, date/time, All‑day, and description.
+3) For online meetings, select an available NCS server (Zoom). Presenter can be selected in the Meeting tab.
 
-### Use the calendar
+## Invitations
+- Add/remove invitees (users, groups, subscriptions) using search.
+- Resend invitations and view worker status messages.
+- Permissions determine whether you can view or modify invitees.
 
-The calendar on your **My Events** page provides information about your upcoming events. To quickly look for the listed events, you can navigate the calendar, either on the current date or any date by using one of the several calendar views (week, month, or year).
+## Meeting
+- Select a presenter and access presenter/attendee join links.
+- Zoom is the current online meeting provider; “rooms” are not used.
 
-#### View the event calendar
+## Real‑Time Updates
+If another user modifies the event while it’s open, a banner offers:
+- Reload event to update the editor with changes.
+- Continue editing to keep current content.
 
-You can open one of the following calendar views of the listed meetings.
+## Recordings and Chat
+- Availability appears in the Summary panel when enabled for attendees.
+- Download links are shown when recordings or chat transcripts are available.
 
-| Icon or button                                                                                                                                              | Action or description                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| <img src="https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Today.png" alt="" data-size="original">           | Resets the active calendar view back to the current date.              |
-| ![](../../.gitbook/assets/Day.png)                                                                                                                          | Displays a single list of all events that occur on the selected date.  |
-| ![](../../.gitbook/assets/Week.png)                                                                                                                         | Displays a list of scheduled events for each day of the selected week. |
-| <img src="https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Month.png" alt="" data-size="original">           | Displays all scheduled events for each day of the selected month.      |
-| <img src="https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Previous_button.png" alt="" data-size="original"> | Click this button to navigate to the previous date, week, or month.    |
-| <img src="https://www.nexportcampus.com/Content/Guides/aweb/Content/Resources/Images/Common_Screens_Icons/Next_button.png" alt="" data-size="original">     | Click this button to navigate to the next date, week, or month.        |
+© NexPort Solutions 2025. All Rights Reserved.
 
-![Related Topics Link Icon](../../.gitbook/assets/void.png)Related Topics
-
-© NexPort Solutions 2017. All Rights Reserved.

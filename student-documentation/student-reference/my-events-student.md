@@ -1,26 +1,40 @@
 ---
-description: Event calendar displays the NexMeeting meetings that you have been invited to.
-cover: ../../.gitbook/assets/Untitled-1-01.png
+description: The Calendar shows your personal events and any organization calendars you’ve pinned. It supports real‑time updates and an adaptive, mobile‑friendly UI.
+cover: ../../../../nexport-user-docs-assets/cover-calendar.png
 coverY: 0
 ---
 
 # My Events (Student)
 
-## Use the calendar
+## Overview
+The Calendar on your My Events page shows:
+- Personal events: items you created or to which you were invited.
+- Organization calendars: optional calendars you pin from organizations you belong to.
 
-The calendar on your <mark style="color:blue;">**My Events**</mark> page provides information about your upcoming events. To quickly look for the listed events, you can navigate the calendar, either on the current date or any date by using one of the several calendar views (week, month, or year).
+It’s responsive, supports Day/Week/Month views, and updates in real time when others make changes.
 
-## View the event calendar
+## Navigate the Calendar
+- Today: jump to the current date.
+- Views: Day, Week, Month.
+- Navigate: Previous/Next arrows move the visible range.
 
-You can open one of the following calendar views of the listed meetings.
+## Manage Calendars (Pinning Organization Calendars)
+1) Open Manage Calendars (left slide‑out).
+2) Search by organization name and Pin to add it to your view.
+3) Optionally enable Include descendants to show events from an organization and its child orgs.
 
-| Icon or button                                                                                                                                              | Action or description                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![](/.gitbook/assets/Today.png)                                            | Resets the active calendar view back to the current date.              |
-| ![](/.gitbook/assets/Day.png)                                              | Displays a single list of all events that occur on the selected date.  |
-| ![](/.gitbook/assets/Week.png)                                             | Displays a list of scheduled events for each day of the selected week. |
-| <img src="https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common_Screens_Icons/Month.png" alt="" data-size="original">           | Displays all scheduled events for each day of the selected month.      |
-| <img src="https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common_Screens_Icons/Previous_button.png" alt="" data-size="original"> | Click this button to navigate to the previous date, week, or month.    |
-| <img src="https://www.nexportcampus.com/Content/Guides/sweb/Content/Resources/Images/Common_Screens_Icons/Next_button.png" alt="" data-size="original">     | Click this button to navigate to the next date, week, or month.        |
+## View Events
+- Click an event to open details; double‑click a time slot to create one (if you have permission).
+- For online meetings, a Join button appears before the start time.
 
-#### &#x20;© NexPort Solutions 2022. All Rights Reserved.
+## Real‑Time Updates
+If someone updates an event while you’re viewing it, a banner appears:
+- Reload event: pulls the latest changes into the editor.
+- Continue editing: keeps your current view without closing the editor.
+
+## Accessibility
+- Keyboard navigation works across the calendar and editor tabs.
+- Focus indicators and tab order follow platform standards.
+
+© NexPort Solutions 2025. All Rights Reserved.
+

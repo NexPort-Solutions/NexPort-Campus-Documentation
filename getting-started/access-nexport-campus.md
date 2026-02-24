@@ -68,4 +68,9 @@ Step 4: When the I Forgot My Password page is displayed type your username in th
 _<mark style="color:red;">A notification is sent to your email ID with a link to reset your password. This link is valid only for the</mark>_ _<mark style="color:red;">**next 24 hours**</mark><mark style="color:red;">.</mark>_ _<mark style="color:red;">\*\*\*\*</mark>_ _<mark style="color:red;">When you change your password, the temporary password is no longer active. If you again forget your password,</mark>_ _<mark style="color:red;">**you must repeat the above process**</mark><mark style="color:red;">.</mark>_
 {% endhint %}
 
+## Password Policy and Expired Passwords
+
+Depending on your organization settings, you may be required to use specific password rules (for example minimum length, character rules, rotation, and password history checks).  
+See [Password Policy Requirements and Expiration](password-policy-requirements-and-expiration.md).
+
 #### © NexPort Solutions. All Rights Reserved.
