@@ -71,6 +71,10 @@ Operational Notes
 Contribution Workflow
 
 - One topic per PR; keep diffs small and focused.
+- Branch policy: `gitbook` contains the current production end-user docs. Use
+  an exact version-named branch, such as `7.0.0` or `7.1.0`, for docs that
+  accompany an unreleased version. Promote those docs to `gitbook` only when
+  the version reaches production and the merge is separately authorized.
 - Validate Markdown renders correctly in GitBook (headings, lists, links, images).
 - If adding images, compress and keep widths reasonable (≤1200px preferred) and store under `/assets/`.
 - Update `/SUMMARY.md` alongside any new page.
