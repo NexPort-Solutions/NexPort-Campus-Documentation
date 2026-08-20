@@ -181,6 +181,7 @@
         * [View and Manage Owned Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/view-and-manage-owned-courseware.md)
         * [View Available Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/view-available-courseware.md)
         * [Upload Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/upload-courseware.md)
+        * [Troubleshoot Rise SCORM 2004 Updates](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/troubleshoot-rise-scorm-2004-updates.md)
         * [Delete a Courseware](administrator-documentation/administrator-reference/campus-management/organization-tools/courseware/delete-a-courseware.md)
       * [Question Banks](administrator-documentation/administrator-reference/campus-management/organization-tools/question-banks/README.md)
         * [Add a Question Bank](administrator-documentation/administrator-reference/campus-management/organization-tools/question-banks/add-a-question-bank.md)

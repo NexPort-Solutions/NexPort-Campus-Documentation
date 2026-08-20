@@ -109,5 +109,11 @@ By default, the **Use Async API** option is enabled when uploading a course crea
 
 This setting enhances compatibility with Articulate-authored SCORM 2004 courses, especially in review mode.
 
-</details>
+## Updating Articulate Rise Courseware
 
+Before replacing an Articulate Rise SCORM 2004 package that active learners
+have started, test whether the updated package can resume the existing learner
+data. See [Troubleshoot Rise SCORM 2004 Updates](../administrator-reference/campus-management/organization-tools/courseware/troubleshoot-rise-scorm-2004-updates.md)
+for the diagnostic and release process.
+
+</details>
