@@ -305,9 +305,9 @@
 
 * [Campus WebAPI](developer-documentation/campus-webapi/README.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
